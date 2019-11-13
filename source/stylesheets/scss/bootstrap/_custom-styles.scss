@@ -1,0 +1,492 @@
+// Add additional styles here. For example, overwrite certain styles or add new components.
+// Tip: You can use bootstrap's powerful mixins here!
+//.alert-myalert {
+//  @include alert-variant(#60667d, #1d1d1d, #f4fdff);
+//}
+//@each $color, $value in $theme-colors {
+//  .alert-#{$color} {
+//    box-shadow: 3px 3px theme-color-level($color, -3);
+//  }
+//}
+
+@import url('//fonts.googleapis.com/css?family=Open+Sans:300, 400,700&display=swap');
+
+@mixin open_sans {
+	font-family: 'Open Sans', sans-serif;
+}
+
+// ***** TYPOGRAPHY
+h1,
+.h1 {
+	font-size: 48px;
+}
+
+h2,
+.h2 {
+	font-size: 40px;
+}
+
+h3,
+.h3 {
+	font-size: 32px;
+}
+
+h4,
+.h4 {
+	font-size: 28px;
+}
+
+h5,
+.h5 {
+	font-size: 24px;
+}
+
+h6,
+.h6 {
+	font-size: 22px;
+}
+
+body {
+	font-size: 16px;
+	@include open_sans;
+}
+
+.large {
+	font-size: 20px;
+}
+
+.body-2 {
+	font-size: 14px;
+}
+
+.small {
+	font-size: 13px;
+}
+
+.x-small {
+	font-size: 12px;
+}
+
+figcaption,
+.figure-caption {
+	font-size: 10px;
+	text-transform: uppercase;
+}
+
+.text-secondary {
+	color: $primary-2 !important;
+}
+
+.text-tertiary {
+	color: $secondary !important;
+}
+
+.text-gray {
+	color: $gray-700;
+}
+
+
+// ***** ALERTS
+.alert {
+	color: $black;
+	padding-right: 50px;
+
+	.close {
+		font-weight: 300;
+		position: absolute;
+		top: 14px;
+		right: 14px;
+		opacity: 1;
+		width: 20px;
+		height: 20px;
+
+		span {
+			display: block;
+			width: 100%;
+			height: 100%;
+			line-height: 16px;
+			text-align: center;
+		}
+	}
+
+	&:before {
+		display: inline-block;
+		width: 20px;
+		height: 20px;
+		margin-right: 5px;
+		vertical-align: middle;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center;
+		position: absolute;
+		top: 14px;
+		left: 20px;
+	}
+	$alertTypes: ('info', 'warning', 'success', 'danger');
+	@each $type in $alertTypes {
+		&-#{$type} {
+			background-color: map-get($alert-colors, #{$type});
+			border-color: map-get($alert-colors, #{$type});
+			padding-left: 50px;
+
+			&:before {
+				content: "";
+				background-image: url("./custom-icons/#{$type}.svg");
+			}
+		}
+	}
+}
+
+// ***** BUTTONS
+.btn {
+	//border-radius: 0.2rem;
+	padding: 0.4rem 1rem;
+	font-weight: 700;
+
+	&.btn-sm {
+		border-radius: 0;
+	}
+
+	&-white {
+		background: $white;
+		border-color: $white;
+		color: $primary;
+
+		&:hover {
+			color: darken($primary, 7.5%);
+		}
+	}
+}
+
+// ***** ICONS
+// using open-iconic icons: https://useiconic.com/open/
+.btn .oi {
+	font-size: .8em;
+	margin: 0 2px;
+}
+
+// ***** LINKS
+a .oi {
+	font-size: .7em;
+	color: $primary-4;
+}
+
+
+// ***** DROPDOWN
+.dropdown-item {
+	position: relative;
+	padding: 0.4rem 1.5rem;
+
+	&:hover {
+		background: $gray-200;
+	}
+
+	&.active,
+	&:active {
+		background: $gray-300;
+		color: #000;
+
+		&:before {
+			content: "";
+			width: 3px;
+			height: 100%;
+			display: block;
+			position: absolute;
+			left: 0px;
+			top: 0px;
+			background: $primary-2;
+		}
+	}
+
+	.oi {
+		margin: 0 5px;
+		color: $primary-2;
+		font-size: 22px;
+	}
+
+	&.disabled {
+		opacity: 0.6;
+	}
+}
+
+.dropdown-header {
+	text-transform: uppercase;
+	color: $gray-800;
+	font-size: 0.6em;
+}
+
+.dropdown-divider {
+	margin: 0.25rem 0;
+}
+
+// ***** Form Elements
+input[type=checkbox] {
+	appearance: none;
+	width: 22px;
+	height: 22px;
+	border-radius: 0.2em;
+	border: 1px solid $gray-700;
+	vertical-align: middle;
+	margin-top: -0.5em;
+	background-repeat: no-repeat;
+	background-position: center;
+
+	&:checked {
+		background-color: $primary-2;
+		background-image: url(./custom-icons/checkmark.svg);
+	}
+}
+
+.pagination {
+	border: none;
+
+	.page-item {
+		margin: 0 3px;
+
+		.page-link {
+			border-radius: 50%;
+			width: 30px;
+			height: 30px;
+		}
+
+		> a,
+		> span {
+			border: none;
+			border-radius: 50%;
+			color: $primary-2;
+			padding: 0.3rem 0.6rem;
+		}
+
+		&.disabled {
+
+			a,
+			span {
+				color: $gray-500;
+			}
+		}
+	}
+}
+
+
+.modal {
+
+	&-header {
+		border-bottom: 0;
+		position: relative;
+
+		button.close {
+			top: 20px;
+	    right: 30px;
+		}
+	}
+
+	&-footer {
+		border: none;
+
+		&.bg-light {
+			background: $modal-footer-color;
+		}
+
+		&.text-center {
+			justify-content: center;
+
+			.btn {
+				display: inline-block;
+				float: none;
+			}
+		}
+	}
+
+	.modal-dialog.modal-sm {
+
+		.modal-footer {
+			flex-flow: column;
+
+			.btn {
+				width: 100%;
+				margin: 0 0 10px 0;
+			}
+		}
+	}
+}
+
+// ***** TOASTS
+.toast {
+
+	&-header {
+		border: none;
+		position: relative;
+		color: $black;
+		flex-flow: column;
+		justify-content: flex-start;
+		align-items: flex-start;
+		text-align: left;
+		padding-left: 50px;
+		padding-top: 14px;
+		padding-right: 40px;
+
+		small {
+			color: $gray-700;
+		}
+
+		&:before {
+			content: "";
+			display: inline-block;
+			width: 20px;
+			height: 20px;
+			margin-right: 5px;
+			vertical-align: middle;
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-position: center;
+			position: absolute;
+			top: 14px;
+			left: 20px;
+			background-image: url("./custom-icons/success.svg");
+		}
+	}
+
+	&-body {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+}
+
+// ***** CLOSE BUTTONS
+.alert,
+.toast,
+.modal {
+	.close {
+		font-weight: 300;
+		position: absolute;
+		top: 14px;
+		right: 14px;
+		opacity: 1;
+		width: 20px;
+		height: 20px;
+		color: $gray-700;
+
+		span {
+			display: block;
+			width: 100%;
+			height: 100%;
+			line-height: 16px;
+			text-align: center;
+		}
+	}
+}
+
+
+// ***** TOOLTIPS
+.tooltip {
+
+	&-inner {
+		background: $primary-2;
+		border-radius: 0.2em;
+		font-size: 16px;
+		padding: 8px 10px;
+	}
+
+	&.bs-tooltip-top {
+		.arrow::before {
+			border-top-color: $primary-2;
+		}
+	}
+
+	&.bs-tooltip-bottom {
+		.arrow::before {
+			border-bottom-color: $primary-2;
+		}
+	}
+
+	&.bs-tooltip-left {
+		.arrow::before {
+			border-left-color: $primary-2;
+		}
+	}
+
+	&.bs-tooltip-right {
+		.arrow::before {
+			border-right-color: $primary-2;
+		}
+	}
+}
+
+
+// ***** ACCORDIONS
+#accordion {
+
+	.card {
+		border: none;
+
+		.card-header {
+			background: $white;
+			border-bottom: 1px solid $primary;
+			position: relative;
+			padding-right: 50px;
+
+			.btn {
+				padding: 0;
+				text-decoration: none;
+
+				.oi {
+					color: $primary;
+					position: absolute;
+					top: 20px;
+					right: 20px;
+					transform: rotate(180deg);
+				}
+
+				&.collapsed {
+
+					.oi {
+						transform: rotate(0);
+					}
+				}
+			}
+		}
+	}
+}
+
+
+// ***** FORM INPUTS
+form {
+
+	.form-group {
+
+	}
+
+	label {
+		display: inline-block;
+		font-size: 12px;
+		margin-bottom: 0;
+		color: $gray-800;
+	}
+
+	input:not([type=checkbox]),
+	select,
+	.custom-select {
+		appearance: none;
+		background: #fff;
+		border: none;
+		border-bottom: 2px solid $gray-300;
+		color: $black;
+		opacity: 1;
+		font-size: 16px;
+		padding-left: 0;
+		padding-top: 0;
+
+		&:focus {
+			border-bottom-color: $gray-800;
+			color: $black;
+		}
+	}
+
+	select,
+	.custom-select {
+		position: relative;
+		background-image: url(../custom-icons/select-menu-arrow.svg);
+		background-position: center right 20px;
+		background-repeat: no-repeat;
+	}
+}

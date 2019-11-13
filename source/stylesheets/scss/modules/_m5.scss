@@ -1,0 +1,45 @@
+.m5 {
+    padding: {
+        top: 95px;
+        bottom: 95px;
+    }
+
+    .intro {
+        margin-bottom: 60px;
+    }
+
+    .card {
+        border: 0;
+        margin-bottom: 25px;
+
+        h3 {
+            @include font-size(16px);
+        }
+
+        .card-body {
+            padding: 25px 0 0;
+        }
+
+        a.link {
+            font-weight: 700;
+            @include font-size(14px);
+        }
+
+        @include media-breakpoint-up(lg) {
+            margin-bottom: 0;
+
+            h3 {
+                @include font-size(18px);
+                margin-bottom: 3px;
+            }
+        }
+    }
+
+    @include media-breakpoint-down(sm) {
+        padding: {
+            top: 40px;
+            bottom: 40px;
+        }
+    }
+
+}

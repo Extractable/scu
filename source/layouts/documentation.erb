@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title><%= current_page.data.title || "Extractable Project Starter" %></title>
+    <%= partial "/partials/head" %>
+
+    <!-- Documentation ONLY Styles -->
+    <%= stylesheet_link_tag "documentation" %>
+</head>
+<body class="documentation">
+
+    <!-- Doc Header -->
+    <div class="doc_header">
+        <div class="doc_logo">
+            <a href="/"><img src="/images/logo-scu.png" alt="SchoolsFirst Federal Credit Union"></a>
+        </div>
+    </div>
+
+    <!-- Main -->
+    <main role="main">
+        <%= yield %>
+    </main>
+
+    <!-- Doc Footer -->
+    <div class="doc_footer">
+        &copy;2019 Extractable.  All Rights Reserved.
+    </div>
+
+
+</body>
+</html>

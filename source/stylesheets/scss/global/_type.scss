@@ -1,0 +1,26 @@
+h1, .h1 {
+
+}
+h2, .h2 {
+    @include font-size(28px);
+    color: $primary-2;
+    font-weight: 300;
+}
+h3, .h3 {
+    @include font-size(18px);
+    color: $primary-2;
+    font-weight: 700;
+}
+h4, .h4 {
+
+}
+h5, .h5 {
+
+}
+
+@include media-breakpoint-down(sm) {
+    h2 {
+        @include font-size(22px);
+        font-weight: 400;
+    }
+}

@@ -1,0 +1,70 @@
+// Overwrite Bootstrap's variables here
+// You can find them in node_modules/bootstrap/scss/_variables.scss
+
+// ***** BUTTONS
+$border-radius: 0px;
+
+// ***** COLORS
+// primary
+$primary: #AF5607;
+$primary-2: #3B6E8F;
+$primary-3: #000000;
+$primary-4: #b15606;
+
+// secondary
+$secondary: #2D4452;
+$secondary-2: #B8860B;
+$sedonary-3: #2D4A45;
+
+// tertiary
+$tertiary: #F3F4F4;
+$tertiary-2: #9F7509;
+$tertiary-3: #8CAE99;
+$tertiary-4: #6D6D6D;
+
+// grays
+$gray-100: #F8FBFE;
+$gray-200: #F1F6FB;
+$gray-300: #E9EFF4;
+$gray-400: #DDE4E9;
+$gray-500: #CCD3D8;
+$gray-600: #B3B8BD;
+$gray-700: #8C9194;
+$gray-800: #55585A;
+$gray-900: #111112;
+$black: #000;
+
+//Borders
+$border-blue: #a8b5c1;
+
+$border-gold: #a77b0d;
+
+//Backgrounds
+$background-green: #2d4a45;
+$background-gray: #f3f4f4;
+$background-darkblue: #3b6e8f;
+
+// $danger
+$danger: #A61C23;
+$danger-2: #910F0F;
+
+// modals
+$modal-footer-color: #EEEEEE;
+
+// system support
+$system-support: #F1BE3C;
+$system-support-2: #BA293A;
+$system-support-3: #1971C2;
+$system-support-4: #00884B;
+
+$success: $system-support-4;
+$info: $system-support-3;
+$warning: $system-support-2;
+
+ // ***** ALERTS
+$alert-colors: (
+    info: #DAE8F2,
+	warning: #FCF5E1,
+	success: #D9EDE4,
+	danger: #F4DFE1
+);

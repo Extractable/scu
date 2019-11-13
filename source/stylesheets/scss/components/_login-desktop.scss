@@ -1,0 +1,82 @@
+.login_container {
+    width: 100%;
+    position: absolute;
+    left: 25px;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 10;
+
+    @include make-container();
+    width: $maxwidth;
+    pointer-events: none;
+
+    display: flex;
+    align-items: center;
+}
+
+.login_desktop {
+    background: $background-darkblue;
+    width: 330px;
+
+    pointer-events: auto;
+
+    @include media-breakpoint-down(md) {
+        display: none;
+    }
+
+    .login_desktop_header {
+        font-weight: 700;
+        color: $white;
+        @include font-size(20px);
+        padding: 20px;
+    }
+
+    .login_controls {
+        background: #2d4452;
+        padding: 20px;
+
+        .form-group {
+            margin-bottom: 15px;
+            label {
+                display: block;
+                color: $white;
+                padding-bottom: 8px;
+                @include font-size(14px);
+            }
+            input[type=text],
+            input[type=password],
+            input[type=number] {
+                display: block;
+                width: 100%;
+                height: 36px;
+                border: 0;
+                text-indent: 5px;
+                margin-bottom: 2px;
+            }
+
+            .help_link {
+                color: #b9c7d4;
+                @include font-size(11px);
+                text-transform: uppercase;
+            }
+        }
+    }
+
+    .login_links {
+        padding: 20px;
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            li {
+                border-bottom: 1px solid rgba($white, 0.3);
+                padding: 5px 0;
+                a {
+                    color: $white;
+                    @include font-size(12px);
+                }
+            }
+        }
+    }
+}

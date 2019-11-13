@@ -1,0 +1,29 @@
+<ul class="skip-links">
+	<li>
+		<a class="skip-link" href="#nav">Skip to navigation</a>
+	</li>
+	<li>
+		<a class="skip-link" href="#memberID">Skip to online banking login</a>
+	</li>
+	<li>
+		<a class="skip-link" href="#main">Skip to main content</a>
+	</li>
+</ul>
+
+<!-- JavaScript -->
+<script type="text/javascript">
+    $(function() {
+        /**
+         * Skip Links Focus
+         */
+        (function() {
+            let skip = $('.skip-link');
+
+            $(skip).on('click', function() {
+                let skipLink = $(this).attr('href');
+                skipLink = skipLink.substring(1, skipLink.length);
+                $("#" + skipLink).focus();
+            });
+        }());
+    });
+</script>

@@ -1,0 +1,92 @@
+.m4 {
+    padding: {
+        top: 95px;
+        bottom: 95px;
+    }
+
+    .intro {
+        margin-bottom: 60px;
+    }
+
+    .card {
+        border: 1px solid $border-blue;
+        position: relative;
+        height: 100%;
+
+        &:before {
+            content: '';
+            width: 100%;
+            height: 8px;
+            background: $border-gold;
+
+            position: absolute;
+            top: -1px;
+            left: 0;
+            right: 0;
+        }
+
+        .card-body {
+            padding: 40px 20px 60px 110px;
+            position: relative;
+        }
+
+        .icon {
+            width: 80px;
+            height: 80px;
+            position: absolute;
+            left: 20px;
+            top: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            img {
+                max-width: 60px;
+                max-height: 60px;
+            }
+        }
+
+        h3 {
+            @include font-size(16px);
+        }
+
+        p {
+            @include font-size(15px);
+        }
+
+        a.link {
+            font-weight: 700;
+            @include font-size(14px);
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            span {
+                font-weight: 300;
+            }
+        }
+
+        @include media-breakpoint-up(lg) {
+            margin-bottom: 0;
+
+            h3 {
+                @include font-size(18px);
+                margin-bottom: 3px;
+            }
+        }
+    }
+
+    [class*='col-'] {
+        padding-bottom: 30px;
+    }
+
+    @include media-breakpoint-down(sm) {
+        padding: {
+            top: 40px;
+            bottom: 40px;
+        }
+
+        .intro {
+            margin-bottom: 0;
+        }
+    }
+
+}

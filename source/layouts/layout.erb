@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+    <head>
+        <!-- Global Head -->
+        <%= partial "/partials/_head" %>
+    </head>
+
+    <body>
+        <!-- Skip Links -->
+        <%= partial "/modules/_skip-links" %>
+
+        <!-- Global Header -->
+        <%= partial "/partials/_header" %>
+
+        <!-- Site Layouts / Modules -->
+        <div id="main">
+            <%= yield %>    
+        </div>
+
+        <!-- Global Footer -->
+        <%= partial "/partials/_footer" %>
+
+        <!-- Footer Scripts -->
+        <%= partial "/partials/_foot" %>
+    </body>
+</html>

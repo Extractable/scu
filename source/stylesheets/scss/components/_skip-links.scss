@@ -1,0 +1,23 @@
+ul.skip-links {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	position: relative;
+	li {
+        margin: 0;
+		a {
+			position: absolute;
+			top: -4em;
+			background: $secondary;
+			color: $white;
+			padding: 20px;
+			text-decoration: none;
+            width: 100%;
+            text-align: center;
+			&:focus {
+				top: 0;
+				z-index: 25000;
+			}
+		}
+	}
+}

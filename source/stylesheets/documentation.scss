@@ -1,0 +1,265 @@
+$color_doc_toolbar: #ededee;
+$color_doc_border: lightgrey;
+$color_doc_site_background: #fafafa;
+$color_doc_darkgray: #333;
+$color_blue: #0090da;
+$color_back_bar: #58595b;
+$color_codewrap_border: #f00000;
+$white: #FFF;
+$light: 300;
+$normal: 400;
+// ----- Handle Media Queries ----- //
+@mixin respond-to($viewport-width) {
+	@media only screen and (min-width: $viewport-width) {
+		@content;
+	}
+}
+@mixin respond-at($viewport-width) {
+	@media only screen and (max-width: $viewport-width) {
+		@content;
+	}
+}
+@mixin respond-width($min-viewport-width, $max-viewport-width) {
+	@media only screen and (min-width: $min-viewport-width) and (max-width: $max-viewport-width) {
+		@content;
+	}
+}
+@mixin respond-at-height($viewport-height) {
+	@media screen and (max-height: $viewport-height) {
+		@content;
+	}
+}
+@mixin respond-to-height($viewport-height) {
+	@media screen and (min-height: $viewport-height) {
+		@content;
+	}
+}
+@mixin respond-exact($viewport-width, $viewport-height) {
+	@media screen and (device-width: $viewport-width) and (device-height: $viewport-height) {
+		@content;
+	}
+}
+
+@import 'scss/helpers/_mixin';
+.documentation {
+    background: $white;
+    padding-top: 0 !important;
+
+    .doc_back_bar {
+        background: $color_back_bar;
+        text-transform: uppercase;
+        color: #ccc;
+        text-align: right;
+        padding: 10px 50px;
+        @include font-size(14px);
+        a {
+            color: lightgrey;
+            text-decoration: none;
+        }
+        @include respond-at(640px) {
+            text-align: center;
+        }
+    }
+    .doc_header {
+        width: 100%;
+        display: table;
+        background: $color_doc_toolbar;
+        border-bottom: 1px solid $color_blue;
+        border-left: 5px solid $color_blue;
+        border-right: 5px solid $color_blue;
+    }
+    .doc_logo {
+        display: table-cell;
+        width: 250px;
+        padding: 15px 30px;
+        background: #FFF;
+        text-align: center;
+        text-align: left;
+        img {
+            width: 100%;
+            max-width: 240px;
+        }
+    }
+    @include respond-at(640px) {
+        .doc_logo,
+        .doc_title {
+            display: block;
+            width: 100%;
+            text-align: center;
+            padding-left: 0;
+            padding-right: 0;
+        }
+    }
+    .doc_container {
+        margin: 0 auto;
+        width: 100%;
+        max-width: 1024px;
+    }
+    .doc_intro {
+        width: 100%;
+        padding: 50px 50px 20px 50px;
+        @include font-size(16px);
+        font-weight: 300;
+        border-left: 5px solid $color_blue;
+        border-right: 5px solid $color_blue;
+        background: $color_doc_site_background;
+        text-align: left;
+        h1 {
+            color: $color_doc_darkgray;
+            margin: 0 0 20px 0;
+            padding: 0;
+            @include font-size(34px);
+            font-weight: $light;
+            line-height: 34px;
+        }
+        h2 {
+            color: $color_doc_darkgray;
+            margin: 0 0 20px 0;
+            padding: 0;
+            @include font-size(24px);
+            font-weight: $light;
+            line-height: 28px;
+        }
+        p {
+            margin: 0 0 20px 0;
+            @include font-size(18px);
+        }
+        ul {
+            list-style: square;
+            margin-left: 0;
+            padding-left: 20px;
+            li {
+                margin-bottom: 5px;
+            }
+        }
+        strong {
+            font-weight: $normal;
+        }
+    }
+    .doc_body {
+        width: 100%;
+        border-top: 5px solid $color_codewrap_border;
+        border-bottom: 5px solid $color_codewrap_border;
+        padding: 50px;
+        @include clearfix;
+        .container {
+            margin: 0;
+        }
+        .doc_list {
+            text-align: left;
+            border-right: 1px solid $color_blue;
+
+            &:last-child {
+            	border-right: 0;
+            }
+
+            @include respond-at(767px) {
+            	border-right: 0;
+            }
+        }
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            &:last-child {
+                border-right: 0;
+            }
+            li {
+                margin-bottom: 10px;
+                &.title {
+                    margin-bottom: 20px;
+                    font-weight: $light;
+                    @include font-size(20px);
+                    text-transform: uppercase;
+                    &:after {
+                        content: '';
+                        width: 100px;
+                        height: 1px;
+                        background: #ccc;
+                        display: block;
+                        margin-top: 15px;
+                    }
+                }
+                a {
+                    text-decoration: none;
+                }
+                span {
+                    text-transform: uppercase;
+                    display: block;
+                    @include clearfix;
+                    padding-top: 10px;
+                    &:before {
+                        content: '';
+                        width: 50px;
+                        height: 1px;
+                        background: #ccc;
+                        display: block;
+                        margin-bottom: 15px;
+                    }
+                }
+                ul {
+                    margin-top: 10px;
+                    margin-left: 20px;
+                }
+            }
+        }
+
+    }
+    .doc_footer {
+        width: 100%;
+        padding: 20px 20px 20px 55px;
+        background: $white;
+        text-align: left;
+        color: $color_blue;
+        @include font-size(12px);
+        font-weight: 300;
+        border-top: 1px solid $color_blue;
+    }
+    .show_code {
+        border-left: 5px solid $color_blue;
+        border-right: 5px solid $color_blue;
+        padding: 15px 10px 15px 50px;
+        color: $color_blue;
+        text-transform: uppercase;
+        @include font-size(14px);
+        font-weight: 300;
+        cursor: pointer;
+        text-align: left;
+        position: relative;
+        z-index: 100;
+    }
+    .code_base {
+        display: none;
+        text-align: left;
+        a.select_code {
+            color: #f7f7f7;
+            @include font-size(14px);
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+    }
+    .code_wrap {
+        width: 100%;
+        @include clearfix;
+        border-top: 5px solid $color_codewrap_border;
+        border-bottom: 5px solid $color_codewrap_border;
+    }
+}
+
+
+/*------------------------------------*\
+    Code / Syntax Highlight
+\*------------------------------------*/
+
+.syntax-highlight {
+    padding: 20px 50px;
+    clear: both;
+    z-index: 1;
+    position: relative;
+
+    pre {
+    	background: none;
+    	color: #fff;
+    	border: 0;
+    }
+}

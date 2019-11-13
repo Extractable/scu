@@ -1,0 +1,329 @@
+.m2 {
+    padding: {
+        top: 75px;
+        bottom: 75px;
+    }
+    min-height: 400px;
+
+    .news_info,
+    .latest_rates {
+        h2 {
+            font-weight: 400;
+            @include font-size(28px);
+        }
+    }
+
+    .news_info {
+        margin-bottom: 40px;
+        h2 {
+            margin-bottom: 40px;
+        }
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            border-top: 1px solid #b9c7d4;
+            li {
+                border-bottom: 1px solid #b9c7d4;
+                a {
+                    display: inline-block;
+                    font-weight: 700;
+                    padding: {
+                        top: 20px;
+                        bottom: 20px;
+                    }
+                }
+            }
+        }
+
+        @include media-breakpoint-up(xl) {
+            margin-bottom: 40px;
+        }
+    }
+
+    @include media-breakpoint-down(sm) {
+        .news_info {
+            h2 {
+                @include font-size(18px);
+                margin-bottom: 20px;
+            }
+        }
+    }
+
+    .latest_rates {
+        .latest_rates_header {
+            display: flex;
+            align-items: flex-end;
+
+            width: 100%;
+            margin-bottom: 40px;
+            div {
+                width: 50%;
+            }
+
+            div:nth-child(2n) {
+                text-align: right;
+            }
+
+            h2 {
+                margin-bottom: 0;
+            }
+
+            a {
+                font-weight: 700;
+                @include font-size(14px);
+            }
+        }
+
+        @include media-breakpoint-down(md) {
+            .latest_rates_header {
+                border: solid #b9c7d4;
+                border-width: 1px 1px 0 1px;
+                background: $white;
+                padding: 20px 25px;
+                margin-bottom: 0;
+
+                flex-direction: column;
+                justify-content: flex-start;
+                div {
+                    width: 100%;
+                    &:nth-child(2) {
+                        text-align: left;
+                    }
+                }
+
+                h2 {
+                    margin-bottom: 5px;
+                }
+            }
+        }
+
+        @include media-breakpoint-down(sm) {
+            .latest_rates_header {
+
+                h2 {
+                    @include font-size(18px);
+                }
+            }
+        }
+    }
+
+    //Tabs
+    .nav-tabs {
+        display: none;
+    }
+
+    .card-header {
+        background: $white;
+        padding: 0;
+        border: 0;
+        a {
+            padding: 20px 25px;
+            border: 0;
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+
+            .name {
+                display: flex;
+                align-items: center;
+                padding-right: 15px;
+                .icon {
+                    width: 28px;
+                    height: 28px;
+                }
+                span {
+                    padding-left: 10px;
+                    font-weight: 700;
+                    color: $secondary;
+                }
+            }
+            .rate {
+                color: $primary-2;
+                @include font-size(16px);
+                span {
+                    font-weight: 700;
+                    color: #597d5d;
+                    @include font-size(18px);
+                    sup {
+                        @include font-size(14px);
+                        top: -4px;
+                        padding-left: 2px;
+                    }
+                }
+            }
+
+            @include media-breakpoint-down(xs) {
+                flex-direction: column;
+                align-items: flex-start;
+                .rate {
+                    padding-left: 35px;
+                }
+            }
+
+        }
+    }
+
+    .card-body {
+        display: flex;
+        align-items: center;
+        padding: 0 0 7px 0;
+        margin-top: -1px;
+        z-index: 5;
+        position: relative;
+
+        .card-body-content {
+            width: 60%;
+            padding: 45px 55px;
+
+            p {
+                @include font-size(15px);
+            }
+        }
+
+        .card-body-links {
+            width: 40%;
+            border-left: 1px solid #b9c7d4;
+            padding: 10px 55px;
+
+            ul {
+                margin: 0;
+                padding: 0;
+                list-style: none;
+                li {
+                    display: block;
+                    margin-bottom: 15px;
+                    &:last-child {
+                        margin-bottom: 0;
+                    }
+                    a.link {
+                        font-size: 14px;
+                        font-weight: 700;
+                    }
+                }
+            }
+        }
+
+        @include media-breakpoint-down(md) {
+            .card-body-content,
+            .card-body-links {
+                width: 50%;
+                padding: {
+                    left: 30px;
+                    right: 30px;
+                }
+            }
+        }
+
+        @include media-breakpoint-down(sm) {
+            flex-direction: column;
+            padding-bottom: 20px;
+            .card-body-content,
+            .card-body-links {
+                width: 100%;
+                padding: 0 30px;
+                border: 0;
+            }
+        }
+    }
+
+    //Desktop Tabs
+    @include media-breakpoint-up(lg) {
+        .nav-tabs {
+            display: flex;
+            border: solid #95a2ad;
+            border-width: 1px 1px 1px 1px;
+            z-index: 10;
+            position: relative;
+
+            .nav-item {
+                flex: 1;
+                border-right: 1px solid #95a2ad;
+                &:last-child {
+                    border-right: 0;
+                }
+            }
+
+            .nav-link {
+                padding: 20px 40px;
+                background: $white;
+                height: 100%;
+                border-bottom: 1px solid #95a2ad;
+                &.active {;
+                    border-top: #FFF transparent;
+                    border-width: 1px 0 0 0;
+                }
+
+                .tab_top {
+                    display: flex;
+                    align-items: center;
+
+                    @include font-size(14px);
+                    color: #2d4452;
+                    font-weight: 700;
+                    padding-bottom: 5px;
+                    .icon {
+                        width: 28px;
+                        height: 28px;
+                        margin-right: 10px;
+                    }
+                }
+
+                .tab_bottom {
+                    @include font-size(14px);
+                    color: #3b6e8f;
+                    span {
+                        @include font-size(28px);
+                        color: #597d5d;
+                        font-weight: 700;
+                        sup {
+                            @include font-size(18px);
+                        }
+                    }
+                }
+            }
+        }
+
+        .card {
+            border: none;
+        }
+
+        .card .card-header {
+            display: none;
+        }
+
+        .card-body {
+            border: solid #95a2ad;
+            border-width: 1px 1px 1px 1px;
+        }
+
+        .card .collapse {
+            display: block;
+        }
+    }
+
+    @include media-breakpoint-down(md) {
+        .tab-pane {
+            display: block !important;
+            opacity: 1;
+            margin-bottom: -1px;
+
+            .collapse {
+                .card-body {
+                    border: 0;
+                }
+                &.show {
+                    .card-body {
+                        border: 0;
+                    }
+                }
+            }
+        }
+
+        .tab-content {
+            background: $white;
+        }
+
+
+    }
+}
