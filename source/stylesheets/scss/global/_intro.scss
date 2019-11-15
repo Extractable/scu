@@ -8,5 +8,8 @@
     a {
         @include font-size(14px);
         font-weight: 700;
+        .oi {
+            color: $primary-4;
+        }
     }
 }

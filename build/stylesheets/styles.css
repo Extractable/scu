@@ -7865,7 +7865,7 @@ figcaption,
 
 a .oi {
   font-size: .7em;
-  color: #b15606; }
+  color: #fff; }
 
 .dropdown-item {
   position: relative;
@@ -8214,6 +8214,8 @@ body {
     font-size: 14px;
     font-size: 0.875rem;
     font-weight: 700; }
+    .intro a .oi {
+      color: #b15606; }
 
 header {
   height: 110px;
@@ -8372,6 +8374,8 @@ footer {
       margin-bottom: 0; }
     .m1 .m1sub_content a.link {
       font-weight: 700; }
+      .m1 .m1sub_content a.link .oi {
+        color: #b15606; }
     .m1 .m1sub_content > div:first-of-type {
       padding-right: 15px; }
     .m1 .m1sub_content > div:last-of-type {
@@ -8525,8 +8529,12 @@ footer {
         .m2 .news_info ul li a {
           display: inline-block;
           font-weight: 700;
+          font-size: 14px;
+          font-size: 0.875rem;
           padding-top: 20px;
           padding-bottom: 20px; }
+          .m2 .news_info ul li a .oi {
+            color: #b15606; }
     @media (min-width: 1240px) {
       .m2 .news_info {
         margin-bottom: 40px; } }
@@ -8550,6 +8558,8 @@ footer {
       font-weight: 700;
       font-size: 14px;
       font-size: 0.875rem; }
+      .m2 .latest_rates .latest_rates_header a .oi {
+        color: #b15606; }
   @media (max-width: 991.98px) {
     .m2 .latest_rates .latest_rates_header {
       border: solid #b9c7d4;
@@ -8592,6 +8602,19 @@ footer {
           padding-left: 10px;
           font-weight: 700;
           color: #2D4452; }
+          .m2 .card-header a .name span .oi {
+            color: #b15606;
+            padding-left: 5px;
+            padding-right: 5px;
+            position: relative;
+            margin-top: -3px;
+            font-size: 14px;
+            font-size: 0.875rem;
+            -ms-transform: rotate(180deg);
+            /* IE 9 */
+            -webkit-transform: rotate(180deg);
+            /* Chrome, Safari, Opera */
+            transform: rotate(180deg); }
       .m2 .card-header a .rate {
         color: #3B6E8F;
         font-size: 16px;
@@ -8606,6 +8629,19 @@ footer {
             font-size: 0.875rem;
             top: -4px;
             padding-left: 2px; }
+      .m2 .card-header a.collapsed .name span span.oi {
+        color: #b15606;
+        padding-left: 5px;
+        padding-right: 5px;
+        position: relative;
+        margin-top: -3px;
+        font-size: 14px;
+        font-size: 0.875rem;
+        -ms-transform: rotate(0deg);
+        /* IE 9 */
+        -webkit-transform: rotate(0deg);
+        /* Chrome, Safari, Opera */
+        transform: rotate(0deg); }
       @media (max-width: 575.98px) {
         .m2 .card-header a {
           flex-direction: column;
@@ -8669,13 +8705,10 @@ footer {
         .m2 .nav-tabs .nav-item:last-child {
           border-right: 0; }
       .m2 .nav-tabs .nav-link {
-        padding: 20px 40px;
+        padding: 20px 35px;
         background: #fff;
         height: 100%;
         border-bottom: 1px solid #95a2ad; }
-        .m2 .nav-tabs .nav-link.active {
-          border-top: #FFF transparent;
-          border-width: 1px 0 0 0; }
         .m2 .nav-tabs .nav-link .tab_top {
           display: flex;
           align-items: center;
@@ -8688,6 +8721,30 @@ footer {
             width: 28px;
             height: 28px;
             margin-right: 10px; }
+          .m2 .nav-tabs .nav-link .tab_top span {
+            display: inline; }
+          .m2 .nav-tabs .nav-link .tab_top .oi {
+            padding-right: 4px;
+            padding-left: 4px;
+            position: relative;
+            margin-top: -3px;
+            font-size: 14px;
+            font-size: 0.875rem;
+            color: #b15606; }
+        .m2 .nav-tabs .nav-link.active {
+          border-bottom: 1px solid #FFF; }
+          .m2 .nav-tabs .nav-link.active .tab_top .oi {
+            padding-right: 4px;
+            padding-left: 4px;
+            position: relative;
+            margin-top: -3px;
+            -ms-transform: rotate(180deg);
+            /* IE 9 */
+            -webkit-transform: rotate(180deg);
+            /* Chrome, Safari, Opera */
+            transform: rotate(180deg);
+            font-size: 14px;
+            font-size: 0.875rem; }
         .m2 .nav-tabs .nav-link .tab_bottom {
           font-size: 14px;
           font-size: 0.875rem;
@@ -8763,7 +8820,7 @@ footer {
   padding-top: 95px;
   padding-bottom: 95px; }
   .m4 .intro {
-    margin-bottom: 60px; }
+    margin-bottom: 40px; }
   .m4 .card {
     border: 1px solid #a8b5c1;
     position: relative;
@@ -8806,7 +8863,8 @@ footer {
       bottom: 20px;
       right: 20px; }
       .m4 .card a.link span {
-        font-weight: 300; }
+        font-weight: 300;
+        color: #b15606; }
     @media (min-width: 992px) {
       .m4 .card {
         margin-bottom: 0; }
@@ -8840,6 +8898,8 @@ footer {
       font-weight: 700;
       font-size: 14px;
       font-size: 0.875rem; }
+      .m5 .card a.link .oi {
+        color: #b15606; }
     @media (min-width: 992px) {
       .m5 .card {
         margin-bottom: 0; }

@@ -28,9 +28,13 @@
                 a {
                     display: inline-block;
                     font-weight: 700;
+                    @include font-size(14px);
                     padding: {
                         top: 20px;
                         bottom: 20px;
+                    }
+                    .oi {
+                        color: $primary-4;
                     }
                 }
             }
@@ -72,6 +76,9 @@
             a {
                 font-weight: 700;
                 @include font-size(14px);
+                .oi {
+                    color: $primary-4;
+                }
             }
         }
 
@@ -136,6 +143,15 @@
                     padding-left: 10px;
                     font-weight: 700;
                     color: $secondary;
+                    .oi {
+                        color: $primary-4;
+                        padding-left: 5px;
+                        padding-right: 5px;
+                        position: relative;
+                        margin-top: -3px;
+                        @include font-size(14px);
+                        @include rotate(180deg);
+                    }
                 }
             }
             .rate {
@@ -149,6 +165,22 @@
                         @include font-size(14px);
                         top: -4px;
                         padding-left: 2px;
+                    }
+                }
+            }
+
+            &.collapsed {
+                .name {
+                    span {
+                        span.oi {
+                            color: $primary-4;
+                            padding-left: 5px;
+                            padding-right: 5px;
+                            position: relative;
+                            margin-top: -3px;
+                            @include font-size(14px);
+                            @include rotate(0deg);
+                        }
                     }
                 }
             }
@@ -245,14 +277,11 @@
             }
 
             .nav-link {
-                padding: 20px 40px;
+                padding: 20px 35px;
                 background: $white;
                 height: 100%;
                 border-bottom: 1px solid #95a2ad;
-                &.active {;
-                    border-top: #FFF transparent;
-                    border-width: 1px 0 0 0;
-                }
+
 
                 .tab_top {
                     display: flex;
@@ -266,6 +295,36 @@
                         width: 28px;
                         height: 28px;
                         margin-right: 10px;
+                    }
+
+                    span {
+                        display: inline;
+                    }
+
+                    .oi {
+                        padding-right: 4px;
+                        padding-left: 4px;
+                        position: relative;
+                        margin-top: -3px;
+                        @include font-size(14px);
+                        color: $primary-4;
+                    }
+                }
+
+                &.active {;
+                    border-bottom: 1px solid #FFF;
+                    //border-top: #FFF transparent;
+                    //border-width: 1px 0 0 0;
+
+                    .tab_top {
+                        .oi {
+                            padding-right: 4px;
+                            padding-left: 4px;
+                            position: relative;
+                            margin-top: -3px;
+                            @include rotate(180deg);
+                            @include font-size(14px);
+                        }
                     }
                 }
 

@@ -23,6 +23,9 @@
         a.link {
             font-weight: 700;
             @include font-size(14px);
+            .oi {
+                color: $primary-4;
+            }
         }
 
         @include media-breakpoint-up(lg) {
