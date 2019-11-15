@@ -59,6 +59,9 @@
                 color: #b9c7d4;
                 @include font-size(11px);
                 text-transform: uppercase;
+                .oi {
+                    color: $primary-5;
+                }
             }
         }
     }
@@ -75,6 +78,9 @@
                 a {
                     color: $white;
                     @include font-size(12px);
+                    .oi {
+                        color: $primary-5;
+                    }
                 }
             }
         }

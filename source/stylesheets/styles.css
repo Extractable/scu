@@ -8141,6 +8141,8 @@ ol.carousel-indicators li {
         font-size: 11px;
         font-size: 0.6875rem;
         text-transform: uppercase; }
+        .login_desktop .login_controls .form-group .help_link .oi {
+          color: #b78521; }
   .login_desktop .login_links {
     padding: 20px; }
     .login_desktop .login_links ul {
@@ -8154,6 +8156,8 @@ ol.carousel-indicators li {
           color: #fff;
           font-size: 12px;
           font-size: 0.75rem; }
+          .login_desktop .login_links ul li a .oi {
+            color: #b78521; }
 
 ul.skip-links {
   margin: 0;
