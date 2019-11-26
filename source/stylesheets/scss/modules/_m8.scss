@@ -1,0 +1,81 @@
+.m8 {
+    position: relative;
+    padding-bottom: 40px;
+
+    @include font-size(15px);
+
+    &:first-of-type {
+        padding-top: 70px;
+
+        &:before {
+            content: '';
+            width: 100%;
+            height: 8px;
+            background: $secondary-2;
+
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+    }
+
+    h2, .h2 {
+        font-weight: 400;
+        margin-bottom: 25px;
+    }
+
+    h3, .h3 {
+        margin-bottom: 10px;
+        display: flex;
+        align-items: center;
+        border: 1px solid transparent;
+    }
+
+    .icon {
+        width: 36px;
+        margin-right: 10px;
+    }
+
+    p {
+        line-height: 1.7em;
+    }
+
+    a.link {
+        font-weight: 600;
+        @include font-size(14px);
+        span {
+            color: $primary;
+            font-weight: 300;
+        }
+    }
+
+    hr {
+        margin: 0 0 30px 0;
+        padding: 0;
+        width: 100%;
+        height: 4px;
+        border: 0;
+        background: $secondary-2;
+    }
+
+    ul, ol {
+        margin-bottom: 20px;
+        padding-left: 18px;
+        li {
+            margin-bottom: 5px;
+
+        }
+    }
+
+    ul {
+        list-style: none;
+        li::before {
+            content: "\2022";
+            color: $primary-2;
+            font-weight: bold;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+    }
+}

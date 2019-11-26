@@ -1,0 +1,30 @@
+.g3 {
+    background: $breadcrumb-bg;
+    padding: {
+        top: 5px;
+        bottom: 5px;
+    }
+
+    ol {
+        margin: 0;
+
+        li.breadcrumb-item {
+            @include font-size(11px);
+            line-height: 1.0em;
+            text-transform: uppercase;
+            a {
+                color: $white;
+            }
+            &.active {
+                color: $breadcrumb-link;
+            }
+        }
+
+        li.breadcrumb-item + .breadcrumb-item::before {
+            display: inline-block;
+            padding-right: 0.5rem;
+            content: url('/images/svg/chevron-right-white.svg');
+
+        }
+    }
+}

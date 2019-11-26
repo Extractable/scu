@@ -1,5 +1,7 @@
 h1, .h1 {
-
+    @include font-size(42px);
+    font-weight: 300;
+    color: $black;
 }
 h2, .h2 {
     @include font-size(28px);
@@ -18,7 +20,18 @@ h5, .h5 {
 
 }
 
+@include media-breakpoint-down(md) {
+    h1 {
+        @include font-size(30px);
+        font-weight: 300;
+    }
+}
+
 @include media-breakpoint-down(sm) {
+    h1 {
+        @include font-size(22px);
+        font-weight: 300;
+    }
     h2 {
         @include font-size(22px);
         font-weight: 400;

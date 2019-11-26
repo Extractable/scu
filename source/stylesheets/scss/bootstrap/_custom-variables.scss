@@ -37,7 +37,7 @@ $black: #000;
 
 //Borders
 $border-blue: #a8b5c1;
-
+$border-gray: #b9c7d4;
 $border-gold: #a77b0d;
 
 //Backgrounds
@@ -69,3 +69,7 @@ $alert-colors: (
 	success: #D9EDE4,
 	danger: #F4DFE1
 );
+
+//Custom (Module Specific)
+$breadcrumb-bg: #2d4452;
+$breadcrumb-link: #fbb034;

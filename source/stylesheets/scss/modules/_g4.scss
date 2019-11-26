@@ -1,0 +1,20 @@
+.g4 {
+    background: $primary-2;
+    padding: {
+        top: 40px;
+        bottom: 40px;
+    }
+
+    .container,
+    .row {
+        height: 100%;
+    }
+
+    h1 {
+        color: $white;
+        font-weight: 300;
+    }
+
+    
+
+}
