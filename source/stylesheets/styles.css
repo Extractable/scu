@@ -8342,6 +8342,9 @@ footer {
       display: inline-block;
       padding-right: 0.5rem;
       content: url("/images/svg/chevron-right-white.svg"); }
+  @media (max-width: 767.98px) {
+    .g3 {
+      display: none; } }
 
 .g4 {
   background: #3B6E8F;
