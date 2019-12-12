@@ -1,0 +1,66 @@
+.m14 {
+
+    table.wait_times {
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 40px;
+
+        caption {
+            caption-side: top;
+        }
+
+        th, td {
+            width: 50%;
+            padding: {
+                left: 20px;
+                right: 20px;
+            }
+        }
+
+        th {
+            @include font-size(24px);
+            line-height: 1.2em;
+            text-transform: uppercase;
+            color: $primary-2;
+            border-bottom: 1px solid $border-gray;
+            font-weight: 400;
+            vertical-align: bottom;
+            padding: {
+                bottom: 20px;
+            }
+        }
+
+        td {
+            border-bottom: 1px solid $border-gray;
+            font-weight: 700;
+            padding: {
+                top: 12px;
+                bottom: 12px;
+            }
+            &.branch {
+                color: $primary;
+            }
+            span {
+                color: $secondary-3;
+                font-weight: 400;
+            }
+        }
+
+        @include media-breakpoint-down(md) {
+            th {
+                @include font-size(22px);
+            }
+            th:first-child,
+            td:first-child {
+                text-align: right;
+            }
+        }
+
+        @include media-breakpoint-down(xs) {
+            th {
+                @include font-size(14px);
+                font-weight: 700;
+            }
+        }
+    }
+}

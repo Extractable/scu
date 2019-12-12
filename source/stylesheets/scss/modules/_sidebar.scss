@@ -1,4 +1,33 @@
+.aside {
+    @media screen and (max-width: 350px) {
+        padding: {
+            left: 0;
+            right: 0;
+        }
+    }
+}
+
 .sidebar {
     padding-top: 70px;
-    //border: 1px solid hotpink;
+
+    @include media-breakpoint-down(md) {
+        padding-top: 0;
+    }
+
+    .sb {
+        margin-bottom: 40px;
+        background: $white;
+    }
+
+    /*
+    @media screen and (max-width: 350px) {
+        margin: {
+            left: -15px;
+            right: -15px;
+        }
+        .photo {
+            border: 2px solid orange;
+        }
+    }
+    */
 }
