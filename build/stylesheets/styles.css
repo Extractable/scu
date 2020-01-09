@@ -9372,6 +9372,257 @@ footer {
       .m9 ul.list li:last-child:after {
         display: none; }
 
+.m12 {
+  padding: 40px 0;
+  background: #fff; }
+  .m12 h1, .m12 .h1 {
+    color: #3B6E8F;
+    font-weight: 300;
+    font-size: 36px;
+    font-size: 2.25rem; }
+  .m12 h2, .m12 .h2 {
+    color: #3B6E8F;
+    font-weight: 300;
+    font-size: 24px;
+    font-size: 1.5rem; }
+  .m12 h3, .m12 .h3 {
+    color: #3B6E8F;
+    font-weight: 700;
+    font-size: 20px;
+    font-size: 1.25rem;
+    margin-bottom: 10px; }
+  .m12 h4, .m12 .h4 {
+    color: #000;
+    font-weight: 700;
+    font-size: 18px;
+    font-size: 1.125rem;
+    margin-bottom: 20px; }
+  .m12 p, .m12 ul, .m12 ol {
+    font-size: 14px;
+    font-size: 0.875rem; }
+  .m12 ul, .m12 ol {
+    padding-left: 20px; }
+    .m12 ul li, .m12 ol li {
+      margin-bottom: 6px; }
+  .m12 sup {
+    font-weight: 400;
+    padding-left: 3px; }
+  .m12 .intro {
+    text-align: left;
+    border-bottom: 4px solid #3B6E8F;
+    margin-bottom: 40px; }
+    .m12 .intro h1, .m12 .intro h1 {
+      margin-bottom: 25px; }
+    .m12 .intro h2, .m12 .intro .h2 {
+      margin-bottom: 40px; }
+  .m12 .rates-content {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 20px; }
+    @media (min-width: 992px) {
+      .m12 .rates-content {
+        flex: 0 0 66.66667%;
+        max-width: 66.66667%; } }
+  .m12 .rates-table {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 40px; }
+    @media (min-width: 992px) {
+      .m12 .rates-table {
+        flex: 0 0 100%;
+        max-width: 100%; } }
+    .m12 .rates-table .rates-table-content {
+      margin-top: 20px;
+      margin-bottom: 20px; }
+  .m12 .disclosures {
+    padding-top: 20px;
+    color: #595959;
+    font-size: 12px;
+    font-size: 0.75rem; }
+    @media (min-width: 992px) {
+      .m12 .disclosures {
+        flex: 0 0 66.66667%;
+        max-width: 66.66667%; } }
+    .m12 .disclosures p {
+      color: #595959;
+      font-size: 12px;
+      font-size: 0.75rem;
+      line-height: 1.8em; }
+  .m12 hr {
+    margin: 30px 0 30px 0;
+    padding: 0;
+    width: 100%;
+    height: 1px;
+    border: 0;
+    background: #3B6E8F; }
+  .m12 table {
+    border: 1px solid #979797;
+    border-top: 0;
+    width: 100%;
+    table-layout: fixed; }
+    .m12 table tbody {
+      border-top: 1px solid #979797; }
+    .m12 table tr {
+      border-bottom: 1px solid #979797; }
+      .m12 table tr:first-of-type {
+        border-bottom: 0; }
+    .m12 table th, .m12 table td {
+      font-size: 14px;
+      font-size: 0.875rem;
+      color: #000; }
+    .m12 table th {
+      padding: 12px;
+      font-weight: 400;
+      text-align: center;
+      vertical-align: middle; }
+    .m12 table td {
+      padding: 20px;
+      font-weight: 700;
+      text-align: center;
+      vertical-align: center;
+      border-right: 1px solid #979797; }
+      .m12 table td:last-child {
+        border-right: 0; }
+    .m12 table .desc {
+      font-weight: 400;
+      padding-top: 5px;
+      display: block; }
+    .m12 table p:last-of-type {
+      margin-bottom: 0; }
+    .m12 table.table-desktop caption {
+      caption-side: top; }
+    .m12 table.table-desktop th[scope=col] {
+      background: #F3F3F3; }
+    .m12 table.table-desktop th[scope=row], .m12 table.table-desktop th[scope=rowgroup] {
+      border-right: 1px solid #979797;
+      font-weight: 700; }
+    .m12 table.table-mobile thead {
+      border-top: 1px solid #979797; }
+      .m12 table.table-mobile thead th {
+        text-align: center;
+        background: #F3F3F3; }
+    .m12 table.table-mobile tr {
+      border: 0; }
+      .m12 table.table-mobile tr.center td {
+        text-align: center;
+        border-right: 0; }
+    .m12 table.table-mobile th, .m12 table.table-mobile td {
+      text-align: left;
+      vertical-align: top;
+      padding: 5px; }
+    .m12 table.table-mobile [scope=colgroup] {
+      text-align: center;
+      border-top: 1px solid #979797;
+      font-weight: 700;
+      border-bottom: 1px solid #979797; }
+    .m12 table.table-mobile [scope=row] {
+      font-weight: 300;
+      background: #fff; }
+    .m12 table.table-mobile [scope=col] {
+      text-align: center; }
+    @media (min-width: 992px) {
+      .m12 table.table-mobile {
+        display: none; } }
+    @media (max-width: 991.98px) {
+      .m12 table.table-desktop {
+        display: none; } }
+  .m12 [data-rate=table-layout-3] .table-mobile [scope=colgroup] {
+    border-bottom: 0; }
+  .m12 [data-rate=table-layout-3] .table-mobile [scope=col] {
+    vertical-align: middle; }
+  .m12 [data-rate=table-layout-3] .table-mobile .center {
+    border-bottom: 1px solid #979797; }
+  .m12 [data-rate=table-layout-4] .table-mobile [scope=col] {
+    text-align: left; }
+  .m12 [data-rate=table-layout-5] .table-mobile [scope=colgroup] {
+    border-bottom: 0;
+    padding-top: 20px; }
+  .m12 [data-rate=table-layout-5] .table-mobile [scope=col] {
+    border-bottom: 1px solid #979797; }
+  .m12 [data-rate=table-layout-5] .table-mobile td {
+    border-right: 0;
+    text-align: center;
+    border-bottom: 1px solid #979797; }
+  .m12 [data-rate=table-layout-7] .table-mobile [scope=colgroup] {
+    border-bottom: 0;
+    padding-top: 20px; }
+  .m12 [data-rate=table-layout-7] .table-mobile [scope=col] {
+    vertical-align: middle;
+    border-bottom: 1px solid #979797; }
+  .m12 [data-rate=table-layout-7] .table-mobile td {
+    text-align: center;
+    border-right: 0; }
+  .m12 [data-rate=table-layout-8] .table-desktop [scope=colgroup] {
+    background: #F3F3F3; }
+  .m12 [data-rate=table-layout-8] .table-desktop th.subRow {
+    font-weight: 400;
+    padding-top: 8px;
+    padding-bottom: 8px; }
+  .m12 [data-rate=table-layout-8] .table-desktop td.subRow {
+    padding-top: 8px;
+    padding-bottom: 8px; }
+  .m12 [data-rate=table-layout-8] .table-mobile [scope=col], .m12 [data-rate=table-layout-8] .table-mobile td {
+    text-align: left; }
+  .m12 [data-rate=table-layout-8] .table-mobile .subTitle {
+    border-top: 1px solid #979797; }
+  .m12 [data-rate=table-layout-9] .table-mobile [scope=colgroup] {
+    background: #F3F3F3; }
+  .m12 [data-rate=table-layout-9] .table-mobile .subRow {
+    text-align: center;
+    border-bottom: 1px solid #979797; }
+  .m12 [data-rate=table-layout-10] .table-mobile [scope=colgroup] {
+    background: #F3F3F3; }
+  .m12 [data-rate=table-layout-10] .table-mobile [scope=col] {
+    border-top: 1px solid #979797;
+    text-align: left;
+    padding-bottom: 0; }
+  .m12 [data-rate=table-layout-10] .table-mobile .subTitle {
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 10px; }
+  .m12 [data-rate=table-layout-11] .table-mobile [scope=colgroup] {
+    border-bottom: 0;
+    padding-bottom: 5px; }
+  .m12 [data-rate=table-layout-11] .table-mobile [scope=col] {
+    padding: 5px; }
+  .m12 [data-rate=table-layout-11] .table-mobile td {
+    border-right: 0;
+    text-align: center;
+    padding: 5px;
+    border-top: 1px solid #979797;
+    vertical-align: middle; }
+  .m12 [data-rate=table-layout-12] .table-mobile [scope=col] {
+    border-top: 1px solid #979797;
+    text-align: left;
+    padding-bottom: 0; }
+  .m12 [data-rate=table-layout-12] .table-mobile .subTitle {
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 10px; }
+  .m12 [data-rate=table-layout-13] .table-mobile [scope=col] {
+    border-top: 1px solid #979797;
+    text-align: left;
+    padding-bottom: 0; }
+  .m12 [data-rate=table-layout-13] .table-mobile th.sub {
+    font-weight: 700;
+    text-align: center;
+    padding-top: 10px;
+    border-bottom: 1px solid #979797; }
+  .m12 [data-rate=table-layout-13] .table-mobile td.sub {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px; }
+  .m12 [data-rate=table-layout-13] .table-mobile .subTitle {
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 10px; }
+  .m12 [data-rate=table-layout-13] .table-mobile td[colspan="2"] {
+    border-bottom: 1px solid #979797; }
+
 .m14 table.wait_times {
   border-collapse: collapse;
   width: 100%;
