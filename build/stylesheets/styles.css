@@ -8143,7 +8143,9 @@ ol.carousel-indicators li {
         font-size: 0.6875rem;
         text-transform: uppercase; }
         .login_desktop .login_controls .form-group .help_link .oi {
-          color: #b78521; }
+          color: #b78521;
+          position: relative;
+          top: 0; }
   .login_desktop .login_links {
     padding: 20px; }
     .login_desktop .login_links ul {
@@ -8238,7 +8240,7 @@ body {
 
 a.link span {
   position: relative;
-  top: -1px; }
+  top: 0; }
 
 .image_fit img {
   object-fit: cover;
@@ -8556,7 +8558,8 @@ footer {
     z-index: 20;
     display: block; }
     .m1.m1b .hero-message-box h1 {
-      font-weight: 200; }
+      font-weight: 200;
+      color: #fff; }
   .m1.m1b .caption {
     background: #B8860B;
     margin-top: 40px;
@@ -8800,6 +8803,8 @@ footer {
           .m2 .card-body .card-body-links ul li a.link {
             font-size: 14px;
             font-weight: 700; }
+            .m2 .card-body .card-body-links ul li a.link span {
+              color: #AF5607; }
     @media (max-width: 991.98px) {
       .m2 .card-body .card-body-content,
       .m2 .card-body .card-body-links {
