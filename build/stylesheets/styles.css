@@ -7861,7 +7861,8 @@ figcaption,
 
 .btn .oi {
   font-size: .8em;
-  margin: 0 2px; }
+  margin: 0 2px;
+  top: 0; }
 
 a .oi {
   font-size: .7em;
@@ -8159,7 +8160,8 @@ ol.carousel-indicators li {
           color: #fff;
           font-size: 12px;
           font-size: 0.75rem; }
-          .login_desktop .login_links ul li a .oi {
+          .login_desktop .login_links ul li a span {
+            top: 0;
             color: #b78521; }
 
 ul.skip-links {

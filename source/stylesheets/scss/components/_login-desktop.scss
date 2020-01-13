@@ -80,7 +80,8 @@
                 a {
                     color: $white;
                     @include font-size(12px);
-                    .oi {
+                    span {
+                        top: 0;
                         color: $primary-5;
                     }
                 }
