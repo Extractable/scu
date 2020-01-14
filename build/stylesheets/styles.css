@@ -7862,11 +7862,13 @@ figcaption,
 .btn .oi {
   font-size: .8em;
   margin: 0 2px;
-  top: 0; }
+  top: 0.5px;
+  line-height: 1.5; }
 
 a .oi {
   font-size: .7em;
-  color: #fff; }
+  color: #fff;
+  top: 0; }
 
 .dropdown-item {
   position: relative;

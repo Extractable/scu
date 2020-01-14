@@ -139,7 +139,6 @@ figcaption,
 
 // ***** BUTTONS
 .btn {
-	//border-radius: 0.2rem;
 	padding: 0.4rem 1rem;
 	font-weight: 700;
 
@@ -163,7 +162,8 @@ figcaption,
 .btn .oi {
 	font-size: .8em;
 	margin: 0 2px;
-	top: 0;
+	top: 0.5px;
+	line-height: 1.5;
 }
 
 // ***** LINKS
@@ -171,6 +171,7 @@ a .oi {
 	font-size: .7em;
 	//color: $primary-4;
 	color: $white;
+	top:0;
 }
 
 
