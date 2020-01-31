@@ -13,4 +13,17 @@ $(function() {
             }
         });
     }
+
+    /**
+     * Form Masking
+     */
+    $('.js-phone-mask').mask('(999) 999-9999');
+    $('.js-zip-mask').mask("99999");
+
+    //Reset Form(s)
+    $('.reset').on('click', function(e) {
+        var form = $(this).closest('form');
+        $(form)[0].reset();
+        e.preventDefault();
+    });
 });

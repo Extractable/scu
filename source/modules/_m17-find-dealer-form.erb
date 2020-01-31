@@ -1,0 +1,131 @@
+<div class="m17">
+    <h2>
+        FIND A DEALER
+        <span class="required">Fields marked with an asterisk <span>*</span> are required</span>
+    </h2>
+    <hr>
+
+    <div class="form">
+
+        <form action="">
+            <div class="form-group">
+                <div>
+                    <label for="state">Select Make<span>*</span></label>
+                    <select id="state" aria-required="true" class="js-validate">
+						<option value=""></option>
+						<option value="1">Topic 1</option>
+						<option value="1">Topic 2</option>
+						<option value="1">Topic 3</option>
+						<option value="1">Topic 4</option>
+						<option value="1">Topic 5</option>
+						<option value="1">Topic 6</option>
+					</select>
+                    <div class="form-error" id="state-error" tabindex="-1">
+    					Please enter select a make.
+    				</div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label for="zip">Zip</label>
+                    <input type="text" id="zip" autocomplete="off" class="js-optional js-zip js-zip-mask">
+                    <div class="form-error" id="zip-state-error" tabindex="-1">
+    					Please enter a valid Zip or City
+    				</div>
+                </div>
+                <div class="pick-one">OR</div>
+                <div>
+                    <label for="city">City</label>
+                    <input type="text" id="city" autocomplete="off" class="js-optional js-city">
+                </div>
+            </div>
+            <div class="form-action">
+                <a href="#" class="reset form-cancel" aria-label="Clear form fields">Cancel</a>
+                <button type="button" class="btn btn-primary" id="searchDealers">
+                    Submit <span class="oi oi-chevron-right" title="icon chevron-right" aria-hidden="true"></span>
+                </button>
+            </div>
+        </form>
+
+        <script>
+            $(function() {
+                $('#searchDealers').on('click', function(e) {
+                    let form = $(this).closest('form');
+
+                    let isValid = true;
+
+                    //Clear all errors on click
+                    //$('.form-error', form).hide();
+                    $('.js-validate', form).attr('aria-invalid', 'false');
+
+                    //Validate Fields
+                    $('.js-validate', form).each(function() {
+                        if($.trim($(this).val()) == ''){
+                            var $thisId = $(this).attr('id');
+                            isValid = false;
+
+                            $(this).prev().addClass('has-error');
+                            $(this).next().show();
+                            $(this).attr({
+                                'aria-invalid' : 'true',
+                                'aria-describedby' : $thisId + '-error'
+                            });
+                        } else {
+                            $(this).prev().removeClass('has-error');
+                            $(this).next().hide();
+                            $(this).attr({
+                                'aria-invalid' : 'false',
+                                'aria-describedby' : ''
+                            });
+                        }
+                    });
+
+                    //Optional Fields
+                    let optionalCheck = true;
+                    $('.js-optional').each(function() {
+                        let zipCheck = true;
+                        let cityCheck = true;
+                        //Check Zip
+                        if($.trim($('.js-zip').val()) == '') {
+                            zipCheck = false;
+                        }
+                        //Check City
+                        if($.trim($('.js-city').val()) == '') {
+                            cityCheck = false;
+                        }
+
+                        if( zipCheck == false && cityCheck == false ) {
+                            optionalCheck = false;
+
+                            $('#zip-state-error').show();
+                            $('.js-zip').prev().addClass('has-error');
+                            $('.js-city').prev().addClass('has-error');
+                            $(this).attr({
+                                'aria-invalid' : 'true',
+                                'aria-describedby' : 'zip-state-error'
+                            });
+                        }else {
+                            $('#zip-state-error').hide();
+                            $('.js-zip').prev().removeClass('has-error');
+                            $('.js-city').prev().removeClass('has-error');
+                            $(this).attr({
+                                'aria-invalid' : 'false',
+                                'aria-describedby' : ''
+                            });
+                        }
+                    });
+
+                    //Submit the data OR jump to first error
+                    if ( isValid == false || optionalCheck == false ) {
+                        $('[aria-invalid="true"]:first', form).focus();
+                        e.preventDefault();
+                    } else {
+                        //Allow form to be submitted
+                    }
+
+                });
+            });
+        </script>
+
+    </div>
+</div>

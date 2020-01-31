@@ -26,6 +26,10 @@ a.link {
     }
 }
 
+.hidden {
+    display: none !important;
+}
+
 .image_fit {
     img {
         object-fit: cover;

@@ -20,8 +20,10 @@ Version: 1.0
 @import 'scss/bootstrap/_bootstrap-custom';
 
 //Components
+//@import url("bootstrap-datepicker.css");
 @import 'scss/components/_login-desktop';
 @import 'scss/components/_skip-links';
+@import 'scss/components/_forms';
 
 //Global
 @import 'scss/global/_type';
@@ -50,6 +52,7 @@ Version: 1.0
 @import 'scss/modules/_m12';
 
 @import 'scss/modules/_m14';
+@import 'scss/modules/_m17';
 
 //Sidebars
 @import 'scss/modules/_sidebar';
