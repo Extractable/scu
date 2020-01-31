@@ -161,7 +161,8 @@
     <div class="m17">
     <h2>
         REQUEST A DONATION
-        <span class="required">Fields marked with an asterisk <span>*</span> are required</span>
+        <div class="div"></div>
+        <div class="required">Fields marked with an asterisk <span>*</span> are required</div>
     </h2>
     <hr>
 
@@ -177,7 +178,7 @@
                     <div class="form-error" id="contact_name-error" tabindex="-1">
     					Contact name is required
     				</div>
-                </div>
+                </di
                 <div class="form-element">
                     <label for="contact_org">Contact Organization<span>*</span></label>
                     <input type="text" id="contact_org" autocomplete="off" aria-required="true" class="js-validate">
@@ -376,8 +377,9 @@
 
             <div class="form-action">
                 <a href="#" class="reset form-cancel" aria-label="Clear form fields">Cancel</a>
+                <div class="div"></div>
                 <button type="button" class="btn btn-primary" id="donationRequest">
-                    Submit <span class="oi oi-chevron-right" title="icon chevron-right" aria-hidden="true"></span>
+                    SUBMIT <span class="oi oi-chevron-right" title="icon chevron-right" aria-hidden="true"></span>
                 </button>
             </div>
         </form>
@@ -439,7 +441,7 @@
                 if( validEmail == false  || $('.js-email', form).val() == '' ) {
                     $(emailField).prev().addClass('has-error');
                     $(emailField).next().show();
-                    $('#email').addClass('has-error').attr({
+                    $('#org_email').addClass('has-error').attr({
                         'aria-invalid' : 'true',
                         'aria-describedby' : 'email-error'
                     });
@@ -447,7 +449,7 @@
                 } else {
                     $(emailField).prev().removeClass('has-error');
                     $(emailField).next().hide();
-                    $('#email').removeClass('has-error').attr({
+                    $('#org_email').removeClass('has-error').attr({
                         'aria-invalid' : 'false',
                         'aria-describedby' : ''
                     });

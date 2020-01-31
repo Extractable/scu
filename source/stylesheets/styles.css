@@ -8214,6 +8214,9 @@ ul.skip-links {
   font-size: 15px;
   font-size: 0.9375rem; }
 
+.form form [aria-invalid="true"] {
+  border: 1px solid #A61C23 !important; }
+
 .form form input[type=file] {
   border: 0;
   border-bottom: 1px solid #b9c7d4;
@@ -8267,19 +8270,18 @@ ul.skip-links {
   display: flex;
   align-items: center;
   justify-content: flex-end; }
+  .form form .form-action .div {
+    width: 1px;
+    height: 39px;
+    background: #b9c7d4; }
+  .form form .form-action button {
+    margin-left: 20px; }
 
 .form form a.form-cancel {
   text-transform: uppercase;
   font-weight: 700;
   margin-right: 20px;
-  padding-right: 20px;
   position: relative; }
-  .form form a.form-cancel:after {
-    content: "|";
-    position: absolute;
-    right: 0;
-    top: 50%;
-    transform: translateY(-50%); }
 
 .checkbox,
 .radio {
@@ -9861,36 +9863,30 @@ footer {
 
 .m17 {
   margin-bottom: 40px; }
-  .m17 h2 span.required {
+  .m17 h2 .required {
     font-style: italic;
-    font-size: 14px;
-    font-size: 0.875rem;
-    margin-left: 20px;
-    padding-left: 20px;
-    position: relative; }
-    .m17 h2 span.required:before {
-      content: '';
-      position: absolute;
-      left: 0;
-      top: 0;
-      width: 1px;
-      height: 100%;
-      background: #b9c7d4; }
-    .m17 h2 span.required span {
+    font-size: 12px;
+    font-size: 0.75rem;
+    color: #2d4452;
+    padding-bottom: 3px; }
+    .m17 h2 .required span {
       color: #AF5607; }
+  .m17 h2 .div {
+    color: #b9c7d4;
+    width: 1px;
+    height: 33px;
+    background: #b9c7d4;
+    margin-left: 20px;
+    margin-right: 20px; }
   @media (min-width: 1240px) {
     .m17 h2 {
       display: flex;
-      align-items: center;
-      height: 100%; } }
+      align-items: flex-end; } }
   @media (max-width: 1239.98px) {
-    .m17 h2 span.required {
-      display: block;
-      margin-left: 0;
-      padding-left: 0;
+    .m17 h2 .required {
       margin-top: 20px; }
-      .m17 h2 span.required:before {
-        display: none; } }
+    .m17 h2 .div {
+      display: none; } }
   .m17 .form {
     padding-top: 20px; }
     .m17 .form hr {

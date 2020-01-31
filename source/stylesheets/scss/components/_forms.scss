@@ -26,6 +26,10 @@
             @include font-size(15px);
         }
 
+        [aria-invalid="true"] {
+            border: 1px solid $danger !important;
+        }
+
 
         input[type=file] {
             border: 0;
@@ -90,21 +94,23 @@
             display: flex;
             align-items: center;
             justify-content: flex-end;
+
+            .div {
+                width: 1px;
+                height: 39px;
+                background: $border-gray;
+            }
+
+            button {
+                margin-left: 20px;
+            }
         }
 
         a.form-cancel {
             text-transform: uppercase;
             font-weight: 700;
             margin-right: 20px;
-            padding-right: 20px;
             position: relative;
-            &:after {
-                content: "|";
-                position: absolute;
-                right: 0;
-                top: 50%;
-                transform: translateY(-50%);
-            }
         }
     }
 }
