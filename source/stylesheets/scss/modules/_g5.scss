@@ -1,0 +1,47 @@
+.pager {
+    border-top: 1px solid $border-gray;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    padding-top: 40px;
+
+    nav {
+
+        ul.pagination {
+            display: flex;
+            justify-content: center;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            li {
+                margin: 0 1px;
+                &:before {
+                    display: none;
+                }
+
+                &.unavailable {
+                    cursor: default;
+                    color: #999999;
+                    pointer-events: none;
+                }
+
+                &.current {
+                    a {
+                        background: $primary;
+                        color: $white;
+                    }
+                }
+
+                a {
+                    @include font-size(14px);
+                    font-weight: 700;
+                    display: block;
+                    padding: 2px 6px;
+                    line-height: 1em;
+                    span {
+                        color: $primary;
+                    }
+                }
+            }
+        }
+    }
+}

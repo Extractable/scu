@@ -13,12 +13,13 @@
         }
 
         .div {
-            color: $border-gray;
             width: 1px;
-            height: 33px;
+            height: 26px;
             background: $border-gray;
             margin-left: 20px;
             margin-right: 20px;
+            position: relative;
+            top: -3px;
         }
 
         @include media-breakpoint-up(xl) {

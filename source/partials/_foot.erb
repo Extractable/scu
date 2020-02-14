@@ -1,1 +1,24 @@
-
+<!-- Cludo Search JS -->
+<script type="text/javascript" src="https://customer.cludo.com/scripts/bundles/search-script.min.js"></script>
+<script>
+    var CludoSearch;
+    (function () {
+        var cludoSettings = {
+            customerId: 10000888,
+            engineId: 10001359,
+            searchUrl: 'http://localhost:4567/pages/search.html',
+            language: 'en',
+            searchInputs: ['cludo-search-form'],
+            template: 'InlineBasic',
+            focusOnResultsAfterSearch: true,
+            type: 'inline',
+            richAutocomplete: true,
+            enableRelatedSearches: false,
+        };
+        CludoSearch = new Cludo(cludoSettings);
+        CludoSearch.init();
+    })();
+</script>
+<!--[if lte IE 9]>
+    <script src="https://api.cludo.com/scripts/xdomain.js" slave="https://api.cludo.com/proxy.html" type="text/javascript"></script>
+<![endif]-->

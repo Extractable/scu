@@ -18,7 +18,9 @@
 <script src="/javascripts/vendor/jquery.maskedinput.min.js"></script>
 
 <script src="/javascripts/main.js"></script>
-<!-- <script src="/javascripts/form-validation.js"></script> -->
+
+<!-- Cludo Search CSS -->
+<link href="//customer.cludo.com/css/templates/v2.1/essentials/cludo-search.min.css" type="text/css" rel="stylesheet">
 
 <!-- Bootstrap Datepicker -->
 <script src="/javascripts/vendor/datepicker.min.js" type="text/javascript"></script>
@@ -263,7 +265,7 @@
                                 <!-- Tab Top -->
                                 <div class="tab_top">
                                     <div class="icon">
-                                        <img src="/images/icons/icon-home-loan.svg" alt="" aria-hidden="true">
+                                        <img src="/images/icons/icon-auto-loan.svg" alt="" aria-hidden="true">
                                     </div>
                                     AUTO LOANS <span class="oi oi-chevron-bottom" aria-hidden="true"></span>
                                 </div>
@@ -732,7 +734,30 @@
 
 
         <!-- Footer Scripts -->
-        
+        <!-- Cludo Search JS -->
+<script type="text/javascript" src="https://customer.cludo.com/scripts/bundles/search-script.min.js"></script>
+<script>
+    var CludoSearch;
+    (function () {
+        var cludoSettings = {
+            customerId: 10000888,
+            engineId: 10001359,
+            searchUrl: 'http://localhost:4567/pages/search.html',
+            language: 'en',
+            searchInputs: ['cludo-search-form'],
+            template: 'InlineBasic',
+            focusOnResultsAfterSearch: true,
+            type: 'inline',
+            richAutocomplete: true,
+            enableRelatedSearches: false,
+        };
+        CludoSearch = new Cludo(cludoSettings);
+        CludoSearch.init();
+    })();
+</script>
+<!--[if lte IE 9]>
+    <script src="https://api.cludo.com/scripts/xdomain.js" slave="https://api.cludo.com/proxy.html" type="text/javascript"></script>
+<![endif]-->
 
     </body>
 </html>

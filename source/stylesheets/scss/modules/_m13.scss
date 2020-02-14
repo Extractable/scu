@@ -1,0 +1,93 @@
+.m13 {
+    padding: {
+        top: 60px;
+    }
+
+    .content {
+        margin-bottom: 60px;
+    }
+
+    h2, .h2 {
+        margin-bottom: 30px;
+        display: flex;
+    }
+
+    h3, .h3 {
+        line-height: 1.4em;
+        @include font-size(18px);
+    }
+
+    hr {
+        margin: 0 0 30px 0;
+        padding: 0;
+        width: 100%;
+        height: 4px;
+        border: 0;
+        background: $secondary-2;
+    }
+
+    .icon {
+        width: 40px;
+        padding-right: 10px;
+        max-height: 30px;
+    }
+
+    a span {
+        color: $primary;
+    }
+
+    a.btn {
+        span {
+            color: $white;
+        }
+    }
+
+    @include media-breakpoint-down(xs) {
+        a.btn {
+            width: 100%;
+        }
+    }
+
+    .location-search {
+        margin-top: 20px;
+        width: auto;
+        .form {
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            margin-bottom: 25px;
+            label {
+                @include font-size(14px);
+                color: $black;
+                padding-right: 10px;
+                margin: 0;
+                text-align: right;
+                font-weight: 500;
+            }
+
+            .fields {
+                display: flex;
+            }
+
+            input[type=text] {
+                height: 36px;
+                width: 160px;
+                text-indent: 5px;
+                padding-right: 40px;
+            }
+            input[type=submit] {
+                background: $primary;
+                color: $white;
+                border: 0;
+                @include font-size(0px);
+                width: 36px;
+                height: 36px;
+                background-image: url('/images/icons/icon-search-white.svg');
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: 20px;
+                margin: 0 0 0 -32px;
+            }
+        }
+    }
+}
