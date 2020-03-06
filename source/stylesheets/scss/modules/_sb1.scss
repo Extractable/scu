@@ -22,46 +22,4 @@
         }
     }
 
-    ul.list_links {
-        margin: 30px 0 0 0;
-        padding: 0;
-        list-style: none;
-
-        display: flex;
-        flex-direction: column;
-
-        li {
-            padding: 0 20px;
-            a {
-                display: block;
-                padding: 20px 0;
-                border-top: 1px solid $border-gray;
-                text-transform: uppercase;
-                @include font-size(14px);
-                font-weight: 700;
-                position: relative;
-                span {
-                    color: $primary;
-                    position: relative;
-                    top: 0px;
-                }
-            }
-        }
-
-        @include media-breakpoint-down(md) {
-            flex-direction: row;
-            flex-wrap: wrap;
-            li {
-                width: 50%;
-            }
-        }
-
-        @include media-breakpoint-down(xs) {
-            flex-direction: column;
-            li {
-                width: 100%;
-            }
-        }
-    }
-
 }

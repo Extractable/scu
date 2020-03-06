@@ -1,0 +1,111 @@
+<div class="sb sb5 sticky">
+    <ul class="list_links">
+        <li>
+            <a href="#auto">
+                <img src="/images/icons/icon-auto-loan.svg" alt="" class="icon" aria-hidden="true">
+                AUTO LOANS & RELATED SERVICES <span class="oi oi-chevron-right" title="icon chevron-right" aria-hidden="true"></span>
+            </a>
+        </li>
+        <li>
+            <a href="#checking">
+                <img src="/images/icons/icon-checking.svg" alt="" class="icon" aria-hidden="true">
+                CHECKING AND SAVINGS <span class="oi oi-chevron-right" title="icon chevron-right" aria-hidden="true"></span>
+            </a>
+        </li>
+        <li>
+            <a href="#investments">
+                <img src="/images/icons/icon-home-loan.svg" alt="" class="icon" aria-hidden="true">
+                INVESTMENT, RETIREMENT & SERVICES <span class="oi oi-chevron-right" title="icon chevron-right" aria-hidden="true"></span>
+            </a>
+        </li>
+    </ul>
+</div>
+
+<script>
+    //Section scrolling and highlighting
+    (function() {
+        let lastId,
+            topMenu = $('.list_links'),
+            //topMenuHeight = topMenu.outerHeight()+1,
+            // All list items
+            menuItems = topMenu.find("a"),
+            // Anchors corresponding to menu items
+            scrollItems = menuItems.map(function() {
+                var item = $($(this).attr("href"));
+                if (item.length) {
+                    console.log(item);
+                    return item;
+                }
+            });
+
+        let $sticky = $('.sticky'),
+            $stickyrStopper = $('.sticky-stopper');
+
+        let generalSidebarHeight = $sticky.innerHeight(),
+            stickyTop = $sticky.offset().top,
+            stickOffset = 0,
+            stickyStopperPosition = $stickyrStopper.offset().top,
+            stopPoint = stickyStopperPosition - generalSidebarHeight - stickOffset,
+            diff = stopPoint + stickOffset;
+
+        // Bind click handler to menu items
+        // so we can get a fancy scroll animation
+        $(menuItems).on('click', function(e) {
+            let href = $(this).attr("href"),
+                offsetTop = href === "#" ? 0 : $(href).offset().top - 60;
+            $('html, body').animate({
+                scrollTop: offsetTop
+            }, 850);
+            e.preventDefault();
+        });
+
+        // Bind to scroll
+        if( $sticky.length || $stickyrStopper.length ) {
+            $(window).scroll(function() {
+                // Get container scroll position
+                var fromTop = $(this).scrollTop() + 200;
+
+                var cur = scrollItems.map(function() {
+                    if ($(this).offset().top < fromTop) {
+                        console.log(this);
+                        return this;
+                    }
+                });
+
+                // Get the id of the current element
+                cur = cur[cur.length - 1];
+                var id = cur && cur.length ? cur[0].id : "";
+
+                if (lastId !== id) {
+                    lastId = id;
+                    console.log('last id: ' + lastId);
+                    // Set/remove active class
+                    $('ul.list_links li a')
+                        .removeClass("active")
+                        .filter('[href="#' + id + '"]').addClass("active");
+                }
+
+                //sidebar scroll locking
+                let windowTop = $(window).scrollTop(); // returns number
+
+                if (stopPoint < windowTop) {
+                    $sticky.css({
+                        position: 'absolute',
+                        top: diff
+                    });
+                } else if (stickyTop < windowTop + stickOffset) {
+                    $sticky.css({
+                        position: 'fixed',
+                        top: stickOffset
+                    });
+                } else {
+                    $sticky.css({
+                        position: 'absolute',
+                        top: 'initial'
+                    });
+                }
+            });
+        }
+
+    })();
+</script>

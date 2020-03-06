@@ -26,4 +26,5 @@ $(function() {
         $(form)[0].reset();
         e.preventDefault();
     });
+
 });

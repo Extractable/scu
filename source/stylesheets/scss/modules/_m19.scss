@@ -1,0 +1,49 @@
+.m19 {
+    @include font-size(16px);
+
+    .profile {
+        border-bottom: 1px solid $border-gray;
+        margin-bottom: 60px;
+        padding-bottom: 40px;
+        &:last-of-type {
+            border-bottom: 0;
+            padding-botom: 0;
+            margin-bottom: 0;
+        }
+    }
+
+    .profile-meta {
+        display: flex;
+
+    }
+
+    .profile-info {
+        padding-top: 10px;
+        padding-left: 30px;
+        .title {
+            font-weight: 600;
+            @include font-size(18px);
+        }
+    }
+
+    .profile-content {
+        padding-top: 20px;
+        width: 100%;
+        p {
+            @include font-size(16px);
+        }
+    }
+
+    @include media-breakpoint-down(md) {
+        .profile-meta {
+            flex-direction: column;
+        }
+        .profile-info {
+            padding-left: 0;
+            margin-top: 10px;
+        }
+        .profile-content {
+            padding-top: 0;
+        }
+    }
+}

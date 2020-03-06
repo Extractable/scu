@@ -174,6 +174,7 @@ $(function() {
         $(form)[0].reset();
         e.preventDefault();
     });
+
 });
 /*!
  * Datepicker for Bootstrap v1.9.0 (https://github.com/uxsolutions/bootstrap-datepicker)

@@ -1,0 +1,79 @@
+.m16 {
+    margin-bottom: 60px;
+    .accordion {
+        border: 1px solid #b9c7d4;
+        background: $white;
+    }
+
+    .card {
+        border-bottom: 1px solid #95a2ad;
+        .card-header {
+            background: $white;
+            padding: 0;
+            border: 0;
+            button {
+                color: #2d4452;
+                padding: 10px 20px;
+                display: block;
+                width: 100%;
+                text-align: left;
+                border: 0;
+                text-decoration: none;
+                &:focus {
+                    text-decoration: underline;
+                }
+                span {
+                    display: inline-block;
+                    width: 20px;
+                    height: 20px;
+                    vertical-align: middle;
+                    text-align: center;
+                    @include animate(0.3s);
+                    @include rotate(90deg);
+                    border: 1px solid $white;
+                    color: $primary;
+
+                }
+                &[aria-expanded=true] {
+                    span {
+                        @include rotate(-90deg);
+                    }
+                }
+            }
+        }
+    }
+
+    .card-body {
+        padding: {
+            top: 0;
+            bottom: 0;
+        }
+    }
+
+    ul.calcList {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        li {
+            border-top: 1px solid $border-gray;
+            padding: 20px 10px;
+            margin-bottom: 0;
+            &:before {
+                display: none;
+            }
+            .calcMeta {
+                font-weight: 700;
+                color: $primary-2;
+                margin-bottom: 10px;
+            }
+            p:last-of-type {
+                margin-bottom: 0;
+            }
+            a {
+                span {
+                    color: $primary;
+                }
+            }
+        }
+    }
+}
