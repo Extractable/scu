@@ -10646,18 +10646,16 @@ footer {
       padding-left: 10px;
       padding-right: 10px; }
       .sb5 ul.list_links li a {
-        color: #2D4452;
         -webkit-transition: all 0.3s ease-out;
         -moz-transition: all 0.3s ease-out;
         -o-transition: all 0.3s ease-out;
         transition: all 0.3s ease-out;
         padding-left: 38px; }
         .sb5 ul.list_links li a span {
-          color: #2D4452; }
-        .sb5 ul.list_links li a.active {
           color: #AF5607; }
-          .sb5 ul.list_links li a.active span {
-            color: #AF5607; }
+        .sb5 ul.list_links li a.active {
+          text-decoration: underline;
+          color: #653204; }
       .sb5 ul.list_links li:first-child {
         margin-top: 8px; }
         .sb5 ul.list_links li:first-child a {

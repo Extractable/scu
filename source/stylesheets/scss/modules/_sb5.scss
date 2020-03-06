@@ -36,17 +36,14 @@
                 right: 10px;
             }
             a {
-                color: $secondary;
                 @include animate(0.3s);
                 padding-left: 38px;
                 span {
-                    color: $secondary;
+                    color: $primary;
                 }
                 &.active {
-                    color: $primary;
-                    span {
-                        color: $primary;
-                    }
+                    text-decoration: underline;
+                    color: #653204;
                 }
             }
             &:first-child {
