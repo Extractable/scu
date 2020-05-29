@@ -30,13 +30,13 @@
             border: 1px solid $danger !important;
         }
 
-
         input[type=file] {
             border: 0;
             border-bottom: 1px solid $border-gray;
             background: 0;
             &::-webkit-file-upload-button {
-                display: none;
+                visibility: hidden;
+                text-indent: -100px;
             }
         }
 

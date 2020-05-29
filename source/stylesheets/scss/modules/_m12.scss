@@ -92,6 +92,21 @@
             @include font-size(12px);
             line-height: 1.8em;
         }
+
+        h3 {
+            color: $black;
+            @include font-size(16px);
+        }
+
+        h4 {
+            color: $black;
+            @include font-size(14px);
+            margin-bottom: 10px;
+        }
+
+        ul, ol {
+            @include font-size(12px);
+        }
     }
 
     hr {
@@ -227,7 +242,7 @@
     }
 
     [data-rate=table-layout-2] {
-        
+
     }
 
     [data-rate=table-layout-3] {

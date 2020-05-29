@@ -1,0 +1,18 @@
+[
+    {
+        "id": "CASH",
+        "name": "Cash"
+    },
+    {
+        "id": "GIFT_CARDS",
+        "name": "Gift Cards"
+    },
+    {
+        "id": "AUCTION_ITEMS",
+        "name": "Auction Items"
+    },
+    {
+        "id": "OTHER",
+        "name": "Other"
+    }
+]

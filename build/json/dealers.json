@@ -1,0 +1,201 @@
+[{
+    "dealer": {
+        "maker": {
+            "id": "1",
+            "name": "ACURA"
+        },
+        "name": "Valencia Acura",
+        "url": "http://www.valenciaacura.com",
+        "address": {
+            "address": "23955 Creekside Road",
+            "city": "Valencia",
+            "state": "CA"
+        },
+        "phone": "661/255-3000"
+    },
+    "distance": {
+        "value": 330.2988,
+        "unit": "m"
+    },
+    "distanceFrom": "95687"
+}, {
+    "dealer": {
+        "maker": {
+            "id": "1",
+            "name": "ACURA"
+        },
+        "name": "AutoNation Acura of South Bay",
+        "url": "http://www.autonationacurasouthbay.com",
+        "address": {
+            "address": "25341 Crenshaw Blvd.",
+            "city": "Torrance",
+            "state": "CA"
+        },
+        "phone": "310/667-8231"
+    },
+    "distance": {
+        "value": 373.4592,
+        "unit": "m"
+    },
+    "distanceFrom": "95687"
+}, {
+    "dealer": {
+        "maker": {
+            "id": "1",
+            "name": "ACURA"
+        },
+        "name": "Cerritos Acura",
+        "url": "http://www.cerritosacura.com",
+        "address": {
+            "address": "18827 Studebaker Rd.",
+            "city": "Cerritos",
+            "state": "CA"
+        },
+        "phone": "888/470-0369"
+    },
+    "distance": {
+        "value": 376.8059,
+        "unit": "m"
+    },
+    "distanceFrom": "95687"
+}, {
+    "dealer": {
+        "maker": {
+            "id": "1",
+            "name": "ACURA"
+        },
+        "name": "Metro Acura",
+        "url": "http://www.metroacura.com",
+        "address": {
+            "address": "9377 Autoplex Drive",
+            "city": "Montclair",
+            "state": "CA"
+        },
+        "phone": "866/591-7594"
+    },
+    "distance": {
+        "value": 377.9642,
+        "unit": "m"
+    },
+    "distanceFrom": "95687"
+}, {
+    "dealer": {
+        "maker": {
+            "id": "1",
+            "name": "ACURA"
+        },
+        "name": "Weir Canyon Acura",
+        "url": "http://www.weircanyonacura.com",
+        "address": {
+            "address": "8375 E. La Palma Ave.",
+            "city": "Anaheim",
+            "state": "CA"
+        },
+        "phone": "714/777-3300"
+    },
+    "distance": {
+        "value": 387.4196,
+        "unit": "m"
+    },
+    "distanceFrom": "95687"
+}, {
+    "dealer": {
+        "maker": {
+            "id": "1",
+            "name": "ACURA"
+        },
+        "name": "Orange Coast Acura",
+        "url": "http://www.ocacura.com",
+        "address": {
+            "address": "2925 Harbor Blvd.",
+            "city": "Costa Mesa",
+            "state": "CA"
+        },
+        "phone": "714/979-2500"
+    },
+    "distance": {
+        "value": 393.0661,
+        "unit": "m"
+    },
+    "distanceFrom": "95687"
+}, {
+    "dealer": {
+        "maker": {
+            "id": "1",
+            "name": "ACURA"
+        },
+        "name": "South Coast Acura",
+        "url": "http://www.southcoastacura.com/",
+        "address": {
+            "address": "2925 Harbor Blvd.",
+            "city": "Costa Mesa",
+            "state": "CA"
+        },
+        "phone": "714/979-2500"
+    },
+    "distance": {
+        "value": 393.0661,
+        "unit": "m"
+    },
+    "distanceFrom": "95687"
+}, {
+    "dealer": {
+        "maker": {
+            "id": "1",
+            "name": "ACURA"
+        },
+        "name": "Orange Coast Acura",
+        "url": "http://www.ocacura.com",
+        "address": {
+            "address": "2925 Harbor Blvd.",
+            "city": "Costa Mesa",
+            "state": "CA"
+        },
+        "phone": "714/979-2500"
+    },
+    "distance": {
+        "value": 393.0661,
+        "unit": "m"
+    },
+    "distanceFrom": "95687"
+}, {
+    "dealer": {
+        "maker": {
+            "id": "1",
+            "name": "ACURA"
+        },
+        "name": "DCH Tustin Acura",
+        "url": "http://www.tustinacura.com/",
+        "address": {
+            "address": "9 Auto Center Drive",
+            "city": "Tustin",
+            "state": "CA"
+        },
+        "phone": "714/669-9900"
+    },
+    "distance": {
+        "value": 394.142,
+        "unit": "m"
+    },
+    "distanceFrom": "95687"
+}, {
+    "dealer": {
+        "maker": {
+            "id": "1",
+            "name": "ACURA"
+        },
+        "name": "Acura of Riverside",
+        "url": "http://www.acuraofriverside.com",
+        "address": {
+            "address": "8101 Auto Drive",
+            "city": "Riverside",
+            "state": "CA"
+        },
+        "phone": "951/688-1500"
+    },
+    "distance": {
+        "value": 396.2307,
+        "unit": "m"
+    },
+    "distanceFrom": "95687"
+}]

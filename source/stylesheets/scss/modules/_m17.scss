@@ -108,6 +108,16 @@
 
         }
 
+    }
 
+    //Dealers List
+    #dealers {
+        margin-top: 60px;
+        .dealer {
+            margin-bottom: 40px;
+            h3 {
+                color: #3B6E8F;
+            }
+        }
     }
 }

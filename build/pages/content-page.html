@@ -193,6 +193,33 @@
             <span class="oi oi-chevron-right" title="icon chevron-right" aria-hidden="true"></span></a>
     </p>
 
+    <div class="scrollable">
+        <div class="scroll">
+            <table class="inline">
+                <tr>
+                    <th>Minimum Balance</th>
+                    <th>Dividend Rate</th>
+                    <th>Annual Percentage (APY)<sup>2</sup></th>
+                </tr>
+                <tr>
+                    <td>$0 - $24,999</td>
+                    <td>0.05%</td>
+                    <td>0.05%</td>
+                </tr>
+                <tr>
+                    <td>$25,000 - $99,999</td>
+                    <td>0.08%</td>
+                    <td>0.08%</td>
+                </tr>
+                <tr>
+                    <td>$100,000+</td>
+                    <td>0.10%</td>
+                    <td>0.10%</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
     <!-- Disclosures -->
     <div class="m9">
     <div class="title">Disclosures</div>
@@ -260,7 +287,9 @@
     <h2>
         REQUEST A DONATION
         <div class="div"></div>
-        <div class="required">Fields marked with an asterisk <span>*</span> are required</div>
+        <div class="required">Fields marked with an asterisk
+            <span>*</span>
+            are required</div>
     </h2>
     <hr>
 
@@ -268,21 +297,21 @@
         <h3>Details of Application</h3>
         <hr>
 
-        <form action="">
+        <form id="donationForm" action="" method="post" enctype="multipart/form-data">
             <div class="form-group">
                 <div class="form-element">
                     <label for="contact_name">Contact Name<span>*</span></label>
                     <input type="text" id="contact_name" autocomplete="off" aria-required="true" class="js-validate">
                     <div class="form-error" id="contact_name-error" tabindex="-1">
-    					Contact name is required
-    				</div>
+                        Contact name is required
+                    </div>
                 </div>
                 <div class="form-element">
                     <label for="contact_org">Contact Organization<span>*</span></label>
                     <input type="text" id="contact_org" autocomplete="off" aria-required="true" class="js-validate">
                     <div class="form-error" id="contact_org" tabindex="-1">
-    					Contact organization is required
-    				</div>
+                        Contact organization is required
+                    </div>
                 </div>
             </div>
             <div class="form-group">
@@ -290,8 +319,8 @@
                     <label for="org_purpose">Purpose of Organization<span>*</span></label>
                     <textarea id="org_purpose" autocomplete="off" aria-required="true" class="js-validate"></textarea>
                     <div class="form-error" id="org_purpose-error" tabindex="-1">
-    					Please enter a purpose
-    				</div>
+                        Please enter a purpose
+                    </div>
                 </div>
             </div>
             <div class="form-group">
@@ -299,8 +328,8 @@
                     <label for="org_address">Address<span>*</span></label>
                     <input type="text" id="org_address" autocomplete="off" aria-required="true" class="js-validate">
                     <div class="form-error" id="org_address-error" tabindex="-1">
-    					Organization address is required
-    				</div>
+                        Organization address is required
+                    </div>
                 </div>
             </div>
             <div class="form-group">
@@ -308,30 +337,75 @@
                     <label for="state">State<span>*</span></label>
                     <select id="state" aria-required="true" class="js-validate">
                         <option selected="" value="">Please Select</option>
-						<option value="1">State 1</option>
-						<option value="1">State 2</option>
-						<option value="1">State 3</option>
-						<option value="1">State 4</option>
-						<option value="1">State 5</option>
-						<option value="1">State 6</option>
-					</select>
+                        <option value="AL">AL</option>
+                    	<option value="AK">AK</option>
+                    	<option value="AR">AR</option>
+                    	<option value="AZ">AZ</option>
+                    	<option value="CA">CA</option>
+                    	<option value="CO">CO</option>
+                    	<option value="CT">CT</option>
+                    	<option value="DC">DC</option>
+                    	<option value="DE">DE</option>
+                    	<option value="FL">FL</option>
+                    	<option value="GA">GA</option>
+                    	<option value="HI">HI</option>
+                    	<option value="IA">IA</option>
+                    	<option value="ID">ID</option>
+                    	<option value="IL">IL</option>
+                    	<option value="IN">IN</option>
+                    	<option value="KS">KS</option>
+                    	<option value="KY">KY</option>
+                    	<option value="LA">LA</option>
+                    	<option value="MA">MA</option>
+                    	<option value="MD">MD</option>
+                    	<option value="ME">ME</option>
+                    	<option value="MI">MI</option>
+                    	<option value="MN">MN</option>
+                    	<option value="MO">MO</option>
+                    	<option value="MS">MS</option>
+                    	<option value="MT">MT</option>
+                    	<option value="NC">NC</option>
+                    	<option value="NE">NE</option>
+                    	<option value="NH">NH</option>
+                    	<option value="NJ">NJ</option>
+                    	<option value="NM">NM</option>
+                    	<option value="NV">NV</option>
+                    	<option value="NY">NY</option>
+                    	<option value="ND">ND</option>
+                    	<option value="OH">OH</option>
+                    	<option value="OK">OK</option>
+                    	<option value="OR">OR</option>
+                    	<option value="PA">PA</option>
+                    	<option value="RI">RI</option>
+                    	<option value="SC">SC</option>
+                    	<option value="SD">SD</option>
+                    	<option value="TN">TN</option>
+                    	<option value="TX">TX</option>
+                    	<option value="UT">UT</option>
+                    	<option value="VT">VT</option>
+                    	<option value="VA">VA</option>
+                    	<option value="WA">WA</option>
+                    	<option value="WI">WI</option>
+                    	<option value="WV">WV</option>
+                    	<option value="WY">WY</option>
+                    </select>
                     <div class="form-error" id="state-error" tabindex="-1">
-    					State is required
-    				</div>
+                        State is required
+                    </div>
                 </div>
                 <div class="form-element">
-                    <label for=city">City<span>*</span></label>
+                    <label for="city"">City<span>*</span></label>
                     <input type="text" id="city" autocomplete="true" aria-required="true" class="js-validate">
-                    <div class="form-error" id=city-error" tabindex="-1">
-    					City is required
-    				</div>
+                    <div class="form-error" id="city-error" tabindex="" -1"="-1"">
+                        City is required
+                    </div>
                 </div>
                 <div class="form-element">
-                    <label for=zip">Zip<span>*</span></label>
+                    <label for="zip"">Zip<span>*</span></label>
                     <input type="text" id="zip" autocomplete="true" aria-required="true" class="js-validate js-zip-mask">
-                    <div class="form-error" id=zip-error" tabindex="-1">
-    					Zip code is required
-    				</div>
+                    <div class="form-error" id="zip-error" tabindex="" -1"="-1"">
+                        Zip code is required
+                    </div>
                 </div>
             </div>
 
@@ -340,15 +414,15 @@
                     <label for="org_phone">Contact Phone Number<span>*</span></label>
                     <input type="text" id="org_phone" autocomplete="off" aria-required="true" class="js-validate js-phone-mask">
                     <div class="form-error" id="org_phone-error" tabindex="-1">
-    					Contact phone number is required
-    				</div>
+                        Contact phone number is required
+                    </div>
                 </div>
                 <div class="form-element">
                     <label for="org_email">Contact Email<span>*</span></label>
                     <input type="text" id="org_email" autocomplete="off" aria-required="true" class="js-email">
                     <div class="form-error" id="org_email-error" tabindex="-1">
-    					Contact email is required
-    				</div>
+                        Contact email is required
+                    </div>
                 </div>
             </div>
 
@@ -395,34 +469,22 @@
 
             <div class="form-group">
                 <div class="form-element">
-                    <label for="state">Type of Organization<span>*</span></label>
-                    <select id="state" aria-required="true" class="js-validate">
-						<option selected="" value="">Please Select</option>
-						<option value="Type 1">Type 1</option>
-						<option value="Type 2">Type 2</option>
-						<option value="Type 3">Type 3</option>
-						<option value="Type 4">Type 4</option>
-						<option value="Type 5">Type 5</option>
-						<option value="Type 6">Type 6</option>
-					</select>
+                    <label for="typeofOrg">Type of Organization<span>*</span></label>
+                    <select id="typeofOrg" aria-required="true" class="js-validate">
+                        <option selected="" value="">Please Select</option>
+                    </select>
                     <div class="form-error" id="state-error" tabindex="-1">
-    					Type of organization is required
-    				</div>
+                        Type of organization is required
+                    </div>
                 </div>
                 <div class="form-element">
-                    <label for="state">Type of Request<span>*</span></label>
-                    <select id="state" aria-required="true" class="js-validate">
-						<option selected="" value="">Please Select</option>
-						<option value="Request 1">Request 1</option>
-						<option value="Request 2">Request 2</option>
-						<option value="Request 3">Request 3</option>
-						<option value="Request 4">Request 4</option>
-						<option value="Request 5">Request 5</option>
-						<option value="Request 6">Request 6</option>
-					</select>
+                    <label for="typeofRequest">Type of Request<span>*</span></label>
+                    <select id="typeofRequest" aria-required="true" class="js-validate">
+                        <option selected="" value="">Please Select</option>
+                    </select>
                     <div class="form-error" id="state-error" tabindex="-1">
-    					Type of request is required
-    				</div>
+                        Type of request is required
+                    </div>
                 </div>
             </div>
             <div class="form-group">
@@ -439,15 +501,15 @@
                     <label for="requestAmount">Dollar amount being requested<span>*</span></label>
                     <input type="text" id="requestAmount" autocomplete="off" aria-required="true" class="js-validate">
                     <div class="form-error" id="requestAmount-error" tabindex="-1">
-    					Dollar amount being requested is required
-    				</div>
+                        Dollar amount being requested is required
+                    </div>
                 </div>
                 <div class="form-element">
                     <label for="scuRecognition">How will SchoolsFirst FCU be recognized?<span>*</span></label>
                     <input type="text" id="scuRecognition" autocomplete="off" aria-required="true" class="js-validate">
                     <div class="form-error" id="scuRecognition-error" tabindex="-1">
-    					How SchoolsFirst FCU is recognized is required
-    				</div>
+                        How SchoolsFirst FCU is recognized is required
+                    </div>
                 </div>
             </div>
             <div class="form-group">
@@ -455,21 +517,21 @@
                     <label for="eventDate">Date of Event<span>*</span></label>
                     <input id="eventDate" autocomplete="off" aria-required="true" class="js-validate">
                     <div class="form-error" id="eventDate-error" tabindex="-1">
-    					Date of event is required
-    				</div>
+                        Date of event is required
+                    </div>
                 </div>
                 <div class="form-element">
                     <label for="materialDate">Date You Need Donated Materials<span>*</span></label>
                     <input id="materialDate" autocomplete="off" aria-required="true" class="js-validate">
                     <div class="form-error" id="materialDate-error" tabindex="-1">
-    					Date for donated materials is required
-    				</div>
+                        Date for donated materials is required
+                    </div>
                 </div>
             </div>
             <div class="form-group">
                 <div class="form-element">
-                    <label class="file" for="file">ATTACH DOCUMENT <span class="paperclip"><img src="/images/paperclip.png" alt=""></span></label>
-                    <input type="file" name="file" id="file" class="inputfile" data-multiple-caption="{count} files selected" multiple />
+                    <label class="file" for="file">ATTACH DOCUMENT<span class="paperclip"><img src="/images/paperclip.png" alt=""></span></label>
+                    <input type="file" name="file" id="file" class="inputfile"/>
                 </div>
             </div>
 
@@ -477,7 +539,8 @@
                 <a href="#" class="reset form-cancel" aria-label="Clear form fields">Cancel</a>
                 <div class="div"></div>
                 <button type="button" class="btn btn-primary" id="donationRequest">
-                    SUBMIT <span class="oi oi-chevron-right" title="icon chevron-right" aria-hidden="true"></span>
+                    SUBMIT
+                    <span class="oi oi-chevron-right" title="icon chevron-right" aria-hidden="true"></span>
                 </button>
             </div>
         </form>
@@ -485,39 +548,65 @@
     </div>
 
     <script>
-        $(function() {
+        $(function () {
             //Datepicker
-            $('#materialDate').datepicker({
-                uiLibrary: 'bootstrap4'
-            });
-            $('#eventDate').datepicker({
-                uiLibrary: 'bootstrap4'
+            $('#materialDate').datepicker({uiLibrary: 'bootstrap4'});
+            $('#eventDate').datepicker({uiLibrary: 'bootstrap4'});
+
+            let org = $('#typeofOrg');
+            let request = $('#typeofRequest');
+
+            //Type of Organization
+            $.ajax({
+                url: "/json/organizations.json",
+                success: function (orgs) {
+
+                    $.each(orgs, function (idx, obj) {
+                        let name = obj.name;
+                        let id = obj.id;
+
+                        org.append('<option value="' + id + '">' + name + '</option>');
+                    });
+
+                }
             });
 
-            $('#donationRequest').on('click', function(e) {
-                var form = $(this).closest('form');
+            //Type of Request
+            $.ajax({
+                url: "/json/request.json",
+                success: function (requests) {
+
+                    $.each(requests, function (idx, obj) {
+                        let name = obj.name;
+                        let id = obj.id;
+
+                        request.append('<option value="' + id + '">' + name + '</option>');
+                    });
+
+                }
+            });
+
+            $('#donationRequest').on('click', function (e) {
+                let form = $(this).closest('form');
 
                 var isValid = true;
 
                 //Validate Fields
-                $('.js-validate', form).each(function() {
-                    if($.trim($(this).val()) == '' && !$(this).parents('.form-group').hasClass('hidden') ){
+                $('.js-validate', form).each(function () {
+                    if ($.trim($(this).val()) == '' && !$(this).parents('.form-group').hasClass('hidden')) {
                         var $thisId = $(this).attr('id');
                         isValid = false;
 
                         $(this).prev().addClass('has-error');
                         $(this).parents('.form-element').find('.form-error').show();
                         $(this).attr({
-                            'aria-invalid' : 'true',
-                            'aria-describedby' : $thisId + '-error'
+                            'aria-invalid': 'true',
+                            'aria-describedby': $thisId + '-error'
                         });
                     } else {
                         $(this).prev().removeClass('has-error');
                         $(this).parents('.form-element').find('.form-error').hide();
-                        $(this).attr({
-                            'aria-invalid' : 'false',
-                            'aria-describedby' : ''
-                        });
+                        $(this).attr({'aria-invalid': 'false', 'aria-describedby': ''});
                     }
                 });
 
@@ -526,38 +615,31 @@
                 var properEmail = true;
                 var $emailError = $('#email-error-valid', form);
                 var emailField = $('.js-email', form);
-                $(emailField).filter(function(e){
+                $(emailField).filter(function (e) {
                     var emil = $('.js-email', form).val();
                     var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
-                    if( !emailReg.test( emil ) ) {
+                    if (!emailReg.test(emil)) {
                         validEmail = false;
                     } else {
                         validEmail = true;
                     }
                 });
 
-                if( validEmail == false  || $('.js-email', form).val() == '' ) {
+                if (validEmail == false || $('.js-email', form).val() == '') {
                     $(emailField).prev().addClass('has-error');
                     $(emailField).next().show();
-                    $('#org_email').addClass('has-error').attr({
-                        'aria-invalid' : 'true',
-                        'aria-describedby' : 'email-error'
-                    });
+                    $('#org_email').addClass('has-error').attr({'aria-invalid': 'true', 'aria-describedby': 'email-error'});
                     properEmail = false;
                 } else {
                     $(emailField).prev().removeClass('has-error');
                     $(emailField).next().hide();
-                    $('#org_email').removeClass('has-error').attr({
-                        'aria-invalid' : 'false',
-                        'aria-describedby' : ''
-                    });
+                    $('#org_email').removeClass('has-error').attr({'aria-invalid': 'false', 'aria-describedby': ''});
                     properEmail = true;
                 }
 
-
                 //Radio Buttons
                 var radioCheck = true;
-                if ($('input:radio[name="support"]').filter(':checked').length < 1){
+                if ($('input:radio[name="support"]').filter(':checked').length < 1) {
                     radioCheck = false;
                     $('#support-error').show();
                 } else {
@@ -565,11 +647,53 @@
                 }
 
                 //Submit the data OR jump to first error
-                if ( isValid == false  || radioCheck == false || properEmail == false ) {
+                if (isValid == false || radioCheck == false || properEmail == false) {
                     $('.form [aria-invalid="true"]:first', form).focus();
                     e.preventDefault();
                 } else {
-                    //Allow form to be submitted
+                    //AJAX Submit
+                    e.preventDefault();
+
+                    var fd = new FormData();
+                    fd.append( 'file', $('#file')[0].files[0]);
+
+                    // Initiate Variables With Form Content
+                    formData = {
+                        contactName : $("#contact_name").val(),
+                        contactOrg : $("#contact_org").val(),
+                        purpose : $("#org_purpose").val(),
+                        address : $('#org_address').val(),
+                        state : $('#state').val(),
+                        city : $('#city').val(),
+                        zip : $('#zip').val(),
+                        contactPhone : $('#org_phone').val(),
+                        contactEmail : $('#org_email').val(),
+                        scuInOrg : $("input[name='scu_employee']:checked").val(),
+                        prevSupport : $("input[name='support']:checked").val(),
+                        typeofOrg : $('#typeofOrg').val(),
+                        typeofRequest : $('#typeofRequest').val(),
+                        requestedItems : $('#requestedItems').val(),
+                        requestAmount : $('#requestAmount').val(),
+                        scuRecognition : $('#scuRecognition').val(),
+                        eventDate : $('#eventDate').val(),
+                        materialDate : $('#materialDate').val(),
+                        file : fd
+                    }
+
+                    console.log(formData);
+
+                    $.ajax({
+                        url : "http://gateway-backbase.rho-dev.octfcu.org/direct-integration-service/v1/community-outreach/donation",
+                        type : "POST",
+                        data : formData,
+                        contentType: false,
+                        cache : false,
+                        processData : false,
+                        success: function(data) {
+                            console.log(data);
+                        }
+                    });
+
                 }
 
             });

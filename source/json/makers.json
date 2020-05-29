@@ -1,0 +1,5955 @@
+[{
+    "maker": {
+        "id": "1",
+        "name": "ACURA"
+    },
+    "name": "Acura of Riverside",
+    "url": "http://www.acuraofriverside.com",
+    "address": {
+        "address": "8101 Auto Drive",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "951/688-1500"
+}, {
+    "maker": {
+        "id": "1",
+        "name": "ACURA"
+    },
+    "name": "AutoNation Acura of South Bay",
+    "url": "http://www.autonationacurasouthbay.com",
+    "address": {
+        "address": "25341 Crenshaw Blvd.",
+        "city": "Torrance",
+        "state": "CA"
+    },
+    "phone": "310/667-8231"
+}, {
+    "maker": {
+        "id": "1",
+        "name": "ACURA"
+    },
+    "name": "Cerritos Acura",
+    "url": "http://www.cerritosacura.com",
+    "address": {
+        "address": "18827 Studebaker Rd.",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "888/470-0369"
+}, {
+    "maker": {
+        "id": "1",
+        "name": "ACURA"
+    },
+    "name": "DCH Tustin Acuraseeee",
+    "url": "http://www.tustinacura.com/",
+    "address": {
+        "address": "9 Auto Center Drive",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "714/669-9900"
+}, {
+    "maker": {
+        "id": "1",
+        "name": "ACURA"
+    },
+    "name": "Metro Acura",
+    "url": "http://www.metroacura.com",
+    "address": {
+        "address": "9377 Autoplex Drive",
+        "city": "Montclair",
+        "state": "CA"
+    },
+    "phone": "866/591-7594"
+}, {
+    "maker": {
+        "id": "1",
+        "name": "ACURA"
+    },
+    "name": "Mission Viejo Acura",
+    "url": "http://www.mvacura.com",
+    "address": {
+        "address": "28802 Marguerite Pkwy",
+        "city": "Mission Viejo",
+        "state": "CA"
+    },
+    "phone": "949/429-0493"
+}, {
+    "maker": {
+        "id": "1",
+        "name": "ACURA"
+    },
+    "name": "Norm Reeves Acura",
+    "url": "http://www.normreevesacura.com",
+    "address": {
+        "address": "28802 Marguerite Pkwy",
+        "city": "Mission Viejo",
+        "state": "CA"
+    },
+    "phone": "888/854-8483"
+}, {
+    "maker": {
+        "id": "1",
+        "name": "ACURA"
+    },
+    "name": "Orange Coast Acura",
+    "url": "http://www.ocacura.com",
+    "address": {
+        "address": "2925 Harbor Blvd.",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/979-2500"
+}, {
+    "maker": {
+        "id": "1",
+        "name": "ACURA"
+    },
+    "name": "South Coast Acura",
+    "url": "http://www.southcoastacura.com/",
+    "address": {
+        "address": "2925 Harbor Blvd.",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/979-2500"
+}, {
+    "maker": {
+        "id": "1",
+        "name": "ACURA"
+    },
+    "name": "Valencia Acura",
+    "url": "http://www.valenciaacura.com",
+    "address": {
+        "address": "23955 Creekside Road",
+        "city": "Valencia",
+        "state": "CA"
+    },
+    "phone": "661/255-3000"
+}, {
+    "maker": {
+        "id": "1",
+        "name": "ACURA"
+    },
+    "name": "Weir Canyon Acura",
+    "url": "http://www.weircanyonacura.com",
+    "address": {
+        "address": "8375 E. La Palma Ave.",
+        "city": "Anaheim",
+        "state": "CA"
+    },
+    "phone": "714/777-3300"
+}, {
+    "maker": {
+        "id": "40",
+        "name": "ASTON MARTIN"
+    },
+    "name": "charleswillbreakwith",
+    "url": "",
+    "address": {
+        "address": "25652 Cresta Loma",
+        "city": "Laguna Niguel",
+        "state": "CA"
+    },
+    "phone": "9494632857"
+}, {
+    "maker": {
+        "id": "40",
+        "name": "ASTON MARTIN"
+    },
+    "name": "Jaguar Landrover Aston Martin Newport Beach",
+    "url": "http://www.jaguarnewportbeach.com/",
+    "address": {
+        "address": "1450 Jamboree Rd",
+        "city": "Newport Beach",
+        "state": "CA"
+    },
+    "phone": "949/640-6445"
+}, {
+    "maker": {
+        "id": "40",
+        "name": "ASTON MARTIN"
+    },
+    "name": "O'Gara Coach Aston Martin",
+    "url": "http://www.astonmartinbeverlyhills.com",
+    "address": {
+        "address": "8845 W. Olympic Blvd",
+        "city": "Beverly Hills",
+        "state": "CA"
+    },
+    "phone": "310/659-4050"
+}, {
+    "maker": {
+        "id": "2",
+        "name": "AUDI"
+    },
+    "name": "Audi Carlsbad",
+    "url": "http://www.audicarlsbad.com",
+    "address": {
+        "address": "5425 Paseo Del Norte",
+        "city": "Carlsbad",
+        "state": "CA"
+    },
+    "phone": "866/602-6194"
+}, {
+    "maker": {
+        "id": "2",
+        "name": "AUDI"
+    },
+    "name": "Audi Mission Viejo",
+    "url": "http://www.audimv.com",
+    "address": {
+        "address": "28451 Marguerite Parkway",
+        "city": "Mission Viejo",
+        "state": "CA"
+    },
+    "phone": "888/664-1365"
+}, {
+    "maker": {
+        "id": "2",
+        "name": "AUDI"
+    },
+    "name": "Audi Ontario",
+    "url": "http://www.audiontario.com",
+    "address": {
+        "address": "2272 E. Inland Empire Blvd.",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "888/798-3521"
+}, {
+    "maker": {
+        "id": "2",
+        "name": "AUDI"
+    },
+    "name": "Audi South Coast",
+    "url": "http://www.commonwealthaudi.com",
+    "address": {
+        "address": "1425 Auto Mall Dr.",
+        "city": "Santa Ana",
+        "state": "CA"
+    },
+    "phone": "714/973-7766"
+}, {
+    "maker": {
+        "id": "2",
+        "name": "AUDI"
+    },
+    "name": "Audi Valencia",
+    "url": "http://www.audivalencia.com",
+    "address": {
+        "address": "23923 Creekside Road",
+        "city": "Valencia",
+        "state": "CA"
+    },
+    "phone": "661/888-1400"
+}, {
+    "maker": {
+        "id": "2",
+        "name": "AUDI"
+    },
+    "name": "Circle Imports",
+    "url": "http://www.circleaudi.com",
+    "address": {
+        "address": "1919 N Lakewood Bl",
+        "city": "Long Beach",
+        "state": "CA"
+    },
+    "phone": "562/597-3663"
+}, {
+    "maker": {
+        "id": "2",
+        "name": "AUDI"
+    },
+    "name": "Walter's Audi",
+    "url": "http://www.waltersaudi.com",
+    "address": {
+        "address": "3210 Adams",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "888/453-8024"
+}, {
+    "maker": {
+        "id": "47",
+        "name": "BENTLEY"
+    },
+    "name": "Bentley Beverly Hills",
+    "url": "http://www.beverlyhills.bentleymotors.com",
+    "address": {
+        "address": "8833 W. Olympic Blvd",
+        "city": "Beverly Hills",
+        "state": "CA"
+    },
+    "phone": "888/294-1133"
+}, {
+    "maker": {
+        "id": "3",
+        "name": "BMW"
+    },
+    "name": "Beverly Hills BMW",
+    "url": "http://www.bmwofbeverlyhills.com",
+    "address": {
+        "address": "5070 Wilshire Blvd",
+        "city": "Beverly Hills",
+        "state": "CA"
+    },
+    "phone": "323/801-1430"
+}, {
+    "maker": {
+        "id": "3",
+        "name": "BMW"
+    },
+    "name": "BMW Encinitas",
+    "url": "http://www.bmwencinitas.com",
+    "address": {
+        "address": "1302 Encinitas Blvd",
+        "city": "Encinitas",
+        "state": "CA"
+    },
+    "phone": "866/313-1320"
+}, {
+    "maker": {
+        "id": "3",
+        "name": "BMW"
+    },
+    "name": "BMW Murrieta",
+    "url": "http://www.bmwofmurrieta",
+    "address": {
+        "address": "26825 Auto Mall Pkwy",
+        "city": "Murrieta",
+        "state": "CA"
+    },
+    "phone": "951/249-8000"
+}, {
+    "maker": {
+        "id": "3",
+        "name": "BMW"
+    },
+    "name": "Crevier BMW & MINI",
+    "url": "http://www.creviermini.com/",
+    "address": {
+        "address": "1500 Auto Mall Drive",
+        "city": "Santa Ana",
+        "state": "CA"
+    },
+    "phone": "714/835-3171"
+}, {
+    "maker": {
+        "id": "3",
+        "name": "BMW"
+    },
+    "name": "Irvine BMW/Mini",
+    "url": "http://www.irvinebmw.com",
+    "address": {
+        "address": "9881 Research Drive",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/380-1200"
+}, {
+    "maker": {
+        "id": "3",
+        "name": "BMW"
+    },
+    "name": "Sterling BMW",
+    "url": "http://www.sterlingbmw.com",
+    "address": {
+        "address": "3000 W. Coast Hwy",
+        "city": "Newport Beach",
+        "state": "CA"
+    },
+    "phone": "949/200-8722"
+}, {
+    "maker": {
+        "id": "3",
+        "name": "BMW"
+    },
+    "name": "Valencia BMW",
+    "url": "http://www.valenciabmw.com/",
+    "address": {
+        "address": "23435 Valencia Blvd",
+        "city": "Valencia",
+        "state": "CA"
+    },
+    "phone": "661/248-8000"
+}, {
+    "maker": {
+        "id": "48",
+        "name": "BUGATTI"
+    },
+    "name": "Bugatti Beverly Hills",
+    "url": "http://www.bugatto.ogaracoach.com",
+    "address": {
+        "address": "8845 W. Olympic Blvd",
+        "city": "Beverly Hills",
+        "state": "CA"
+    },
+    "phone": "888/907-6644"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Boulevard Buick",
+    "url": "http://www.boulevard4u.com",
+    "address": {
+        "address": "2800 Cherry Avenue",
+        "city": "Signal Hill",
+        "state": "CA"
+    },
+    "phone": "562/492-1000"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Diamond Hills Chevrolet, Buick, GMC",
+    "url": "http://www.diamondhillschevroletbuickgmc.com",
+    "address": {
+        "address": "4545 W Ramsey St.",
+        "city": "Banning",
+        "state": "CA"
+    },
+    "phone": "866/220-9099"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Dutton Cadillac/Buick/GMC",
+    "url": "http://www.duttonmotorcompany.com",
+    "address": {
+        "address": "8201 Auto Drive",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "951/643-7012"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Hardin Buick, GMC",
+    "url": "http://www.hardingmc.com",
+    "address": {
+        "address": "1321 Auto Center Drive",
+        "city": "Anaheim",
+        "state": "CA"
+    },
+    "phone": "714/635-2020"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Hatfield Buick GMC",
+    "url": "http://www.hatfieldbuick.com",
+    "address": {
+        "address": "301 E. Redlands Blvd.",
+        "city": "Redlands",
+        "state": "CA"
+    },
+    "phone": "909/748-5385"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Hoehn Buick GMC Cadillac",
+    "url": "http://www.carlsbadbuickgmccadillac.com",
+    "address": {
+        "address": "5334 Paseo del Norte",
+        "city": "Carlsbad",
+        "state": "CA"
+    },
+    "phone": "888/449-5165"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Mark Christopher Auto Center",
+    "url": "http://www.markchristopher.com",
+    "address": {
+        "address": "2131 Convention Center Way",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "877/593-2514"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Moss Bros. Buick, GMC",
+    "url": "http://www.mossbrosbuickgmcmorenovalley.com",
+    "address": {
+        "address": "12675 Auto Mall Drive",
+        "city": "Moreno Valley",
+        "state": "CA"
+    },
+    "phone": "888/282-0548"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Norm Reeves Buick GMC",
+    "url": "http://www.normreevesbuickgmc.com",
+    "address": {
+        "address": "14 Auto Center Dr",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/328-0268"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "North County Buick, Cadillac, GMC",
+    "url": "http://www.ncbcg.com",
+    "address": {
+        "address": "1515 Auto Park Way N",
+        "city": "Escondido",
+        "state": "CA"
+    },
+    "phone": "866/608-9526"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Penske Buick, GMC of Cerritos",
+    "url": "http://www.cerritosgm.com",
+    "address": {
+        "address": "18400 Studebaker Road",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "562/733-3800"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Penske Cadillac Buick GMC Southbay",
+    "url": "http://www.penskecadillac.com",
+    "address": {
+        "address": "18600 Hawthorne Blvd.",
+        "city": "Torrance",
+        "state": "CA"
+    },
+    "phone": "877/301-7551"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Rally Auto Group",
+    "url": "http://www.rallyauto.com",
+    "address": {
+        "address": "39012 Carriage Way",
+        "city": "Palmdale",
+        "state": "CA"
+    },
+    "phone": "866/647-1450"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Simpson Buick/GMC",
+    "url": "http://www.simpsonautomotivegroup.com/",
+    "address": {
+        "address": "6600 Auto Center Drive",
+        "city": "Buena Park",
+        "state": "CA"
+    },
+    "phone": "866/894-7589"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Suburban Buick, GMC, Cadillac",
+    "url": "http://www.ocbuickgmccadillac.com",
+    "address": {
+        "address": "2626 Harbor Blvd.",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/444-5200"
+}, {
+    "maker": {
+        "id": "4",
+        "name": "BUICK"
+    },
+    "name": "Tustin Buick GMC",
+    "url": "http://www.tustinbuick.com",
+    "address": {
+        "address": "1 Auto Center Drive",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "714/669-3699"
+}, {
+    "maker": {
+        "id": "6",
+        "name": "CADILLAC"
+    },
+    "name": "Allen Cadillac, GMC",
+    "url": "http://www.allencadillac.com",
+    "address": {
+        "address": "28332 Camino Capistrano",
+        "city": "Laguna Niguel",
+        "state": "CA"
+    },
+    "phone": "800/553-8395"
+}, {
+    "maker": {
+        "id": "6",
+        "name": "CADILLAC"
+    },
+    "name": "Boulevard Cadillac",
+    "url": "http://www.boulevard4u.com",
+    "address": {
+        "address": "2850 Cherry Ave",
+        "city": "Signal Hill",
+        "state": "CA"
+    },
+    "phone": "562/492-1000"
+}, {
+    "maker": {
+        "id": "6",
+        "name": "CADILLAC"
+    },
+    "name": "Crestview Cadillac",
+    "url": "http://www.crestviewcaddy.com",
+    "address": {
+        "address": "2700 E. Garvey Ave. So.",
+        "city": "West Covina",
+        "state": "CA"
+    },
+    "phone": "866/701-4229"
+}, {
+    "maker": {
+        "id": "6",
+        "name": "CADILLAC"
+    },
+    "name": "Dutton Cadillac/Buick/GMC",
+    "url": "http://www.duttonmotorcompany.com",
+    "address": {
+        "address": "8201 Auto Drive",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "951/643-7012"
+}, {
+    "maker": {
+        "id": "6",
+        "name": "CADILLAC"
+    },
+    "name": "Hoehn Buick GMC Cadillac",
+    "url": "http://www.carlsbadbuickgmccadillac.com",
+    "address": {
+        "address": "5334 Paseo del Norte",
+        "city": "Carlsbad",
+        "state": "CA"
+    },
+    "phone": "888/449-5165"
+}, {
+    "maker": {
+        "id": "6",
+        "name": "CADILLAC"
+    },
+    "name": "Mark Christopher Auto Center",
+    "url": "http://www.markchristopher.com",
+    "address": {
+        "address": "2131 Convention Center Way",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "877/593-2514"
+}, {
+    "maker": {
+        "id": "6",
+        "name": "CADILLAC"
+    },
+    "name": "North County Buick, Cadillac, GMC",
+    "url": "http://www.ncbcg.com",
+    "address": {
+        "address": "1515 Auto Park Way N",
+        "city": "Escondido",
+        "state": "CA"
+    },
+    "phone": "866/608-9526"
+}, {
+    "maker": {
+        "id": "6",
+        "name": "CADILLAC"
+    },
+    "name": "Penske Cadillac Buick GMC Southbay",
+    "url": "http://www.penskecadillac.com",
+    "address": {
+        "address": "18600 Hawthorne Blvd.",
+        "city": "Torrance",
+        "state": "CA"
+    },
+    "phone": "877/301-7551"
+}, {
+    "maker": {
+        "id": "6",
+        "name": "CADILLAC"
+    },
+    "name": "Rally Auto Group",
+    "url": "http://www.rallyauto.com",
+    "address": {
+        "address": "39012 Carriage Way",
+        "city": "Palmdale",
+        "state": "CA"
+    },
+    "phone": "866/647-1450"
+}, {
+    "maker": {
+        "id": "6",
+        "name": "CADILLAC"
+    },
+    "name": "Renick Cadillac",
+    "url": "http://www.renickcadillac.com",
+    "address": {
+        "address": "1100 S Euclid St",
+        "city": "Fullerton",
+        "state": "CA"
+    },
+    "phone": "714/871-9300"
+}, {
+    "maker": {
+        "id": "6",
+        "name": "CADILLAC"
+    },
+    "name": "Suburban Buick, GMC, Cadillac",
+    "url": "http://www.ocbuickgmccadillac.com",
+    "address": {
+        "address": "2626 Harbor Blvd.",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/444-5200"
+}, {
+    "maker": {
+        "id": "6",
+        "name": "CADILLAC"
+    },
+    "name": "Tustin Cadillac",
+    "url": "http://www.tustincadillac.com",
+    "address": {
+        "address": "50 Auto Center Drive",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "714/734-2400"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Antelope Valley Chevrolet",
+    "url": "http://www.avchevy.com",
+    "address": {
+        "address": "1160 West Motor Lane",
+        "city": "Lancaster",
+        "state": "CA"
+    },
+    "phone": "877/385-0885"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "AutoNation Chevrolet Valencia",
+    "url": "http://www.autonationchevroletvalencia.com/",
+    "address": {
+        "address": "23649 Valencia Blvd.",
+        "city": "Valencia",
+        "state": "CA"
+    },
+    "phone": "661/259-2820"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Camino Real Chevrolet",
+    "url": "http://www.chevyofmontereypark.com",
+    "address": {
+        "address": "2401 S Atlantic Blvd",
+        "city": "Monterey Park",
+        "state": "CA"
+    },
+    "phone": "323/264-3050"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Chevrolet of Glendora",
+    "url": "http://www.glendorachevrolet.com",
+    "address": {
+        "address": "1959 Auto Center Drive",
+        "city": "Glendora",
+        "state": "CA"
+    },
+    "phone": "909/474-7364"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Chevrolet of Montebello",
+    "url": "http://chevcroletofmontebello.com",
+    "address": {
+        "address": "310 W. Whittier Blvd.",
+        "city": "Montebello",
+        "state": "CA"
+    },
+    "phone": "323/728-9181"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Connell Chevrolet",
+    "url": "http://www.connellchevrolet.com/",
+    "address": {
+        "address": "2828 Harbor Blvd.",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/546-1200"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "DeLillo Chevrolet",
+    "url": "http://www.delillo.com",
+    "address": {
+        "address": "18211 Beach Blvd.",
+        "city": "Huntington Beach",
+        "state": "CA"
+    },
+    "phone": "714/847-6087"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Diamond Hills Chevrolet, Buick, GMC",
+    "url": "http://www.diamondhillschevroletbuickgmc.com",
+    "address": {
+        "address": "4545 W Ramsey St.",
+        "city": "Banning",
+        "state": "CA"
+    },
+    "phone": "866/220-9099"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "George Chevrolet",
+    "url": "http://www.georgechevy.com/",
+    "address": {
+        "address": "17000 Lakewood Blvd",
+        "city": "Bellflower",
+        "state": "CA"
+    },
+    "phone": "562/925-8880"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Gosch Chevrolet",
+    "url": "http://www.goschchevy.com",
+    "address": {
+        "address": "400 Carriage Circle",
+        "city": "Hemet",
+        "state": "CA"
+    },
+    "phone": "877/837-0558"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Guaranty Chevrolet",
+    "url": "http://www.guarantychevrolet.com/",
+    "address": {
+        "address": "711 E. 17th Str.",
+        "city": "Santa Ana",
+        "state": "CA"
+    },
+    "phone": "714/973-1711"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Harbor Chevrolet",
+    "url": "http://www.harborchevrolet.com",
+    "address": {
+        "address": "3770 Cherry Ave",
+        "city": "Long Beach",
+        "state": "CA"
+    },
+    "phone": "866/973-0316"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Hoehn Buick GMC Cadillac",
+    "url": "http://www.carlsbadbuickgmccadillac.com",
+    "address": {
+        "address": "5334 Paseo del Norte",
+        "city": "Carlsbad",
+        "state": "CA"
+    },
+    "phone": "888/449-5165"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Mark Christopher Auto Center",
+    "url": "http://www.markchristopher.com",
+    "address": {
+        "address": "2131 Convention Center Way",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "877/593-2514"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Martin Chevrolet",
+    "url": "http://www.martinchevrolet.com",
+    "address": {
+        "address": "23505 Hawthorne Blvd.",
+        "city": "Torrance",
+        "state": "CA"
+    },
+    "phone": "866/902-9379"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Moss Bros. Chevrolet",
+    "url": "http://www.morenovalleychevy.com",
+    "address": {
+        "address": "12625 Auto Mall Drive ",
+        "city": "Moreno Valley",
+        "state": "CA"
+    },
+    "phone": "888/287-3056"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Penske Chevrolet of Cerritos",
+    "url": "http://www.penskechevrolet.com",
+    "address": {
+        "address": "18605 Studebaker Rd",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "562/924-1676"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Premier Chevrolet of Buena Park",
+    "url": "http://www.premierchevybp.com",
+    "address": {
+        "address": "6195 Auto Center Drive",
+        "city": "Buena Park",
+        "state": "CA"
+    },
+    "phone": "714/868-4044"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Riverside Chevrolet",
+    "url": "http://www.myriversidechevy.com",
+    "address": {
+        "address": "8200 Auto Drive",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "951/643-7003"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Rotolo Chevrolet ",
+    "url": "http://www.rotolochevy.com",
+    "address": {
+        "address": "16666 South Highland Ave.",
+        "city": "Fontana",
+        "state": "CA"
+    },
+    "phone": "866/756-9776"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Selman Chevrolet",
+    "url": "http://www.selmanchevy.com/",
+    "address": {
+        "address": "1800 E. Chapman Ave.",
+        "city": "Orange",
+        "state": "CA"
+    },
+    "phone": "714/633-3521"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Simpson Chevrolet",
+    "url": "http://www.simpsonchevroletgardengrove.com/",
+    "address": {
+        "address": "10150 Trask Ave.",
+        "city": "Garden Grove",
+        "state": "CA"
+    },
+    "phone": "714/534-2700"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Simpson Chevrolet of Irvine",
+    "url": "http://www.simpsonchevroletirvine.com",
+    "address": {
+        "address": "21 Auto Center Drive",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/457-2097"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Simpson Chevrolet of Irvine",
+    "url": "http://www.simpsonchevroletirvine.com",
+    "address": {
+        "address": "21 Auto Center Drive",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/457-2097"
+}, {
+    "maker": {
+        "id": "7",
+        "name": "CHEVROLET"
+    },
+    "name": "Win Chevrolet, Hyundai",
+    "url": "http://www.winhyundaicarson.com",
+    "address": {
+        "address": "2201 E. 223 St.",
+        "city": "Carson",
+        "state": "CA"
+    },
+    "phone": "800/416-7422"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Alhambra Chrysler Jeep Dodge Ram",
+    "url": "http://www.alhambracdjr.com",
+    "address": {
+        "address": "1100 W. Main Street",
+        "city": "Alhambra",
+        "state": "CA"
+    },
+    "phone": "626/537-2400"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "AutoNation Chrysler, Dodge, Jeep, Ram",
+    "url": "http://www.autonationchryslerdodgejeepramroseville.com",
+    "address": {
+        "address": "200 Auto Mall Dr.",
+        "city": "Roseville",
+        "state": "CA"
+    },
+    "phone": "888/453-3697"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Bob Baker Chrysler Jeep Dodge Ram",
+    "url": "http://www.bobbakerchryslerjeep.net",
+    "address": {
+        "address": "5555 Car Country Drive",
+        "city": "Carlsbad",
+        "state": "CA"
+    },
+    "phone": "877/363-2393"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Cerritos Dodge Chrysler Jeep",
+    "url": "http://www.browningautogroup.com",
+    "address": {
+        "address": "18803 Studebaker Road",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "800/565-5640"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Courtesy Chrysler, Dodge, Jeep, Ram",
+    "url": "http://courtesycdjroforangecounty.com/",
+    "address": {
+        "address": "32881 Camino Capistrano",
+        "city": "San Juan Capistrano",
+        "state": "CA"
+    },
+    "phone": "949/373-0100"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "DCH Chrysler Dodge Jeep Ram Fiat of Temecula",
+    "url": "http://www.dchchryslerjeepdodgeoftemecula.com",
+    "address": {
+        "address": "326845 Ynez Rd.",
+        "city": "Temecula",
+        "state": "CA"
+    },
+    "phone": "877/742-4060"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Glendora Dodge Chrysler Jeep",
+    "url": "http://www.glendorachryslerjeepdodge.com",
+    "address": {
+        "address": "931 South Lone Hill Ave.",
+        "city": "Glendora",
+        "state": "CA"
+    },
+    "phone": "909/599-9300"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Glenn Thomas Chrysler Dodge",
+    "url": "http://www.getdodge.com",
+    "address": {
+        "address": "2100 E. Spring St.",
+        "city": "Signal Hill",
+        "state": "CA"
+    },
+    "phone": "877/386-8292"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Hemet Chrysler Dodge Jeep Ram",
+    "url": "http://www.hemetcdjr.com",
+    "address": {
+        "address": "240 Carriage Circle",
+        "city": "Hemet",
+        "state": "CA"
+    },
+    "phone": "888/690-3740"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Hunter Dodge Chrysler Jeep Ram",
+    "url": "http://www.hunterdodgechryslerjeep.net",
+    "address": {
+        "address": "1130 Auto Mall Dr.",
+        "city": "Lancaster",
+        "state": "CA"
+    },
+    "phone": "661/522-0108"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Jack Powell Chrysler Jeep Dodge Ram",
+    "url": "http://www.jackpowell.com",
+    "address": {
+        "address": "1625 Auto Park Way",
+        "city": "Escondido",
+        "state": "CA"
+    },
+    "phone": "888/287-7293"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Lake Elsinore Chrysler, Dodge, Jeep",
+    "url": "http://www.lakecdjr.com/",
+    "address": {
+        "address": "31400 Auto Center Dr",
+        "city": "Lake Elsinore",
+        "state": "CA"
+    },
+    "phone": "951/291-9700"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Moss Bros. Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.mossbroscjdsanbernardino.com",
+    "address": {
+        "address": "1100 S E St",
+        "city": "San Bernardino",
+        "state": "CA"
+    },
+    "phone": "909/884-8255"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Moss Bros. Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.mossbroschryslerjeepdodgeramriverside.com",
+    "address": {
+        "address": "8151 Auto Drive",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "866/553-7955"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Moss Bros. Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.mossbroscjdrmorenovalley.com",
+    "address": {
+        "address": "27810 Eucalyptus Ave",
+        "city": "Moreno Valley",
+        "state": "CA"
+    },
+    "phone": "877/728-2735"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Motor Village LA",
+    "url": "http://www.motorvillage.com",
+    "address": {
+        "address": "2025 S. Figueroa St.",
+        "city": "Los Angeles",
+        "state": "CA"
+    },
+    "phone": "855/346-6867"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Orange Coast Jeep, Chrysler, Dodge",
+    "url": "http://www.ocauto.com/",
+    "address": {
+        "address": "2929 Harbor Blvd",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/549-8023"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Premier Chrysler Jeep of Placentia",
+    "url": "http://www.premierchryslerjeepofplacentia.net",
+    "address": {
+        "address": "777 W Orangethorpe Ave",
+        "city": "Placentia",
+        "state": "CA"
+    },
+    "phone": "714/527-5337"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Puente Hills Chrysler Dodge Jeep",
+    "url": "http://www.puentehillschryslerjeepdodge.com",
+    "address": {
+        "address": "17280 E. Gale Ave",
+        "city": "City of Industry",
+        "state": "CA"
+    },
+    "phone": "626/626-2000"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Rancho Chrysler Jeep Dodge Ram",
+    "url": "http://www.ranchocjd.com",
+    "address": {
+        "address": "8010 Balboa Ave",
+        "city": "San Diego",
+        "state": "CA"
+    },
+    "phone": "888/718-8497"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Redlands Auto Plaza",
+    "url": "http://www.redlandsautoplaza.com",
+    "address": {
+        "address": "500 W. Redlands Blvd.",
+        "city": "Redlands",
+        "state": "CA"
+    },
+    "phone": "866/965-4163"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Scott Robinson Chrysler Jeep Dodge Ram",
+    "url": "http://www.scottrobinsonchryslerdodgejeepram.com",
+    "address": {
+        "address": "20900 Hawthorne Blvd.",
+        "city": "Torrance",
+        "state": "CA"
+    },
+    "phone": "424/299-8800"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Tuttle-Click Chrysler Jeep Dodge",
+    "url": "http://www.tuttle-clickchrysler.com",
+    "address": {
+        "address": "40 Auto Center Dr.",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/472-7400"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Tuttle-Click`s Tustin Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.tuttleclickstustincjd.com",
+    "address": {
+        "address": "40 Auto Center Drive",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "714/730-4600"
+}, {
+    "maker": {
+        "id": "8",
+        "name": "CHRYSLER"
+    },
+    "name": "Victorville Motors",
+    "url": "http://www.victorvillemotors.com",
+    "address": {
+        "address": "14617 Civic Drive",
+        "city": "Victorville",
+        "state": "CA"
+    },
+    "phone": "760/245-7991"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Alhambra Chrysler Jeep Dodge Ram",
+    "url": "http://www.alhambracdjr.com",
+    "address": {
+        "address": "1100 W. Main Street",
+        "city": "Alhambra",
+        "state": "CA"
+    },
+    "phone": "626/537-2400"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "AutoNation Chrysler, Dodge, Jeep, Ram",
+    "url": "http://www.autonationchryslerdodgejeepramroseville.com",
+    "address": {
+        "address": "200 Auto Mall Dr.",
+        "city": "Roseville",
+        "state": "CA"
+    },
+    "phone": "888/453-3697"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Bob Baker Chrysler Jeep Dodge Ram",
+    "url": "http://www.bobbakerchryslerjeep.net",
+    "address": {
+        "address": "5555 Car Country Drive",
+        "city": "Carlsbad",
+        "state": "CA"
+    },
+    "phone": "877/363-2393"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Cerritos Dodge Chrysler Jeep",
+    "url": "http://www.browningautogroup.com",
+    "address": {
+        "address": "18803 Studebaker Road",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "800/565-5640"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Courtesy Chrysler, Dodge, Jeep, Ram",
+    "url": "http://www.courtesycdjroforangecounty.com/",
+    "address": {
+        "address": "32881 Camino Capistrano",
+        "city": "San Juan Capistrano",
+        "state": "CA"
+    },
+    "phone": "949/373-0100"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "DCH Chrysler Dodge Jeep Ram Fiat of Temecula",
+    "url": "http://www.dchchryslerjeepdodgeoftemecula.com",
+    "address": {
+        "address": "326845 Ynez Rd.",
+        "city": "Temecula",
+        "state": "CA"
+    },
+    "phone": "877/742-4060"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Glendora Dodge Chrysler Jeep",
+    "url": "http://www.glendorachryslerjeepdodge.com",
+    "address": {
+        "address": "931 South Lone Hill Ave.",
+        "city": "Glendora",
+        "state": "CA"
+    },
+    "phone": "909/599-9300"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Glenn Thomas Chrysler Dodge",
+    "url": "http://www.getdodge.com",
+    "address": {
+        "address": "2100 E. Spring St.",
+        "city": "Signal Hill",
+        "state": "CA"
+    },
+    "phone": "877/386-8292"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Hemet Chrysler Dodge Jeep Ram",
+    "url": "http://www.hemetcdjr.com",
+    "address": {
+        "address": "240 Carriage Circle",
+        "city": "Hemet",
+        "state": "CA"
+    },
+    "phone": "888/690-3740"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Hunter Dodge Chrysler Jeep Ram",
+    "url": "http://www.hunterdodgechryslerjeep.net",
+    "address": {
+        "address": "1130 Auto Mall Dr.",
+        "city": "Lancaster",
+        "state": "CA"
+    },
+    "phone": "661/522-0108"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Jack Powell Chrysler Jeep Dodge Ram",
+    "url": "http://www.jackpowell.com",
+    "address": {
+        "address": "1625 Auto Park Way",
+        "city": "Escondido",
+        "state": "CA"
+    },
+    "phone": "888/287-7293"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Lake Elsinore Chrysler, Dodge, Jeep",
+    "url": "http://www.lakecdjr.com/",
+    "address": {
+        "address": "31400 Auto Center Dr",
+        "city": "Lake Elsinore",
+        "state": "CA"
+    },
+    "phone": "951/291-9700"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "McPeek's Dodge",
+    "url": "http://www.mcpeekdodge.com/",
+    "address": {
+        "address": "1221 S Auto Center Dr.",
+        "city": "Anaheim",
+        "state": "CA"
+    },
+    "phone": "714/635-2340"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Moss Bros. Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.mossbroscjdrmorenovalley.com",
+    "address": {
+        "address": "27810 Eucalyptus Ave",
+        "city": "Moreno Valley",
+        "state": "CA"
+    },
+    "phone": "877/728-2735"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Moss Bros. Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.mossbroschryslerjeepdodgeramriverside.com",
+    "address": {
+        "address": "8151 Auto Drive",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "866/553-7955"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Moss Bros. Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.mossbroscjdsanbernardino.com",
+    "address": {
+        "address": "1100 S E St",
+        "city": "San Bernardino",
+        "state": "CA"
+    },
+    "phone": "909/884-8255"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Motor Village LA",
+    "url": "http://www.motorvillage.com",
+    "address": {
+        "address": "2025 S. Figueroa St.",
+        "city": "Los Angeles",
+        "state": "CA"
+    },
+    "phone": "855/346-6867"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Orange Coast Jeep, Chrysler, Dodge",
+    "url": "http://www.ocauto.com/",
+    "address": {
+        "address": "2929 Harbor Blvd",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/549-8023"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Puente Hills Chrysler Dodge Jeep",
+    "url": "http://www.puentehillschryslerjeepdodge.com",
+    "address": {
+        "address": "17280 E. Gale Ave",
+        "city": "City of Industry",
+        "state": "CA"
+    },
+    "phone": "626/626-2000"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Rancho Chrysler Jeep Dodge Ram",
+    "url": "http://www.ranchocjd.com",
+    "address": {
+        "address": "8010 Balboa Ave",
+        "city": "San Diego",
+        "state": "CA"
+    },
+    "phone": "888/718-8497"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Redlands Auto Plaza",
+    "url": "http://www.redlandsautoplaza.com",
+    "address": {
+        "address": "500 W. Redlands Blvd.",
+        "city": "Redlands",
+        "state": "CA"
+    },
+    "phone": "866/965-4163"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Scott Robinson Chrysler Jeep Dodge Ram",
+    "url": "http://www.scottrobinsonchryslerdodgejeepram.com",
+    "address": {
+        "address": "20900 Hawthorne Blvd.",
+        "city": "Torrance",
+        "state": "CA"
+    },
+    "phone": "424/299-8800"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Tuttle-Click Chrysler Jeep Dodge",
+    "url": "http://www.tuttle-clickchrysler.com",
+    "address": {
+        "address": "40 Auto Center Dr.",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/472-7400"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Tuttle-Click`s Tustin Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.tuttleclickstustincjd.com",
+    "address": {
+        "address": "40 Auto Center Drive",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "714/730-4600"
+}, {
+    "maker": {
+        "id": "9",
+        "name": "DODGE"
+    },
+    "name": "Victorville Motors",
+    "url": "http://www.victorvillemotors.com",
+    "address": {
+        "address": "14617 Civic Drive",
+        "city": "Victorville",
+        "state": "CA"
+    },
+    "phone": "760/245-7991"
+}, {
+    "maker": {
+        "id": "36",
+        "name": "FIAT"
+    },
+    "name": "DCH Chrysler Dodge Jeep Ram Fiat of Temecula",
+    "url": "http://www.dchchryslerjeepdodgeoftemecula.com",
+    "address": {
+        "address": "326845 Ynez Rd.",
+        "city": "Temecula",
+        "state": "CA"
+    },
+    "phone": "877/742-4060"
+}, {
+    "maker": {
+        "id": "36",
+        "name": "FIAT"
+    },
+    "name": "Desert Fiat",
+    "url": "http://www.desertfiat.com",
+    "address": {
+        "address": "14850 La Paz Place",
+        "city": "Victorville",
+        "state": "CA"
+    },
+    "phone": "760/269-4100"
+}, {
+    "maker": {
+        "id": "36",
+        "name": "FIAT"
+    },
+    "name": "Fiat Los Angeles",
+    "url": "http://www.fiatusaoflosangeles.com",
+    "address": {
+        "address": "2025 S. Figueroa St.",
+        "city": "Los Angeles",
+        "state": "CA"
+    },
+    "phone": "323/933-5501"
+}, {
+    "maker": {
+        "id": "36",
+        "name": "FIAT"
+    },
+    "name": "Motor Village LA",
+    "url": "http://www.motorvillage.com",
+    "address": {
+        "address": "2025 S. Figueroa St.",
+        "city": "Los Angeles",
+        "state": "CA"
+    },
+    "phone": "855/346-6867"
+}, {
+    "maker": {
+        "id": "36",
+        "name": "FIAT"
+    },
+    "name": "Santa Monica Fiat",
+    "url": "http://www.santamonicafiat.com",
+    "address": {
+        "address": "1820 Santa Monica Blvd.",
+        "city": "Santa Monica",
+        "state": "CA"
+    },
+    "phone": "888/451-9280"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Airport Marina Ford",
+    "url": "http://www.airportmarinaford.com",
+    "address": {
+        "address": "5880 W. Centinela Ave",
+        "city": "Los Angeles",
+        "state": "CA"
+    },
+    "phone": "310/649-3673"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Antelope Valley Ford",
+    "url": "http://www.avford.com",
+    "address": {
+        "address": "1155 Auto Mall Drive",
+        "city": "Lancaster",
+        "state": "CA"
+    },
+    "phone": "888/244-0072"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "AutoNation Ford and Lincoln of Tustin",
+    "url": "http://www.powerfordtustin.net",
+    "address": {
+        "address": "2 Auto Center Drive",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "714/832-3300"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "AutoNation Ford of Torrance",
+    "url": "http://www.powerford-torrance.net",
+    "address": {
+        "address": "3111 Pacific Coast Hwy",
+        "city": "Torrance",
+        "state": "CA"
+    },
+    "phone": "310/784-4700"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "AutoNation Ford Valencia",
+    "url": "http://www.autonationfordvalencia.com/",
+    "address": {
+        "address": "23920 Creekside Road",
+        "city": "Valencia",
+        "state": "CA"
+    },
+    "phone": "661/255-6600"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Bob Wondries Ford",
+    "url": "http://www.bobwondriesford.com",
+    "address": {
+        "address": "400 S. Atlantic Blvd.",
+        "city": "Alhambra",
+        "state": "CA"
+    },
+    "phone": "626/289-3591"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Citrus Motors Ford & KIA",
+    "url": "http://www.citrusmotors.com",
+    "address": {
+        "address": "1375 S.Woodruff Way",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "888/603-1645"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "David Wilson's Ford of Orange",
+    "url": "http://www.fordoforange.com/",
+    "address": {
+        "address": "1350 W. Katella",
+        "city": "Orange",
+        "state": "CA"
+    },
+    "phone": "714/633-6731"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "David Wilson's Villa Ford",
+    "url": "http://www.villaford.com/",
+    "address": {
+        "address": "2550 N. Tustin Ave. ",
+        "city": "Orange",
+        "state": "CA"
+    },
+    "phone": "888/898-7888"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Fairview Ford",
+    "url": "http://www.fairviewfird.com",
+    "address": {
+        "address": "292 North G Street",
+        "city": "San Bernardino",
+        "state": "CA"
+    },
+    "phone": "888/720-3274"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Fairway Ford",
+    "url": "http://www.go2fairway.com/",
+    "address": {
+        "address": "1350 Yorba Linda Blvd.",
+        "city": "Placentia",
+        "state": "CA"
+    },
+    "phone": "714/524-1200"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Ford of Escondido",
+    "url": "http://www.fordofescondido.com",
+    "address": {
+        "address": "1717 Auto Park Way",
+        "city": "Escondido",
+        "state": "CA"
+    },
+    "phone": "888/876-7765"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Ford of Montebello",
+    "url": "http://www.fordofmontebello.com",
+    "address": {
+        "address": "2747 Via Campo",
+        "city": "Montebello",
+        "state": "CA"
+    },
+    "phone": "323/838-6920"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Ford of West Covina",
+    "url": "http://www.fordofwestcovina.com",
+    "address": {
+        "address": "2000 E. Garvey Ave S",
+        "city": "West Covina",
+        "state": "CA"
+    },
+    "phone": "626/709-3550"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Fritts Ford",
+    "url": "http://www.frittsfordriverside.com",
+    "address": {
+        "address": "8000 Auto Drive",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "951/353-8800"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Gosch Ford Hemet",
+    "url": "http://www.goschfordhemet.com",
+    "address": {
+        "address": "150 Carriage Cir",
+        "city": "Hemet",
+        "state": "CA"
+    },
+    "phone": "855/975-9543"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Gosch Ford Temecula",
+    "url": "http://www.ranchoford.com",
+    "address": {
+        "address": "26895 Ynez Rd.",
+        "city": "Temecula",
+        "state": "CA"
+    },
+    "phone": "855/975-9574"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Hemborg Ford Inc.",
+    "url": "http://www.hemborgford.net",
+    "address": {
+        "address": "1900 Hamner Ave.",
+        "city": "Norco",
+        "state": "CA"
+    },
+    "phone": "951/737-6151"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Huntington Beach Ford",
+    "url": "http://www.huntingtonbeachford.com",
+    "address": {
+        "address": "18255 Beach Blvd.",
+        "city": "Huntington Beach",
+        "state": "CA"
+    },
+    "phone": "714/842-6611"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Lake Elsinore Ford",
+    "url": "http://www.lakeElsinoreford.com",
+    "address": {
+        "address": "31500 Auto Center Dr.",
+        "city": "Lake Elsinore",
+        "state": "CA"
+    },
+    "phone": "800/891-2819"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "McCoy Mills Ford",
+    "url": "http://www.mccoymillsford.com/",
+    "address": {
+        "address": "700 W. Commonwealth Ave.",
+        "city": "Fullerton",
+        "state": "CA"
+    },
+    "phone": "714/526-5501"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Mossy Ford",
+    "url": "http://www.mossyford.com",
+    "address": {
+        "address": "4570 Mission Bay Dr.",
+        "city": "San Diego",
+        "state": "CA"
+    },
+    "phone": "858/273-7552"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Norm Reeves Ford Superstore",
+    "url": "http://www.cerritosford.com",
+    "address": {
+        "address": "18900 Studebaker Road",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "562/860-4412"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "North County Ford",
+    "url": "http://www.northcountyford.com",
+    "address": {
+        "address": "450 West Vista",
+        "city": "Vista",
+        "state": "CA"
+    },
+    "phone": "800/837-2135"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Raceway Ford",
+    "url": "http://www.racewayfordfleet.com",
+    "address": {
+        "address": "5900 Sycamore Canyon Blvd",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "800/781-3129"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Redlands Ford",
+    "url": "http://www.redlandsford.com",
+    "address": {
+        "address": "1121 West Colton Ave.",
+        "city": "Redlands",
+        "state": "CA"
+    },
+    "phone": "888/392-7149"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Santa Margarita Ford",
+    "url": "http://www.santamargaritaford.com/",
+    "address": {
+        "address": "30031 Santa Margarita Pkwy.",
+        "city": "Rancho Santa Margarita",
+        "state": "CA"
+    },
+    "phone": "800/289-3673"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Santa Monica Ford",
+    "url": "http://www.smford.com",
+    "address": {
+        "address": "1230 Santa Monica Blvd.",
+        "city": "Santa Monica",
+        "state": "CA"
+    },
+    "phone": "310/451-1588"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Sunrise Ford North Hollywood",
+    "url": "http://www.sunrisefordofnorthhollywood.com",
+    "address": {
+        "address": "5525 Lankershim Blvd",
+        "city": "North Hollywood",
+        "state": "CA"
+    },
+    "phone": "818/980-9800"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Theodore Robins Ford",
+    "url": "http://www.robinsford.com",
+    "address": {
+        "address": "2060 Harbor Blvd.",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "866/939-3819"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Tuttle Click Ford",
+    "url": "http://www.tuttleclickford.com",
+    "address": {
+        "address": "43 Auto Center Drive",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/245-6302"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Tuttle Click's Capistrano Ford",
+    "url": "http://www.capistranoford.com",
+    "address": {
+        "address": "33949 Camino Capistrano",
+        "city": "San Juan Capistrano",
+        "state": "CA"
+    },
+    "phone": "949/240-7000"
+}, {
+    "maker": {
+        "id": "11",
+        "name": "FORD"
+    },
+    "name": "Worthington Ford",
+    "url": "http://www.calworthington.com",
+    "address": {
+        "address": "2950 N. Bellflower Blvd.",
+        "city": "Long Beach",
+        "state": "CA"
+    },
+    "phone": "562/420-3333"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Allen Cadillac, GMC",
+    "url": "http://www.allencadillacgmc.com",
+    "address": {
+        "address": "28332 Camino Capistrano",
+        "city": "Laguna Niguel",
+        "state": "CA"
+    },
+    "phone": "877/323-4752"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Diamond Hills Chevrolet, Buick, GMC",
+    "url": "http://www.diamondhillschevroletbuickgmc.com",
+    "address": {
+        "address": "4545 W Ramsey St.",
+        "city": "Banning",
+        "state": "CA"
+    },
+    "phone": "866/220-9099"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Dutton Cadillac/Buick/GMC",
+    "url": "http://www.duttonmotorcompany.com",
+    "address": {
+        "address": "8201 Auto Drive",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "951/643-7012"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Hardin Buick, GMC",
+    "url": "http://www.hardingmc.com",
+    "address": {
+        "address": "1321 Auto Center Drive",
+        "city": "Anaheim",
+        "state": "CA"
+    },
+    "phone": "714/635-2020"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Hatfield Buick GMC",
+    "url": "http://www.hatfieldbuick.com",
+    "address": {
+        "address": "301 E. Redlands Blvd.",
+        "city": "Redlands",
+        "state": "CA"
+    },
+    "phone": "909/748-5385"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Mark Christopher Auto Center",
+    "url": "http://www.markchristopher.com",
+    "address": {
+        "address": "2131 Convention Center Way",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "877/593-2514"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Moss Bros. Buick, GMC",
+    "url": "http://mossbrosbuickgmcmorenovalley.com",
+    "address": {
+        "address": "12675 Auto Mall Drive",
+        "city": "Moreno Valley",
+        "state": "CA"
+    },
+    "phone": "888/282-0548"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Norm Reeves Buick GMC",
+    "url": "http://www.normreevesbuickgmc.com",
+    "address": {
+        "address": "14 Auto Center Dr",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/328-0268"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "North County Buick, Cadillac, GMC",
+    "url": "http://www.ncbcg.com",
+    "address": {
+        "address": "1515 Auto Park Way N",
+        "city": "Escondido",
+        "state": "CA"
+    },
+    "phone": "866/608-9526"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Penske Buick, GMC of Cerritos",
+    "url": "http://www.cerritosgm.com",
+    "address": {
+        "address": "18400 Studebaker Road",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "562/733-3800"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Penske Cadillac Buick GMC Southbay",
+    "url": "http://www.penskecadillac.com",
+    "address": {
+        "address": "18600 Hawthorne Blvd.",
+        "city": "Torrance",
+        "state": "CA"
+    },
+    "phone": "877/301-7551"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Rally Auto Group",
+    "url": "http://www.rallyauto.com",
+    "address": {
+        "address": "39012 Carriage Way",
+        "city": "Palmdale",
+        "state": "CA"
+    },
+    "phone": "866/647-1450"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Simpson Buick GMC",
+    "url": "http://www.simpsonautomotivegroup.com/",
+    "address": {
+        "address": "6600 Auto Center Drive",
+        "city": "Buena Park",
+        "state": "CA"
+    },
+    "phone": "714/690-6200"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Suburban Buick, GMC, Cadillac",
+    "url": "http://www.ocbuickgmccadillac.com",
+    "address": {
+        "address": "2626 Harbor Blvd",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/444-5200"
+}, {
+    "maker": {
+        "id": "12",
+        "name": "GMC"
+    },
+    "name": "Tustin Buick GMC",
+    "url": "http://www.tustingmc.com",
+    "address": {
+        "address": "1 Auto Center Drive",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "714/669-3699"
+}, {
+    "maker": {
+        "id": "44",
+        "name": "HARLEY-DAVIDSON"
+    },
+    "name": "Biggs Harley-Davidson",
+    "url": "http://www.biggshd.com",
+    "address": {
+        "address": "1040 Los Villecitos Blvd. Suite 113",
+        "city": "San Marcos",
+        "state": "CA"
+    },
+    "phone": "760/481-7300"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Airport Marina Honda",
+    "url": "http://www.airportmarinahonda.com",
+    "address": {
+        "address": "5850 Centinela Ave",
+        "city": "Los Angeles",
+        "state": "CA"
+    },
+    "phone": "310/649-2440"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "AutoNation Honda Costa Mesa",
+    "url": "http://www.costamesahonda.com/",
+    "address": {
+        "address": "2888 Harbor Blvd.",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/436-5050"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "AutoNation Honda Roseville",
+    "url": "http://www.autonationhondaroseville.com",
+    "address": {
+        "address": "230 Auto Mall Dr.",
+        "city": "Roseville",
+        "state": "CA"
+    },
+    "phone": "916/467-8056"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "AutoNation Honda Valencia",
+    "url": "http://www.autonationhondavalencia.com",
+    "address": {
+        "address": "23551 Magic Mountain Pkwy",
+        "city": "Valencia",
+        "state": "CA"
+    },
+    "phone": "661/200-9110"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Buena Park Honda",
+    "url": "http://www.buenaparkhonda.net/",
+    "address": {
+        "address": "6411 Beach Blvd",
+        "city": "Buena Park",
+        "state": "CA"
+    },
+    "phone": "714/690-8455"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Carson Honda",
+    "url": "http://www.carsonhonda.com",
+    "address": {
+        "address": "1435 E. 223rd St.",
+        "city": "Carson",
+        "state": "CA"
+    },
+    "phone": "310/834-4773"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Culver City Honda",
+    "url": "http://www.culvercityhonda.com/",
+    "address": {
+        "address": "9055 W. Washington Blvd.",
+        "city": "Culver City",
+        "state": "CA"
+    },
+    "phone": "310/815-3888"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "DCH Gardena Honda",
+    "url": "http://www.gardenahonda.com",
+    "address": {
+        "address": "15541 S. Western Ave",
+        "city": "Gardena",
+        "state": "CA"
+    },
+    "phone": "310/515-5700"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Diamond Honda",
+    "url": "http://www.diamondhonda.com",
+    "address": {
+        "address": "17525 E. Gale Ave",
+        "city": "City of Industry",
+        "state": "CA"
+    },
+    "phone": "626/935-1700"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Diamond Valley Honda",
+    "url": "http://www.diamondvalleyhonda.com",
+    "address": {
+        "address": "300 Carriage Circle",
+        "city": "Hemet",
+        "state": "CA"
+    },
+    "phone": "888/794-1620"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Freeway Honda",
+    "url": "http://www.freewayhonda.com",
+    "address": {
+        "address": "1505 Auto Mall Drive",
+        "city": "Santa Ana",
+        "state": "CA"
+    },
+    "phone": "714/547-3555"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Hardin Honda",
+    "url": "http://www.hardinhonda.com/",
+    "address": {
+        "address": "1381 Auto Center Dr.",
+        "city": "Anaheim",
+        "state": "CA"
+    },
+    "phone": "714/533-6200"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Honda Cars of Corona",
+    "url": "http://www.hondacarsofcorona.com",
+    "address": {
+        "address": "1080 Pomona Rd",
+        "city": "Corona",
+        "state": "CA"
+    },
+    "phone": "951/520- 5327"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Honda Lancaster",
+    "url": "http://www.hondalancaster.com",
+    "address": {
+        "address": "43244 Drivers Way",
+        "city": "Lancaster",
+        "state": "CA"
+    },
+    "phone": "888/758-7096"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Honda of Santa Maria",
+    "url": "http://www.hondaofsantamaria.com",
+    "address": {
+        "address": "2175 S. Bradley Road",
+        "city": "Santa Maria",
+        "state": "CA"
+    },
+    "phone": "805/922-4600"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Honda of Santa Monica",
+    "url": "http://www.hondaofsantamonica.com",
+    "address": {
+        "address": "1770 Santa Monica Blvd.",
+        "city": "Santa Monica",
+        "state": "CA"
+    },
+    "phone": "310/264-4900"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Honda World Westminster",
+    "url": "http://www.ochondaworld.com/",
+    "address": {
+        "address": "13600 Beach Blvd.",
+        "city": "Westminster",
+        "state": "CA"
+    },
+    "phone": "714/898-6777"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Lancaster Honda",
+    "url": "http://www.hondaoflancaster.com",
+    "address": {
+        "address": "43244 Drivers Way",
+        "city": "Lancaster",
+        "state": "CA"
+    },
+    "phone": "888/758-7096"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Long Beach Honda",
+    "url": "http://www.longbeachhonda.com",
+    "address": {
+        "address": "1500 E. Spring St.",
+        "city": "Signal Hill",
+        "state": "CA"
+    },
+    "phone": "526/781-6988"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Metro Honda",
+    "url": "http://www.metrohonda.com",
+    "address": {
+        "address": "9399 Autoplex Drive",
+        "city": "Montclair ",
+        "state": "CA"
+    },
+    "phone": "909/542-9646"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Moss Bros.Honda",
+    "url": "http://www.mossbroshondamorenovalley.com",
+    "address": {
+        "address": "27990 Eucalyptus Ave",
+        "city": "Moreno Valley",
+        "state": "CA"
+    },
+    "phone": "888/584-2050"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Nelson Honda",
+    "url": "http://www.mynelsonhonda.com",
+    "address": {
+        "address": "3464 N. Peck Road",
+        "city": "El Monte",
+        "state": "CA"
+    },
+    "phone": "626/258-3400"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Norm Reeves Honda #1 SUPERSTORE",
+    "url": "http://www.normreeves.com",
+    "address": {
+        "address": "18500 Studebaker Road",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "888/497-4433"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Norm Reeves Honda Huntington Beach",
+    "url": "http://www.normreeveshuntingtonbeach.com",
+    "address": {
+        "address": "19131 Beach Blvd.",
+        "city": "Huntington Beach",
+        "state": "CA"
+    },
+    "phone": "888/417-2556"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Norm Reeves Honda Superstore",
+    "url": "http://www.normreeveshondairvine.com",
+    "address": {
+        "address": "16 Auto Center Dr",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/830-7600"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Ocean Honda of San Juan Capistrano",
+    "url": "http://www.oceanhondasjc.com",
+    "address": {
+        "address": "33555 Camino Capistrano",
+        "city": "San Juan Capistrano",
+        "state": "CA"
+    },
+    "phone": "866/796-5257"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Ocean Honda of Whittier",
+    "url": "http://www.oceanhondawhittier.com",
+    "address": {
+        "address": "13839 Whittier Blvd",
+        "city": "Whittier",
+        "state": "CA"
+    },
+    "phone": "888/375-8561"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Penske Honda Ontario",
+    "url": "http://www.penskehondaontario.com",
+    "address": {
+        "address": "1401 Auto Center Drive",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "888/420-1373"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Poway Honda",
+    "url": "http://www.powayHonda.com",
+    "address": {
+        "address": "13747 Poway Rd.",
+        "city": "Poway",
+        "state": "CA"
+    },
+    "phone": "800/916-4794"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Rancho Santa Margarita Honda",
+    "url": "http://www.rsmhondaonline.com",
+    "address": {
+        "address": "29961 Santa Margarita Parkway",
+        "city": "Rancho Santa Margarita",
+        "state": "CA"
+    },
+    "phone": "888/219-6444"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Spreen Honda",
+    "url": "http://www.spreenhonda.com",
+    "address": {
+        "address": "25050 Redlands Blvd.",
+        "city": "Loma Linda",
+        "state": "CA"
+    },
+    "phone": "800/730-6819"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Valley Hi Honda",
+    "url": "http://www.valleyhihonda.com",
+    "address": {
+        "address": "1570 Valley Park Lane",
+        "city": "Victorville",
+        "state": "CA"
+    },
+    "phone": "888/248-8314"
+}, {
+    "maker": {
+        "id": "13",
+        "name": "HONDA"
+    },
+    "name": "Weir Canyon Honda",
+    "url": "http://www.weircanyonhonda.com/",
+    "address": {
+        "address": "8323 E. La Palma Ave.",
+        "city": "Anaheim",
+        "state": "CA"
+    },
+    "phone": "888/799-9915"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "CardinaleWay Hyundai",
+    "url": "http://www.Hyundaicorona.com",
+    "address": {
+        "address": "2525 Wardlow Rd",
+        "city": "Corona",
+        "state": "CA"
+    },
+    "phone": "951/817-7046"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Claremont Hyundai",
+    "url": "http://www.claremonthyundai.com",
+    "address": {
+        "address": "508 Auto Center Dr.",
+        "city": "Claremont",
+        "state": "CA"
+    },
+    "phone": "877/637-3484"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Commerce Hyundai",
+    "url": "http://www.commercehyundai.com",
+    "address": {
+        "address": "5440 Telegraph Road",
+        "city": "City of Commerce",
+        "state": "CA"
+    },
+    "phone": "323/725-1900"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Garden Grove Hyundai",
+    "url": "http://www.gardengrovehyundai.net",
+    "address": {
+        "address": "9898 Trask Ave.",
+        "city": "Garden Grove",
+        "state": "CA"
+    },
+    "phone": "714/741-3100"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Glendora Hyundai",
+    "url": "http://www.glendorahyundai.com",
+    "address": {
+        "address": "1253 S. Lone Hill Ave.",
+        "city": "Glendora",
+        "state": "CA"
+    },
+    "phone": "909/575-0145"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Harbor Hyundai",
+    "url": "http://www.harbor-hyundai.com",
+    "address": {
+        "address": "3770 Cherry Ave",
+        "city": "Long Beach",
+        "state": "CA"
+    },
+    "phone": "866/973-0316"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Huntington Beach Hyundai",
+    "url": "http://www.huntingtonbeachhyundai.com",
+    "address": {
+        "address": "16751 Beach Blvd",
+        "city": "Huntington Beach",
+        "state": "CA"
+    },
+    "phone": "714/594-1000"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Hyundai Inland Empire",
+    "url": "http://www.iehyundai.com",
+    "address": {
+        "address": "25072 Redlands Blvd.",
+        "city": "Loma Linda",
+        "state": "CA"
+    },
+    "phone": "855/418-0213"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Hyundai of La Quinta",
+    "url": "http://www.hyundaioflaquinta.com",
+    "address": {
+        "address": "79025 Hwy 111",
+        "city": "La Quinta",
+        "state": "CA"
+    },
+    "phone": "877/207-9310"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Norm Reeves Hyundai Superstore",
+    "url": "http://www.cerritoshyundai.com",
+    "address": {
+        "address": "18818 Studebaker Road ",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "877/421-7722"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Puente Hills Hyundai",
+    "url": "http://www.phhyundai.com",
+    "address": {
+        "address": "17621 E. Gale Ave.",
+        "city": "Industry",
+        "state": "CA"
+    },
+    "phone": "626/709-4492"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Rally Auto Group",
+    "url": "http://www.rallyhyundai.com",
+    "address": {
+        "address": "38958 Carriage Way",
+        "city": "Palmdale",
+        "state": "CA"
+    },
+    "phone": "661/878-9466"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Riverside Hyundai",
+    "url": "http://www.hyundairiverside.com",
+    "address": {
+        "address": "8330 Indiana Ave.",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "888/322-8594"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Romero Hyundai",
+    "url": "http://www.ontariohyundai.com",
+    "address": {
+        "address": "1307 Kettering Dr.",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "888/317-2233"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "South Bay Hyundai",
+    "url": "http://www.sbhyundai.com",
+    "address": {
+        "address": "20433 Hawthorne Blvd",
+        "city": "Torrance",
+        "state": "CA"
+    },
+    "phone": "310/974-8180"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Temecula Hyundai",
+    "url": "http://www.temeculahyundai.com",
+    "address": {
+        "address": "27430 Ynez Rd.",
+        "city": "Temecula",
+        "state": "CA"
+    },
+    "phone": "844/846-7868"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Tustin Hyundai",
+    "url": "http://www.tustinhyundai.com",
+    "address": {
+        "address": "5 Auto Center Drive",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "877/591-4054"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Tuttle-Click Hyundai",
+    "url": "http://www.tuttleclickhyundai.com",
+    "address": {
+        "address": "38 Auto Center Dr.",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/598-2700"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Victorville Hyundai Mazda",
+    "url": "www.mazdavictorville.com",
+    "address": {
+        "address": "14821 Palmdale Rd.",
+        "city": "Victorville",
+        "state": "CA"
+    },
+    "phone": "760/852-7168"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Win Chevrolet, Hyundai",
+    "url": "http://www.winhyundaicarson.com",
+    "address": {
+        "address": "2201 E. 223 St.",
+        "city": "Carson",
+        "state": "CA"
+    },
+    "phone": "800/416-7422"
+}, {
+    "maker": {
+        "id": "15",
+        "name": "HYUNDAI"
+    },
+    "name": "Win Hyundai",
+    "url": "http://www.winhyundai.com",
+    "address": {
+        "address": "3462 N Peck Road",
+        "city": "El Monte",
+        "state": "CA"
+    },
+    "phone": "626/456-3647"
+}, {
+    "maker": {
+        "id": "16",
+        "name": "INFINITI"
+    },
+    "name": "Cerritos Infiniti",
+    "url": "http://www.cerritosinfiniti.com",
+    "address": {
+        "address": "11011 E. South Street",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "562/345-1333"
+}, {
+    "maker": {
+        "id": "16",
+        "name": "INFINITI"
+    },
+    "name": "Infiniti Mission Viejo",
+    "url": "http://www.infinitimv.com",
+    "address": {
+        "address": "28471 Marguerite Parkway",
+        "city": "Mission Viejo",
+        "state": "CA"
+    },
+    "phone": "888/245-2023"
+}, {
+    "maker": {
+        "id": "16",
+        "name": "INFINITI"
+    },
+    "name": "Infiniti of Beverly Hills",
+    "url": "http://www.infinitofbeverlyhills.com",
+    "address": {
+        "address": "8825 Wilshire Blvd.",
+        "city": "Beverly Hills",
+        "state": "CA"
+    },
+    "phone": "818/782-1000"
+}, {
+    "maker": {
+        "id": "16",
+        "name": "INFINITI"
+    },
+    "name": "Infiniti of Riverside",
+    "url": "http://www.infinitiofriverside.com",
+    "address": {
+        "address": "3040 Adams St",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "877/385-2205"
+}, {
+    "maker": {
+        "id": "16",
+        "name": "INFINITI"
+    },
+    "name": "Infiniti Tustin",
+    "url": "http://www.infinitioftustin.com/",
+    "address": {
+        "address": "33 Auto Center Drive",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "714/832-6111"
+}, {
+    "maker": {
+        "id": "16",
+        "name": "INFINITI"
+    },
+    "name": "Orange Coast Infiniti",
+    "url": "http://www.ocinfiniti.com",
+    "address": {
+        "address": "15550 Beach Blvd.",
+        "city": "Westminster",
+        "state": "CA"
+    },
+    "phone": "877/908-8811"
+}, {
+    "maker": {
+        "id": "41",
+        "name": "JAGUAR"
+    },
+    "name": "Alvarez Lincoln Jaguar",
+    "url": "http://www.alvarezjaguar.net",
+    "address": {
+        "address": "8051 Auto Drive",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "888/694-6101"
+}, {
+    "maker": {
+        "id": "41",
+        "name": "JAGUAR"
+    },
+    "name": "Hornburg Jaguar Landrover",
+    "url": "http://www.hornburgjaguarlandrover.com/",
+    "address": {
+        "address": "3020 Santa Monica Blvd",
+        "city": "Santa Monica",
+        "state": "CA"
+    },
+    "phone": "310/752-8400"
+}, {
+    "maker": {
+        "id": "41",
+        "name": "JAGUAR"
+    },
+    "name": "Hornburg Jaguar Landrover",
+    "url": "http://www.hornburgjaguarlandrover.com/",
+    "address": {
+        "address": "9176 Sunset Blvd",
+        "city": "West Hollywood",
+        "state": "CA"
+    },
+    "phone": "310/432-5900"
+}, {
+    "maker": {
+        "id": "41",
+        "name": "JAGUAR"
+    },
+    "name": "Jaguar Landrover Aston Martin Newport Beach",
+    "url": "http://www.jaguarnewportbeach.com/",
+    "address": {
+        "address": "1450 Jamboree Rd",
+        "city": "Newport Beach",
+        "state": "CA"
+    },
+    "phone": "949/640-6445"
+}, {
+    "maker": {
+        "id": "41",
+        "name": "JAGUAR"
+    },
+    "name": "Jaguar Landrover Mission Viejo",
+    "url": "http://www.jaguarlandrovermissionviejo.com/",
+    "address": {
+        "address": "28701 Marguerite Parkway",
+        "city": "Mission Viejo",
+        "state": "CA"
+    },
+    "phone": "949/973-9800"
+}, {
+    "maker": {
+        "id": "41",
+        "name": "JAGUAR"
+    },
+    "name": "Jaguar Riverside",
+    "url": "http://www.jaguarriverside.com",
+    "address": {
+        "address": "8051 Auto Dr.",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "877/367-0158"
+}, {
+    "maker": {
+        "id": "41",
+        "name": "JAGUAR"
+    },
+    "name": "Penske Jaguar Landrover Cerritos",
+    "url": "http://www.jaguarlandrovercerritos.com",
+    "address": {
+        "address": "10861 183rd Street",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "562/356-1000"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Alhambra Chrysler Jeep Dodge Ram",
+    "url": "http://www.alhambracdjr.com",
+    "address": {
+        "address": "1100 W. Main Street",
+        "city": "Alhambra",
+        "state": "CA"
+    },
+    "phone": "626/537-2400"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "AutoNation Chrysler, Dodge, Jeep, Ram",
+    "url": "http://www.autonationchryslerdodgejeepramroseville.com",
+    "address": {
+        "address": "200 Auto Mall Dr.",
+        "city": "Roseville",
+        "state": "CA"
+    },
+    "phone": "888/453-3697"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Bob Baker Chrysler Jeep Dodge Ram",
+    "url": "http://www.bobbakerchryslerjeep.net",
+    "address": {
+        "address": "5555 Car Country Drive",
+        "city": "Carlsbad",
+        "state": "CA"
+    },
+    "phone": "877/363-2393"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Cerritos Dodge Chrysler Jeep",
+    "url": "http://www.browningautogroup.com",
+    "address": {
+        "address": "18803 Studebaker Road",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "800/565-5640"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Courtesy Chrysler, Dodge, Jeep, Ram",
+    "url": "http://www.courtesycdjroforangecounty.com/",
+    "address": {
+        "address": "32881 Camino Capistrano",
+        "city": "San Juan Capistrano",
+        "state": "CA"
+    },
+    "phone": "949/373-0100"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "DCH Chrysler Dodge Jeep Ram Fiat of Temecula",
+    "url": "http://www.dchchryslerjeepdodgeoftemecula.com",
+    "address": {
+        "address": "326845 Ynez Rd.",
+        "city": "Temecula",
+        "state": "CA"
+    },
+    "phone": "877/742-4060"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Glendora Dodge Chrysler Jeep",
+    "url": "http://www.glendorachryslerjeepdodge.com",
+    "address": {
+        "address": "931 South Lone Hill Ave.",
+        "city": "Glendora",
+        "state": "CA"
+    },
+    "phone": "909/599-9300"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Hemet Chrysler Dodge Jeep Ram",
+    "url": "http://www.hemetcdjr.com",
+    "address": {
+        "address": "240 Carriage Circle",
+        "city": "Hemet",
+        "state": "CA"
+    },
+    "phone": "888/690-3740"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Hunter Dodge Chrysler Jeep Ram",
+    "url": "http://www.hunterdodgechryslerjeep.net",
+    "address": {
+        "address": "1130 Auto Mall Dr.",
+        "city": "Lancaster",
+        "state": "CA"
+    },
+    "phone": "661/522-0108"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Jack Powell Chrysler Jeep Dodge Ram",
+    "url": "http://www.jackpowell.com",
+    "address": {
+        "address": "1625 Auto Park Way",
+        "city": "Escondido",
+        "state": "CA"
+    },
+    "phone": "888/287-7293"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Lake Elsinore Chrysler, Dodge, Jeep",
+    "url": "http://www.lakecdjr.com/",
+    "address": {
+        "address": "31400 Auto Center Dr",
+        "city": "Lake Elsinore",
+        "state": "CA"
+    },
+    "phone": "951/291-9700"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Moss Bros. Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.mossbroscjdsanbernardino.com",
+    "address": {
+        "address": "1100 S E St",
+        "city": "San Bernardino",
+        "state": "CA"
+    },
+    "phone": "909/884-8255"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Moss Bros. Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.mossbroschryslerjeepdodgeramriverside.com",
+    "address": {
+        "address": "8151 Auto Drive",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "866/553-7955"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Moss Bros. Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.mossbroscjdrmorenovalley.com",
+    "address": {
+        "address": "27810 Eucalyptus Ave",
+        "city": "Moreno Valley",
+        "state": "CA"
+    },
+    "phone": "877/728-2735"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Motor Village LA",
+    "url": "http://www.motorvillage.com",
+    "address": {
+        "address": "2025 S. Figueroa St.",
+        "city": "Los Angeles",
+        "state": "CA"
+    },
+    "phone": "855/346-6867"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Orange Coast Jeep, Chrysler, Dodge",
+    "url": "http://www.ocauto.com/",
+    "address": {
+        "address": "2929 Harbor Blvd",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/549-8023"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Premier Chrysler Jeep of Placentia",
+    "url": "http://www.premierchryslerjeepofplacentia.net",
+    "address": {
+        "address": "777 W Orangethorpe Ave",
+        "city": "Placentia",
+        "state": "CA"
+    },
+    "phone": "714/527-5337"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Puente Hills Chrysler Dodge Jeep",
+    "url": "http://www.puentehillschryslerjeepdodge.com",
+    "address": {
+        "address": "17280 E. Gale Ave",
+        "city": "City of Industry",
+        "state": "CA"
+    },
+    "phone": "626/626-2000"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Rancho Chrysler Jeep Dodge Ram",
+    "url": "http://www.ranchocjd.com",
+    "address": {
+        "address": "8010 Balboa Ave",
+        "city": "San Diego",
+        "state": "CA"
+    },
+    "phone": "888/718-8497"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Redlands Auto Plaza",
+    "url": "http://www.redlandsautoplaza.com",
+    "address": {
+        "address": "500 W. Redlands Blvd.",
+        "city": "Redlands",
+        "state": "CA"
+    },
+    "phone": "866/965-4163"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Scott Robinson Chrysler Jeep Dodge Ram",
+    "url": "http://www.scottrobinsonchryslerdodgejeepram.com",
+    "address": {
+        "address": "20900 Hawthorne Blvd.",
+        "city": "Torrance",
+        "state": "CA"
+    },
+    "phone": "424/299-8800"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Tuttle-Click Chrysler Jeep Dodge",
+    "url": "http://www.tuttle-clickchrysler.com",
+    "address": {
+        "address": "40 Auto Center Dr.",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/472-7400"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Tuttle-Click`s Tustin Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.tuttleclickstustincjd.com",
+    "address": {
+        "address": "40 Auto Center Drive",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "714/730-4600"
+}, {
+    "maker": {
+        "id": "18",
+        "name": "JEEP"
+    },
+    "name": "Victorville Motors",
+    "url": "http://www.victorvillemotors.com",
+    "address": {
+        "address": "14617 Civic Drive",
+        "city": "Victorville",
+        "state": "CA"
+    },
+    "phone": "760/245-7991"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "All Star Kia",
+    "url": "http://www.allstarkiasanbernardino.com",
+    "address": {
+        "address": "735 Showcase Dr. North",
+        "city": "San Bernardino",
+        "state": "CA"
+    },
+    "phone": "888/480-0418"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "Allstar Kia",
+    "url": "http://www.allstarkia.com/",
+    "address": {
+        "address": "8 Rio Rancho Rd",
+        "city": "Pomona",
+        "state": "CA"
+    },
+    "phone": "909/664-2200"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "Car Pros Kia Huntington Beach",
+    "url": "http://www.orangecountykia.com",
+    "address": {
+        "address": "18835 Beach Blvd",
+        "city": "Huntington Beach",
+        "state": "CA"
+    },
+    "phone": "714/274-6176"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "Citrus Motors Ford & KIA",
+    "url": "http://www.citrusmotors.com",
+    "address": {
+        "address": "1375 S.Woodruff Way",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "888/603-1645"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "Covina Valley Kia",
+    "url": "http://www.covinakia.com",
+    "address": {
+        "address": "626 S. Citrus Ave",
+        "city": "Covina",
+        "state": "CA"
+    },
+    "phone": "626/736-4275"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "DCH KIA of Temecula",
+    "url": "http://www.dchkiaoftemecula.com",
+    "address": {
+        "address": "26799 Ynez Rd.",
+        "city": "Temecula",
+        "state": "CA"
+    },
+    "phone": "888/474-0469"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "Garden Grove Kia ",
+    "url": "http://www.ggkia.com",
+    "address": {
+        "address": "10081 Garden Grove Blvd.",
+        "city": "Garden Grove",
+        "state": "CA"
+    },
+    "phone": "717/823-4949"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "Kia Depot",
+    "url": "http://www.kiadepot.com/",
+    "address": {
+        "address": "909 North Grand Avenue",
+        "city": "Santa Ana",
+        "state": "CA"
+    },
+    "phone": "714/835-5000"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "Kia of Cerritos",
+    "url": "http://www.kiacerritos.com",
+    "address": {
+        "address": "18201 Studebaker Road",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "562/860-2424"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "Kia of Irvine",
+    "url": "http://www.kiaofirvine.com",
+    "address": {
+        "address": "45 Oldfield",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/777-2300"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "Kia of Valencia",
+    "url": "http://www.kiaofvalencia.com",
+    "address": {
+        "address": "23901 Creekside Road",
+        "city": "Valencia",
+        "state": "CA"
+    },
+    "phone": "661/877-4579"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "North County Kia",
+    "url": "http://www.northcountykia.com",
+    "address": {
+        "address": "1501 Auto Park Way South",
+        "city": "Escondido",
+        "state": "CA"
+    },
+    "phone": "888/250-8667"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "Rally Auto Group",
+    "url": "http://www.www.rallykia.com",
+    "address": {
+        "address": "438 Auto Vista Drive",
+        "city": "Palmdale",
+        "state": "CA"
+    },
+    "phone": "661/349-4639"
+}, {
+    "maker": {
+        "id": "34",
+        "name": "KIA"
+    },
+    "name": "Valley Hi KIA",
+    "url": "http://www.valleyhikia.com",
+    "address": {
+        "address": "14673 Civic Drive",
+        "city": "Victorville",
+        "state": "CA"
+    },
+    "phone": "888/388-5089"
+}, {
+    "maker": {
+        "id": "49",
+        "name": "LAMBORGHINI"
+    },
+    "name": "Lamborghini Beverly Hills",
+    "url": "http://www.lamborghinibeverlyhills.com",
+    "address": {
+        "address": "125 S. Robertson Blvd",
+        "city": "Beverly Hills",
+        "state": "CA"
+    },
+    "phone": "877/326-4999"
+}, {
+    "maker": {
+        "id": "42",
+        "name": "LANDROVER"
+    },
+    "name": "Hornburg Jaguar Landrover",
+    "url": "http://www.hornburgjaguarlandrover.com/",
+    "address": {
+        "address": "3020 Santa Monica Blvd",
+        "city": "Santa Monica",
+        "state": "CA"
+    },
+    "phone": "310/752-8400"
+}, {
+    "maker": {
+        "id": "42",
+        "name": "LANDROVER"
+    },
+    "name": "Hornburg Jaguar Landrover",
+    "url": "http://www.hornburgjaguarlandrover.com/",
+    "address": {
+        "address": "9176 Sunset Blvd",
+        "city": "West Hollywood",
+        "state": "CA"
+    },
+    "phone": "310/432-5900"
+}, {
+    "maker": {
+        "id": "42",
+        "name": "LANDROVER"
+    },
+    "name": "Jaguar Landrover Aston Martin Newport Beach",
+    "url": "http://www.jaguarnewportbeach.com/",
+    "address": {
+        "address": "1450 Jamboree Rd",
+        "city": "Newport Beach",
+        "state": "CA"
+    },
+    "phone": "949/640-6445"
+}, {
+    "maker": {
+        "id": "42",
+        "name": "LANDROVER"
+    },
+    "name": "Jaguar Landrover Mission Viejo",
+    "url": "http://www.jaguarlandrovermissionviejo.com/",
+    "address": {
+        "address": "28701 Marguerite Parkway",
+        "city": "Mission Viejo",
+        "state": "CA"
+    },
+    "phone": "949/973-9800"
+}, {
+    "maker": {
+        "id": "42",
+        "name": "LANDROVER"
+    },
+    "name": "Land Rover South Bay",
+    "url": "http://www.landroversouthbay.com",
+    "address": {
+        "address": "900 N. Pacific Coast Hwy",
+        "city": "Redondo Beach",
+        "state": "CA"
+    },
+    "phone": "310/798-0550"
+}, {
+    "maker": {
+        "id": "42",
+        "name": "LANDROVER"
+    },
+    "name": "Penske Jaguar Landrover Cerritos",
+    "url": "http://www.jaguarlandrovercerritos.com",
+    "address": {
+        "address": "10861 183rd Street",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "562/356-1000"
+}, {
+    "maker": {
+        "id": "19",
+        "name": "LEXUS"
+    },
+    "name": "Lexus of Cerritos",
+    "url": "http://www.cerritoslexus.com",
+    "address": {
+        "address": "18800 Studebaker Road",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "562/263-7857"
+}, {
+    "maker": {
+        "id": "19",
+        "name": "LEXUS"
+    },
+    "name": "Lexus of El Cajon",
+    "url": "http://www.lexuselcajon.com",
+    "address": {
+        "address": "1000 Arnele Ave",
+        "city": "El Cajon",
+        "state": "CA"
+    },
+    "phone": "619/440-5398"
+}, {
+    "maker": {
+        "id": "19",
+        "name": "LEXUS"
+    },
+    "name": "Lexus of Riverside",
+    "url": "http://www.lexusofriverside.com",
+    "address": {
+        "address": "3150 Adams St.",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "855/212-1458"
+}, {
+    "maker": {
+        "id": "19",
+        "name": "LEXUS"
+    },
+    "name": "Lexus of Westminster",
+    "url": "http://www.lexuswestminster.com/",
+    "address": {
+        "address": "13590 Beach Blvd.",
+        "city": "Westminster",
+        "state": "CA"
+    },
+    "phone": "888/413-1938"
+}, {
+    "maker": {
+        "id": "19",
+        "name": "LEXUS"
+    },
+    "name": "Lexus Santa Monica",
+    "url": "http://www.lexussantamonica.com",
+    "address": {
+        "address": "1501 Santa Monica Blvd",
+        "city": "Santa Monica",
+        "state": "CA"
+    },
+    "phone": "310/453-9900"
+}, {
+    "maker": {
+        "id": "19",
+        "name": "LEXUS"
+    },
+    "name": "Newport Lexus",
+    "url": "http://www.newportlexus.com",
+    "address": {
+        "address": "3901 MacArthur Blvd",
+        "city": "Newport Beach",
+        "state": "CA"
+    },
+    "phone": "949/477-4000"
+}, {
+    "maker": {
+        "id": "19",
+        "name": "LEXUS"
+    },
+    "name": "South County Lexus",
+    "url": "http://www.southcountylexus.com",
+    "address": {
+        "address": "28242 Marguerite Parkway ",
+        "city": "Mission Viejo",
+        "state": "CA"
+    },
+    "phone": "949/347- 3400"
+}, {
+    "maker": {
+        "id": "19",
+        "name": "LEXUS"
+    },
+    "name": "Tustin Lexus",
+    "url": "http://www.tustinlexus.com",
+    "address": {
+        "address": "45 Auto Center Drive",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "714/544-4800"
+}, {
+    "maker": {
+        "id": "20",
+        "name": "LINCOLN"
+    },
+    "name": "Alvarez Lincoln Jaguar",
+    "url": "http://www.alvarezlincolnofriverside.com",
+    "address": {
+        "address": "8051 Auto Drive",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "888/694-6101"
+}, {
+    "maker": {
+        "id": "20",
+        "name": "LINCOLN"
+    },
+    "name": "Tuttle Click Lincoln",
+    "url": "http://www.tuttleclicklincoln.com",
+    "address": {
+        "address": "43 Auto Center Dr.",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "866/825-7614"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Antelope Valley Mazda",
+    "url": "http://www.avmazdas.com",
+    "address": {
+        "address": "1015 Auto Mall Drive",
+        "city": "Lancaster",
+        "state": "CA"
+    },
+    "phone": "888/366-2127"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "AutoNation Mazda Subaru",
+    "url": "http://www.autonationmazdaroseville.com",
+    "address": {
+        "address": "100 Auto Mall Dr.",
+        "city": "Roseville",
+        "state": "CA"
+    },
+    "phone": "916/467-8057"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Browning Mazda",
+    "url": "http://www.browningmazda.com",
+    "address": {
+        "address": "18827 Studebaker Road",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "888/297-6009"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Browning Mazda of Alhambra",
+    "url": "http://www.alhambramazda.com",
+    "address": {
+        "address": "1200 W. Main Street",
+        "city": "Alhambra",
+        "state": "CA"
+    },
+    "phone": "877/838-1331"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Capistrano Mazda",
+    "url": "http://www.capomazda.com",
+    "address": {
+        "address": "32852 Valle RD",
+        "city": "San Juan Capistrano",
+        "state": "CA"
+    },
+    "phone": "949/218-2445"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Cardinale Way Mazda Corona",
+    "url": "http://www.cardinalewaymazdacorona.com",
+    "address": {
+        "address": "2595 Wardlow Rd",
+        "city": "Corona",
+        "state": "CA"
+    },
+    "phone": "888/694-0931"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Huntington Beach Mazda",
+    "url": "http://www.ocmazda.com",
+    "address": {
+        "address": "16800 Beach Blvd.",
+        "city": "Huntington Beach",
+        "state": "CA"
+    },
+    "phone": "714/848-7739"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "John Hine Temecula Mazda ",
+    "url": "http://www.temeculamazda.com",
+    "address": {
+        "address": "42050 DLR Drive ",
+        "city": "Temecula ",
+        "state": "CA"
+    },
+    "phone": "866/204-0278"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Mazda of Orange",
+    "url": "http://www.mazdaoforange.com",
+    "address": {
+        "address": "1350 West Katella",
+        "city": "Orange",
+        "state": "CA"
+    },
+    "phone": "888/471-6888"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Redlands Auto Plaza",
+    "url": "http://www.redlandsautoplaza.com",
+    "address": {
+        "address": "500 W. Redlands Blvd.",
+        "city": "Redlands",
+        "state": "CA"
+    },
+    "phone": "866/965-4163"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Riverside Mazda",
+    "url": "http://www.mazdariverside.com",
+    "address": {
+        "address": "8330 Indiana Ave.",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "888/306-9324"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Romero Mazda",
+    "url": "http://www.mazdaofontario.com",
+    "address": {
+        "address": "1307 Kettering Dr.",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "888/317-2233"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Spreen Mazda",
+    "url": "http://www.spreenmazda.com",
+    "address": {
+        "address": "25140 Redlands Blvd.",
+        "city": "Loma Linda",
+        "state": "CA"
+    },
+    "phone": "909/328-6100"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Tustin Mazda",
+    "url": "http://www.ocmazda.com",
+    "address": {
+        "address": "5 Auto Center Drive",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "866/510-4844"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Tuttle-Click Mazda",
+    "url": "http://www.tuttlclickmazda.com",
+    "address": {
+        "address": "41 Auto Center Dr.",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/421-3200"
+}, {
+    "maker": {
+        "id": "21",
+        "name": "MAZDA"
+    },
+    "name": "Victorville Hyundai Mazda",
+    "url": "www.mazdavictorville.com",
+    "address": {
+        "address": "14821 Palmdale Rd.",
+        "city": "Victorville",
+        "state": "CA"
+    },
+    "phone": "760/852-7168"
+}, {
+    "maker": {
+        "id": "22",
+        "name": "MERCEDES"
+    },
+    "name": "Fletcher Jones Motor Cars",
+    "url": "http://www.fjmotorcars.com",
+    "address": {
+        "address": "3300 Jamboree Rd",
+        "city": "Newport Beach",
+        "state": "CA"
+    },
+    "phone": "949/718-3000"
+}, {
+    "maker": {
+        "id": "22",
+        "name": "MERCEDES"
+    },
+    "name": "House of Imports (Mercedes)",
+    "url": "http://www.hoimercedes.com/",
+    "address": {
+        "address": "6862 Auto Center Dr.",
+        "city": "Buena Park",
+        "state": "CA"
+    },
+    "phone": "714/627-5553"
+}, {
+    "maker": {
+        "id": "22",
+        "name": "MERCEDES"
+    },
+    "name": "Mercedes Benz of Anaheim",
+    "url": "http://www.anaheimmercedes.com",
+    "address": {
+        "address": "5395 E. La Palma Ave.",
+        "city": "Anaheim",
+        "state": "CA"
+    },
+    "phone": "714/777-1900"
+}, {
+    "maker": {
+        "id": "22",
+        "name": "MERCEDES"
+    },
+    "name": "Mercedes Benz of Beverly Hills",
+    "url": "http://www.bhbenz.com",
+    "address": {
+        "address": "9250 Beverly Blvd",
+        "city": "Beverly Hills",
+        "state": "CA"
+    },
+    "phone": "310/659-2980"
+}, {
+    "maker": {
+        "id": "22",
+        "name": "MERCEDES"
+    },
+    "name": "Mercedes Benz of Oxnard",
+    "url": "http://www.mercedesbenzofoxnard.net/",
+    "address": {
+        "address": "1511 Auto Center Dr",
+        "city": "Oxnard",
+        "state": "CA"
+    },
+    "phone": "805/604-6500"
+}, {
+    "maker": {
+        "id": "22",
+        "name": "MERCEDES"
+    },
+    "name": "Mercedes Benz of South Bay",
+    "url": "http://www.sbmercedes.com",
+    "address": {
+        "address": "3311 Pacific Coast Hwy",
+        "city": "Torrance",
+        "state": "CA"
+    },
+    "phone": "310/513-5300"
+}, {
+    "maker": {
+        "id": "22",
+        "name": "MERCEDES"
+    },
+    "name": "Mercedes- Benz of Foothill Ranch",
+    "url": "http://www.mbfoothill.com",
+    "address": {
+        "address": "81 Auto Center Drive",
+        "city": "Foothill Ranch",
+        "state": "CA"
+    },
+    "phone": "888/225-1239"
+}, {
+    "maker": {
+        "id": "22",
+        "name": "MERCEDES"
+    },
+    "name": "Mercedes- Benz of Laguna Niguel",
+    "url": "http://www.mbzdirect.com",
+    "address": {
+        "address": "1 Star Drive",
+        "city": "Laguna Niguel",
+        "state": "CA"
+    },
+    "phone": "949/347-3700"
+}, {
+    "maker": {
+        "id": "22",
+        "name": "MERCEDES"
+    },
+    "name": "Mercedes-Benz of Long Beach",
+    "url": "http://www.mbzlongbeach.com/",
+    "address": {
+        "address": "2300 East Spring Street",
+        "city": "Signal Hill",
+        "state": "CA"
+    },
+    "phone": "866/299-5436 "
+}, {
+    "maker": {
+        "id": "22",
+        "name": "MERCEDES"
+    },
+    "name": "Mercedes-Benz of Ontario",
+    "url": "http://www.mbontario.com",
+    "address": {
+        "address": "3787 East Guasti RD",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "909/906-6636"
+}, {
+    "maker": {
+        "id": "22",
+        "name": "MERCEDES"
+    },
+    "name": "Walter's Mercedes-Benz",
+    "url": "http://www.waltsmb.com",
+    "address": {
+        "address": "3213 Adams",
+        "city": "Riverside ",
+        "state": "CA"
+    },
+    "phone": "888/453-8024"
+}, {
+    "maker": {
+        "id": "43",
+        "name": "MINI"
+    },
+    "name": "Crevier Mini",
+    "url": "http://www.creviermini.com",
+    "address": {
+        "address": "1501 Auto Mall Drive",
+        "city": "Santa Ana",
+        "state": "CA"
+    },
+    "phone": "714/835-3171"
+}, {
+    "maker": {
+        "id": "43",
+        "name": "MINI"
+    },
+    "name": "Irvine BMW/Mini",
+    "url": "http://www.irvinebmw.com",
+    "address": {
+        "address": "9881 Research Drive",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/380-1200"
+}, {
+    "maker": {
+        "id": "43",
+        "name": "MINI"
+    },
+    "name": "Mini of Valencia",
+    "url": "http://www.miniofvalencia.com/",
+    "address": {
+        "address": "24135 Creekside Rd.",
+        "city": "Valencia",
+        "state": "CA"
+    },
+    "phone": "661/286-2600"
+}, {
+    "maker": {
+        "id": "24",
+        "name": "MITSUBISHI"
+    },
+    "name": "Anaheim Mitsubishi",
+    "url": "http://www.anaheimmitsubishi.com",
+    "address": {
+        "address": "1300 S. Auto Center Drive",
+        "city": "Anaheim",
+        "state": "CA"
+    },
+    "phone": "877/221-6581"
+}, {
+    "maker": {
+        "id": "24",
+        "name": "MITSUBISHI"
+    },
+    "name": "Auto Gallery Mitsubishi - Corona",
+    "url": "http://www.agmitsu.com",
+    "address": {
+        "address": "2550 Wardlow Rd.",
+        "city": "Corona",
+        "state": "CA"
+    },
+    "phone": "888/208-0648"
+}, {
+    "maker": {
+        "id": "24",
+        "name": "MITSUBISHI"
+    },
+    "name": "Riverside Mitsubishi",
+    "url": "http://www.riversidemitsubishi.com",
+    "address": {
+        "address": "8100 Auto Center Drive",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "888/897-1375"
+}, {
+    "maker": {
+        "id": "24",
+        "name": "MITSUBISHI"
+    },
+    "name": "South Coast Mitsubishi",
+    "url": "http://www.southcoastmitsubishi.com",
+    "address": {
+        "address": "2480 Harbor Blvd.",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/545-1700"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Alhambra Nissan",
+    "url": "http://www.alhambranissan.com",
+    "address": {
+        "address": "726 E. Main Street",
+        "city": "Alhambra",
+        "state": "CA"
+    },
+    "phone": "626/289-6161"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Buena Park Nissan",
+    "url": "http://www.buenaparknissan.com",
+    "address": {
+        "address": "6501 Auto Center Dr.",
+        "city": "Buena Park",
+        "state": "CA"
+    },
+    "phone": "888/401-5588"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Carson Nissan",
+    "url": "http://www.carsonnissan.com",
+    "address": {
+        "address": "1505 E. 223rd Street",
+        "city": "Carson",
+        "state": "CA"
+    },
+    "phone": "310/221-5119"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Cerritos Nissan",
+    "url": "http://www.cerritosnissan.com/",
+    "address": {
+        "address": "18707 Studebaker Road",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "562/402-2277"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Corona Nissan",
+    "url": "http://www.coronanissan.com",
+    "address": {
+        "address": "2575 Wardlow Rd.",
+        "city": "Corona",
+        "state": "CA"
+    },
+    "phone": "951/893-4100"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Costa Mesa Nissan",
+    "url": "http://www.costamesanissan.com/",
+    "address": {
+        "address": "2850 Harbor Blvd",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/444-4220"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Gardena Nissan",
+    "url": "http://www.gardenanissan.com",
+    "address": {
+        "address": "1670 W. Redondo Beach Blvd",
+        "city": "Gardena",
+        "state": "CA"
+    },
+    "phone": "310/773-0297"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Gardena Nissan",
+    "url": "http://www.gardenanissan.com",
+    "address": {
+        "address": "1670 W. Redondo Beach Blvd",
+        "city": "Gardena",
+        "state": "CA"
+    },
+    "phone": "310/773-0297"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Hooman Nissan of Long Beach",
+    "url": "http://www.hoomannissan.com",
+    "address": {
+        "address": "1800 E. Spring St.",
+        "city": "Signal Hill",
+        "state": "CA"
+    },
+    "phone": "562/264-4000"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Imperio Nissan of Garden Grove",
+    "url": "http://www.imperionissangardengrove.com",
+    "address": {
+        "address": "9222 Trask Ave.",
+        "city": "Garden Grove",
+        "state": "CA"
+    },
+    "phone": "888/527-1699"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Larry H. Miller Nissan Corona",
+    "url": "http://www.lhmnissancorona.com",
+    "address": {
+        "address": "2575 Wardlow Road",
+        "city": "Corona",
+        "state": "CA"
+    },
+    "phone": "951/839-4100"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Nissan of Downtown LA",
+    "url": "http://www.downtownnissan.com",
+    "address": {
+        "address": "635 W Washington Blvd",
+        "city": "Los Angeles",
+        "state": "CA"
+    },
+    "phone": "888/419-0743"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Nissan of Irvine",
+    "url": "http://www.nissanofirvine.com",
+    "address": {
+        "address": "32 Auto Center Drive",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/951-7575"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Nissan of San Juan Capistrano",
+    "url": "http://www.nissanofcapistrano.com",
+    "address": {
+        "address": "33633 Camino Capistrano",
+        "city": "San Juan Capistrano",
+        "state": "CA"
+    },
+    "phone": "833/876-4748"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Orange Coast Nissan",
+    "url": "http://http://www.orangecoastnissan.com",
+    "address": {
+        "address": "2850 Harbor Blvd",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/444-4220"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Pacific Nissan",
+    "url": "http://www.pacificnissan.com",
+    "address": {
+        "address": "4433 Mission Bay Drive",
+        "city": "San Diego",
+        "state": "CA"
+    },
+    "phone": "858/500-3727"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Puente Hills Nissan",
+    "url": "http://www.puentehillsnissan.com",
+    "address": {
+        "address": "17320 E. Gale Ave.",
+        "city": "Industry",
+        "state": "CA"
+    },
+    "phone": "866/980-2916"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Raceway Nissan",
+    "url": "http://www.racewaynissan.com",
+    "address": {
+        "address": "6080 Sycamore Canyon Blvd.",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "951/571-9300"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Riverside Nissan",
+    "url": "http://www.Nissanriverside.com",
+    "address": {
+        "address": "8330 Indiana Ave.",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "888/741-8949"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Ross Nissan of El Monte",
+    "url": "http://www.rossnissan.com",
+    "address": {
+        "address": "3428 N. Peck Road",
+        "city": "El Monte",
+        "state": "CA"
+    },
+    "phone": "626/531-2576"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Stadium Nissan",
+    "url": "http://www.stadiumnissanoc.com",
+    "address": {
+        "address": "1140 W. Katella Ave",
+        "city": "Orange",
+        "state": "CA"
+    },
+    "phone": "714/633-8430"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Surf City Nissan",
+    "url": "http://www.surfcitynissan.com",
+    "address": {
+        "address": "17331 Beach Blvd",
+        "city": "Huntington Beach",
+        "state": "CA"
+    },
+    "phone": "714/500-6000"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Tustin Nissan",
+    "url": "http://www.tustinnissan.com/",
+    "address": {
+        "address": "30 Auto Center Dr.",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "714/669-8282"
+}, {
+    "maker": {
+        "id": "25",
+        "name": "NISSAN"
+    },
+    "name": "Valley Hi Nissan",
+    "url": "http://www.valleyhinissan.com",
+    "address": {
+        "address": "15722 Valley Park Lane",
+        "city": "Victorville",
+        "state": "CA"
+    },
+    "phone": "888/462-5708"
+}, {
+    "maker": {
+        "id": "35",
+        "name": "PORSCHE"
+    },
+    "name": "Circle Imports",
+    "url": "http://www.circleaudi.com",
+    "address": {
+        "address": "1919 N Lakewood Bl",
+        "city": "Long Beach",
+        "state": "CA"
+    },
+    "phone": "562/597-3663"
+}, {
+    "maker": {
+        "id": "35",
+        "name": "PORSCHE"
+    },
+    "name": "Porsche Irvine",
+    "url": "http://www.porscheirvine.com",
+    "address": {
+        "address": "14500 Scientific Way",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/668-6300"
+}, {
+    "maker": {
+        "id": "35",
+        "name": "PORSCHE"
+    },
+    "name": "Walter's Porsche",
+    "url": "http://www.waltersporsche.com",
+    "address": {
+        "address": "3213 Adams",
+        "city": "Riverside ",
+        "state": "CA"
+    },
+    "phone": "866/387-0766"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Alhambra Chrysler Jeep Dodge Ram",
+    "url": "http://www.alhambracdjr.com",
+    "address": {
+        "address": "1100 W. Main Street",
+        "city": "Alhambra",
+        "state": "CA"
+    },
+    "phone": "626/537-2400"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "AutoNation Chrysler, Dodge, Jeep, Ram",
+    "url": "http://www.autonationchryslerdodgejeepramroseville.com",
+    "address": {
+        "address": "200 Auto Mall Dr.",
+        "city": "Roseville",
+        "state": "CA"
+    },
+    "phone": "888/453-3697"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Bob Baker Chrysler Jeep Dodge Ram",
+    "url": "http://www.bobbakerchryslerjeep.net",
+    "address": {
+        "address": "5555 Car Country Drive",
+        "city": "Carlsbad",
+        "state": "CA"
+    },
+    "phone": "877/363-2393"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "DCH Chrysler Dodge Jeep Ram Fiat of Temecula",
+    "url": "http://www.dchchryslerjeepdodgeoftemecula.com",
+    "address": {
+        "address": "326845 Ynez Rd.",
+        "city": "Temecula",
+        "state": "CA"
+    },
+    "phone": "877/742-4060"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Hemet Chrysler Dodge Jeep Ram",
+    "url": "http://www.hemetcdjr.com",
+    "address": {
+        "address": "240 Carriage Circle",
+        "city": "Hemet",
+        "state": "CA"
+    },
+    "phone": "888/690-3740"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Hunter Dodge Chrysler Jeep Ram",
+    "url": "http://www.hunterdodgechryslerjeep.net",
+    "address": {
+        "address": "1130 Auto Mall Dr.",
+        "city": "Lancaster",
+        "state": "CA"
+    },
+    "phone": "661/522-0108"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Jack Powell Chrysler Jeep Dodge Ram",
+    "url": "http://www.jackpowell.com",
+    "address": {
+        "address": "1625 Auto Park Way",
+        "city": "Escondido",
+        "state": "CA"
+    },
+    "phone": "888/287-7293"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Moss Bros. Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.mossbroscjdrmorenovalley.com",
+    "address": {
+        "address": "27810 Eucalyptus Ave",
+        "city": "Moreno Valley",
+        "state": "CA"
+    },
+    "phone": "877/728-2735"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Moss Bros. Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.mossbroscjdrriverside.com",
+    "address": {
+        "address": "8151 Auto Drive",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "855/263-9403"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Moss Bros. Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.mossbroscjdsanbernardino.com",
+    "address": {
+        "address": "1100 S E St",
+        "city": "San Bernardino",
+        "state": "CA"
+    },
+    "phone": "909/884-8255"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Motor Village LA",
+    "url": "http://www.motorvillage.com",
+    "address": {
+        "address": "2025 S. Figueroa St.",
+        "city": "Los Angeles",
+        "state": "CA"
+    },
+    "phone": "855/346-6867"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Rancho Chrysler Jeep Dodge Ram",
+    "url": "http://www.ranchocjd.com",
+    "address": {
+        "address": "8010 Balboa Ave",
+        "city": "San Diego",
+        "state": "CA"
+    },
+    "phone": "888/718-8497"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Redlands Auto Plaza",
+    "url": "http://www.redlandsautoplaza.com",
+    "address": {
+        "address": "500 W. Redlands Blvd.",
+        "city": "Redlands",
+        "state": "CA"
+    },
+    "phone": "866/965-4163"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Scott Robinson Chrysler Jeep Dodge Ram",
+    "url": "http://www.scottrobinsonchryslerdodgejeepram.com",
+    "address": {
+        "address": "20900 Hawthorne Blvd.",
+        "city": "Torrance",
+        "state": "CA"
+    },
+    "phone": "424/299-8800"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Tuttle-Click`s Tustin Chrysler, Jeep, Dodge, Ram",
+    "url": "http://www.tuttleclickstustincjd.com",
+    "address": {
+        "address": "40 Auto Center Drive",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "714/730-4600"
+}, {
+    "maker": {
+        "id": "39",
+        "name": "RAM"
+    },
+    "name": "Victorville Motors",
+    "url": "http://www.victorvillemotors.com",
+    "address": {
+        "address": "14617 Civic Drive",
+        "city": "Victorville",
+        "state": "CA"
+    },
+    "phone": "760/245-7991"
+}, {
+    "maker": {
+        "id": "46",
+        "name": "ROLLS ROYCE"
+    },
+    "name": "Rolls Royce Beverly Hills",
+    "url": "http://www.rolls-roycemotors.com",
+    "address": {
+        "address": "8833 W. Olympic Blvd",
+        "city": "Beverly Hills",
+        "state": "CA"
+    },
+    "phone": "310/659-4050"
+}, {
+    "maker": {
+        "id": "30",
+        "name": "SUBARU"
+    },
+    "name": "AutoNation Mazda Subaru",
+    "url": "http://www.autonationsubaruroseville.com",
+    "address": {
+        "address": "100 Auto Mall Dr.",
+        "city": "Roseville",
+        "state": "CA"
+    },
+    "phone": "916/467-8057"
+}, {
+    "maker": {
+        "id": "30",
+        "name": "SUBARU"
+    },
+    "name": "AV Subaru",
+    "url": "http://www.avsubaru.com/",
+    "address": {
+        "address": "43244 Drivers Way",
+        "city": "Lancaster",
+        "state": "CA"
+    },
+    "phone": "661/949-1535"
+}, {
+    "maker": {
+        "id": "30",
+        "name": "SUBARU"
+    },
+    "name": "Franks Irvine Subaru",
+    "url": "http://www.irvinesubaru.com/",
+    "address": {
+        "address": "23663 Rockfield Blvd.",
+        "city": "Lake Forest",
+        "state": "CA"
+    },
+    "phone": "800/970-5755"
+}, {
+    "maker": {
+        "id": "30",
+        "name": "SUBARU"
+    },
+    "name": "Puente Hills Subaru",
+    "url": "http://www.puentehillssubaru.com",
+    "address": {
+        "address": "17801 East Gale Ave.",
+        "city": "City of Industry",
+        "state": "CA"
+    },
+    "phone": "626/626-4800"
+}, {
+    "maker": {
+        "id": "30",
+        "name": "SUBARU"
+    },
+    "name": "South Coast Subaru",
+    "url": "http://www.southcoastsubaru.com/index.htm",
+    "address": {
+        "address": "2927 Harbor Blvd",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "800/306-6687"
+}, {
+    "maker": {
+        "id": "30",
+        "name": "SUBARU"
+    },
+    "name": "Subaru Antelope Valley",
+    "url": "http://www.subaruantelopevalley.com",
+    "address": {
+        "address": "43243 10th St. W",
+        "city": "Lancaster",
+        "state": "CA"
+    },
+    "phone": "877/344-8916"
+}, {
+    "maker": {
+        "id": "30",
+        "name": "SUBARU"
+    },
+    "name": "Subaru Orange Coast",
+    "url": "http://www.subaruorangecoast.com",
+    "address": {
+        "address": "1350 Auto Mall Drive",
+        "city": "Santa Ana",
+        "state": "CA"
+    },
+    "phone": "657/231-5400"
+}, {
+    "maker": {
+        "id": "30",
+        "name": "SUBARU"
+    },
+    "name": "Timmons of Long Beach",
+    "url": "http://www.timmonssubaru.com",
+    "address": {
+        "address": "3940 Cherry Avenue",
+        "city": "Long Beach",
+        "state": "CA"
+    },
+    "phone": "562/595-4601"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "AutoNation Toyota Irvine",
+    "url": "www.autonationtoyotairvine.com",
+    "address": {
+        "address": "9101 Research Drive",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/585-6857"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "AutoNation Toyota of Buena Park",
+    "url": "http://www.toyotabuenapark.com/",
+    "address": {
+        "address": "6400 Beach Blvd.",
+        "city": "Buena Park",
+        "state": "CA"
+    },
+    "phone": "714/522-6144"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "AutoNation Toyota of Cerritos",
+    "url": "http://www.powertoyotacerritos.com",
+    "address": {
+        "address": "18700 Studebaker Rd.",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "714/828-5960"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Cabe Toyota Scion",
+    "url": "http://www.cabetoyota.com",
+    "address": {
+        "address": "2895 Long Beach Blvd",
+        "city": "Long Beach",
+        "state": "CA"
+    },
+    "phone": "562/595-7411"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Capistrano Toyota",
+    "url": "http://www.capistranotoyotascion.com",
+    "address": {
+        "address": "33395 Camino Capistrano",
+        "city": "San Juan Capistrano",
+        "state": "CA"
+    },
+    "phone": "888/376-5713"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Crown Toyota",
+    "url": "http://www.crowntoyota.com/fleet-department.htm",
+    "address": {
+        "address": "1201 Kettering Drive",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "909/390-3309"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "David Wilson's South Coast Toyota",
+    "url": "http://www.southcoasttoyota.com/",
+    "address": {
+        "address": "1966 Harbor Blvd.",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "949/722-2000"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Elmore Toyota – Elmore Scion",
+    "url": "http://www.elmoretoyota.com",
+    "address": {
+        "address": "15300 Beach Blvd.",
+        "city": "Westminster",
+        "state": "CA"
+    },
+    "phone": "714/894-3322"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Gosch Toyota",
+    "url": "http://www.goschtoyota.com",
+    "address": {
+        "address": "350 Carriage Circle",
+        "city": "Hemet",
+        "state": "CA"
+    },
+    "phone": "951/808-3134"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Larry H. Miller Toyota Corona",
+    "url": "http://www.lhmtoyotacorona.com/",
+    "address": {
+        "address": "1700 W. 6th St.",
+        "city": "Corona",
+        "state": "CA"
+    },
+    "phone": "877/611-0050"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Manhattan Beach Toyota",
+    "url": "http://www.manhattanbeachtoyota.com",
+    "address": {
+        "address": "1500 N. Sepulveda Blvd.",
+        "city": "Manhattan Beach",
+        "state": "CA"
+    },
+    "phone": "866/262-1786"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Miller Toyota of Anaheim",
+    "url": "http://www.millertoyotaofanaheim.com",
+    "address": {
+        "address": "1331 N. Euclid Street",
+        "city": "Anaheim",
+        "state": "CA"
+    },
+    "phone": "714/879-6300"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Moss Bros Toyota",
+    "url": "http://www.mossbrostoyotamorenovalley.com",
+    "address": {
+        "address": "12630 Motor Way",
+        "city": "Moreno Valley",
+        "state": "CA"
+    },
+    "phone": "888/281-5978"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Norwalk Toyota",
+    "url": "http://www.norwalktoyota.com",
+    "address": {
+        "address": "11404 East Imperial Highway",
+        "city": "Norwalk",
+        "state": "CA"
+    },
+    "phone": "562/868-0035"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Puente Hills Toyota",
+    "url": "http://www.puentehillstoyota.com",
+    "address": {
+        "address": "17070 Gale Avenue",
+        "city": "City Of Industry",
+        "state": "CA"
+    },
+    "phone": "626/964-7100"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Santa Margarita Toyota",
+    "url": "http://www.santamargaritatoyota.com",
+    "address": {
+        "address": "22722 Avenida Empresa",
+        "city": "Rancho Santa Margarita",
+        "state": "CA"
+    },
+    "phone": "949/766-2000"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "South Bay Toyota Scion",
+    "url": "http://www.southbaytoyota.com",
+    "address": {
+        "address": "18416 South Western Ave",
+        "city": "Gardena",
+        "state": "CA"
+    },
+    "phone": "310/817-7110"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Temecula Valley Toyota",
+    "url": "http://www.tvtoyota.com",
+    "address": {
+        "address": "26631 Ynez Road",
+        "city": "Temecula",
+        "state": "CA"
+    },
+    "phone": "800/829-0575"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Toyota of El Cajon",
+    "url": "http://www.toyotaofelcajon.com",
+    "address": {
+        "address": "965 Arnele Ave.",
+        "city": "El Cajon",
+        "state": "CA"
+    },
+    "phone": "619/270-2846"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Toyota of Escondido",
+    "url": "http://www.toyotaEscondido.com",
+    "address": {
+        "address": "231 Lincoln Pkwy",
+        "city": "Escondido",
+        "state": "CA"
+    },
+    "phone": "877/464-7057"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Toyota of Huntington Beach",
+    "url": "http://www.toyotaofhb.com",
+    "address": {
+        "address": "18881 Beach Blvd",
+        "city": "Huntington Beach",
+        "state": "CA"
+    },
+    "phone": "714/847-8555"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Toyota of Lancaster",
+    "url": "http://www.toyotaoflancasterav.com",
+    "address": {
+        "address": "43301 12th Street West",
+        "city": "Lancaster",
+        "state": "CA"
+    },
+    "phone": "855/660-7659"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Toyota of Orange & Scion",
+    "url": "http://www.toyotaoforange.com/",
+    "address": {
+        "address": "1400 N Tustin",
+        "city": "Orange",
+        "state": "CA"
+    },
+    "phone": "714/639-6750"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Toyota of Redlands",
+    "url": "http://www.toyotaofredlands.com",
+    "address": {
+        "address": "921 New York Street",
+        "city": "Redlands",
+        "state": "CA"
+    },
+    "phone": "909/793-0300"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Toyota of Riverside",
+    "url": "http://www.toyotaofriverside.com",
+    "address": {
+        "address": "7870 Indiana Ave.",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "951/687-1622"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Toyota of San Bernardino",
+    "url": "http://www.toyotasb.com",
+    "address": {
+        "address": "765 Showcase Drive",
+        "city": "San Bernardino",
+        "state": "CA"
+    },
+    "phone": "909/381-4444"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Toyota Place",
+    "url": "http://www.toyotaplace.com",
+    "address": {
+        "address": "9670 Trask Ave",
+        "city": "Garden Grove",
+        "state": "CA"
+    },
+    "phone": "714/895-5595"
+}, {
+    "maker": {
+        "id": "31",
+        "name": "TOYOTA"
+    },
+    "name": "Tustin Toyota",
+    "url": "http://www.tustintoyota.com/",
+    "address": {
+        "address": "36 Auto Center Dr.",
+        "city": "Tustin",
+        "state": "CA"
+    },
+    "phone": "714/832-3111"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "Capistrano Volkswagen",
+    "url": "http://www.capovw.com/",
+    "address": {
+        "address": "32922 Valle Rd.",
+        "city": "San Juan Capistrano",
+        "state": "CA"
+    },
+    "phone": "949/493-4511"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "Car Pros Volkswagen of San Bernardino",
+    "url": "http://www.vwsb.com ",
+    "address": {
+        "address": "1600 S. Camino Real",
+        "city": "San Bernardino",
+        "state": "CA"
+    },
+    "phone": "888/707-5091"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "CardinaleWay VW",
+    "url": "http://www.vwcorona.com",
+    "address": {
+        "address": "2603 Wardlow Rd",
+        "city": "Corona",
+        "state": "CA"
+    },
+    "phone": "951/547-1093"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "McKenna Volkswagen",
+    "url": "http://www.mckennavwhb.com/",
+    "address": {
+        "address": "18711 Beach Blvd.",
+        "city": "Huntington Beach",
+        "state": "CA"
+    },
+    "phone": "714/842-2000"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "McKenna VW Cerritos",
+    "url": "http://www.mckennavwcerritos.com/",
+    "address": {
+        "address": "18303 Studebaker Rd.",
+        "city": "Cerritos",
+        "state": "CA"
+    },
+    "phone": "562/653-9000"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "Norm Reeves Volkswagen Superstore",
+    "url": "http://www.normreevesvw.com",
+    "address": {
+        "address": "20 Auto Center Dr",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "949/830-7300"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "Ontario Volkswagen",
+    "url": "http://www.ontariovolkswagen.com",
+    "address": {
+        "address": "701 S. Kettering Dr.",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "909/605-5800"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "Puente Hills Volkswagen",
+    "url": "http://www.vwpuentehills.com",
+    "address": {
+        "address": "17110 Gale Ave",
+        "city": "City of Industry",
+        "state": "CA"
+    },
+    "phone": "626/965-7500"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "Riverside Volkswagen",
+    "url": "http://www.vwriverside.com",
+    "address": {
+        "address": "8330 Indiana Ave.",
+        "city": "Riverside",
+        "state": "CA"
+    },
+    "phone": "888/745-3389"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "Timmons of Long Beach",
+    "url": "http://www.timmonssubaru.com",
+    "address": {
+        "address": "3940 Cherry Avenue",
+        "city": "Long Beach",
+        "state": "CA"
+    },
+    "phone": "562/595-4601"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "Volkswagen of Garden Grove",
+    "url": "http://www.vwofgardengrove.com",
+    "address": {
+        "address": "10800 Trask Ave",
+        "city": "Garden Grove",
+        "state": "CA"
+    },
+    "phone": "888/739-5738"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "Volkswagen of Kearny Mesa",
+    "url": "http://www.vwofkearnymesa.com",
+    "address": {
+        "address": "8040 Balboa Ave",
+        "city": "San Diego",
+        "state": "CA"
+    },
+    "phone": "888/332-9801"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "Volkswagen of Orange",
+    "url": "http://www.vwoforange.com",
+    "address": {
+        "address": "210 W. Katella Ave.",
+        "city": "Orange",
+        "state": "CA"
+    },
+    "phone": "714/656-2713"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "Volkswagen Santa Monica",
+    "url": "http://www.volkswagensantamponica.com",
+    "address": {
+        "address": "2440 Santa Monica Blvd",
+        "city": "Santa Monica",
+        "state": "CA"
+    },
+    "phone": "310/570-2449"
+}, {
+    "maker": {
+        "id": "32",
+        "name": "VOLKSWAGEN"
+    },
+    "name": "Volkswagen South Coast",
+    "url": "http://www.commonwealthvw.com",
+    "address": {
+        "address": "1450 Auto Mall Dr.",
+        "city": "Santa Ana",
+        "state": "CA"
+    },
+    "phone": "855/815-8802"
+}, {
+    "maker": {
+        "id": "33",
+        "name": "VOLVO"
+    },
+    "name": "AutoNation Volvo Irvine",
+    "url": "http://www.volvoirvine.com",
+    "address": {
+        "address": "44 Auto Center Dr",
+        "city": "Irvine",
+        "state": "CA"
+    },
+    "phone": "866/259-7834"
+}, {
+    "maker": {
+        "id": "33",
+        "name": "VOLVO"
+    },
+    "name": "AutoNation Volvo South Bay",
+    "url": "http://www.autonationvolvosouthbay.com",
+    "address": {
+        "address": "3010 Pacific Coast Hwy.",
+        "city": "Torrance",
+        "state": "CA"
+    },
+    "phone": "310/325-3255"
+}, {
+    "maker": {
+        "id": "33",
+        "name": "VOLVO"
+    },
+    "name": "Ontario Volvo",
+    "url": "http://www.ontariovolvo.com",
+    "address": {
+        "address": "1300 Auto Center Drive",
+        "city": "Ontario",
+        "state": "CA"
+    },
+    "phone": "909/605-5700"
+}, {
+    "maker": {
+        "id": "33",
+        "name": "VOLVO"
+    },
+    "name": "Volvo Cars Mission Viejo",
+    "url": "http://www.volvomv.com",
+    "address": {
+        "address": "28730 Marguerite Pkwy",
+        "city": "Mission Viejo",
+        "state": "CA"
+    },
+    "phone": "949/245-6439"
+}, {
+    "maker": {
+        "id": "33",
+        "name": "VOLVO"
+    },
+    "name": "Volvo of Orange County",
+    "url": "http://www.volvoofoc.com/",
+    "address": {
+        "address": "1400 Dan Gurney Dr.",
+        "city": "Santa Ana",
+        "state": "CA"
+    },
+    "phone": "714/560-6950"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "Auto Bank Center Inc.",
+    "url": "http://www.autobankctr.com",
+    "address": {
+        "address": "8391 Bolsa Ave.",
+        "city": "Midway City",
+        "state": "CA"
+    },
+    "phone": "714/898-2880"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "Auto Republic",
+    "url": "http://www.theautorepublic.com",
+    "address": {
+        "address": "1890 W. Commonwealth Ave",
+        "city": "Fullerton",
+        "state": "CA"
+    },
+    "phone": "714/525-0550"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "California Beemers",
+    "url": "http://www.californiabeemers.com",
+    "address": {
+        "address": "2845 Harbor Blvd",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/444-2300"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "Corona Autoplex",
+    "url": "http://www.coronaautoplex.com",
+    "address": {
+        "address": "2268 Frontage Rd.",
+        "city": "Corona",
+        "state": "CA"
+    },
+    "phone": "951/273-9999"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "Deluxe Auto Dealer",
+    "url": "http://www.deluxeautodealer.com",
+    "address": {
+        "address": "8122 Bolsa Ave.",
+        "city": "Midway City",
+        "state": "CA"
+    },
+    "phone": "714/894-9665"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "EuroCar, Inc.",
+    "url": "http://www.eurocaroc.com",
+    "address": {
+        "address": "2920 Red Hill Avenue",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "949/722-7121"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "FamVans",
+    "url": "http://www.famvans.com",
+    "address": {
+        "address": "10870 Kalama River Ave",
+        "city": "Fountain Valley",
+        "state": "CA"
+    },
+    "phone": "714/274-1144"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "Hertz Car Sales",
+    "url": "http://www.hertzcarsalescostamesa.com",
+    "address": {
+        "address": "3130 Harbor Blvd",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/434-3721"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "Hertz car Sales",
+    "url": "www.hertzcarsalesanaheim.com",
+    "address": {
+        "address": "1600 W. Lincoln Street",
+        "city": "Anaheim",
+        "state": "CA"
+    },
+    "phone": "714/422-0029"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "Nash Auto Inc.",
+    "url": "http://www.NashAuto.com",
+    "address": {
+        "address": "2665 Harbor Blvd.",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "714/435-4000"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "Newport Coast Auto",
+    "url": "http://www.newportcoastauto.com",
+    "address": {
+        "address": "1719 Pomona Ave",
+        "city": "Costa Mesa",
+        "state": "CA"
+    },
+    "phone": "949/515-0800"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)",
+    "url": "http://www.qualitychevrolet.com",
+    "address": {
+        "address": "1550 Auto Park Way",
+        "city": "Escondido",
+        "state": "CA"
+    },
+    "phone": "760/884-8140"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "OC AutoHaus",
+    "url": "http://www.ocautohaus.com",
+    "address": {
+        "address": "13631 Beach Blvd",
+        "city": "Westminster",
+        "state": "CA"
+    },
+    "phone": "714/534-1426"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "Phillips Auto",
+    "url": "http://www.phillipsauto.com",
+    "address": {
+        "address": "1220 West Coast Hwy",
+        "city": "Newport Beach",
+        "state": "CA"
+    },
+    "phone": "949/574-7777"
+}, {
+    "maker": {
+        "id": "37",
+        "name": "NON-FRANCHISED DEALERS (USED CAR DEALERS)"
+    },
+    "name": "Plug-In Auto (Pre-Owned)",
+    "url": "http://www.pluginauto.com",
+    "address": {
+        "address": "85 Auto Center Dr.",
+        "city": "Pomona",
+        "state": "CA"
+    },
+    "phone": "909/469-9200"
+}]

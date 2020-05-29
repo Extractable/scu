@@ -11,15 +11,9 @@
         <form action="">
             <div class="form-group">
                 <div>
-                    <label for="state">Select Make<span>*</span></label>
-                    <select id="state" aria-required="true" class="js-validate">
+                    <label for="maker">Select Make<span>*</span></label>
+                    <select id="maker" aria-required="true" class="js-validate">
 						<option selected="" value="">Please Select</option>
-						<option value="1">Topic 1</option>
-						<option value="1">Topic 2</option>
-						<option value="1">Topic 3</option>
-						<option value="1">Topic 4</option>
-						<option value="1">Topic 5</option>
-						<option value="1">Topic 6</option>
 					</select>
                     <div class="form-error" id="state-error" tabindex="-1">
     					Please enter select a make.
@@ -49,8 +43,33 @@
             </div>
         </form>
 
+        <div id="dealers"></div>
+
         <script>
             $(function() {
+                let maker = $('#maker');
+                let dealers = $('#dealers');
+
+                //Generate Maker List
+                $.ajax({
+                    type: 'GET',
+                    url: "/json/makers.json",
+                    success: function(result){
+
+                        let clean = result.filter((arr, index, self) =>
+                            index === self.findIndex((t) => (t.maker.name === arr.maker.name)))
+
+                        $.each(clean, function(idx, obj) {
+                            let make = obj.maker.name;
+                            let id = obj.maker.id;
+
+                            maker.append('<option value="' + id + '">' + make +'</option>');
+                        });
+
+                    }
+                });
+
+                //Form Error Checking
                 $('#searchDealers').on('click', function(e) {
                     let form = $(this).closest('form');
 
@@ -122,9 +141,55 @@
                         $('[aria-invalid="true"]:first', form).focus();
                         e.preventDefault();
                     } else {
-                        //Allow form to be submitted
-                    }
 
+                        let getList = function() {
+                            //Generate Maker List
+                            let make = $('#maker').val();
+                            let zip = $('#zip').val().trim();
+                            let city = $('#city').val().trim();
+
+                            let searchFrom;
+                            if( zip != '' ) {
+                                searchFrom = zip;
+                            } else {
+                                searchFrom = city;
+                            }
+
+                            $.ajax({
+                                type: 'GET',
+                                //url: "//gateway-backbase.rho-dev.octfcu.org/gateway/api/direct-integration-service/v1/fasttrack/search?autoMakerId="+ make + "&zipcode=" + searchFrom,
+                                url: "/json/dealers.json",
+
+                                success: function(dealerList){
+                                    console.log(dealerList);
+                                    $.each(dealerList, function(idx, obj) {
+                                        let name = obj.dealer.name,
+                                            address = obj.dealer.address.address,
+                                            city = obj.dealer.address.city,
+                                            state = obj.dealer.address.state,
+                                            phone = obj.dealer.phone,
+                                            url = obj.dealer.url,
+                                            distance = obj.distance.value,
+                                            distanceFrom = obj.distanceFrom;
+
+                                        dealers.append(
+                                            '<div class="dealer">' +
+                                                '<h3><a href="' + url + '">' + name + '</a></h3>' +
+                                                '<p>' + address + '<br>' +
+                                                    city + ', ' + state + zip + '<br>' +
+                                                    'Phone: ' + phone + '<br>' +
+                                                    distance + ' miles from ' + distanceFrom +
+                                                '</p>' +
+                                            '</div>'
+                                        );
+                                    });
+
+                                }
+                            });
+
+                        }
+                        getList();
+                    }
                 });
             });
         </script>

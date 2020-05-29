@@ -8222,7 +8222,8 @@ ul.skip-links {
   border-bottom: 1px solid #b9c7d4;
   background: 0; }
   .form form input[type=file]::-webkit-file-upload-button {
-    display: none; }
+    visibility: hidden;
+    text-indent: -100px; }
 
 .form form label.file {
   color: #AF5607;
@@ -9549,6 +9550,32 @@ footer {
       display: inline-block;
       width: 1em;
       margin-left: -1em; }
+  .m8 .scrollable {
+    overflow: hidden;
+    display: block; }
+  .m8 .scroll {
+    display: block; }
+  .m8 table.inline {
+    width: 99%;
+    min-width: 688px;
+    table-layout: fixed;
+    border-top: 4px solid #b78521; }
+    .m8 table.inline th, .m8 table.inline td {
+      padding: 10px; }
+    .m8 table.inline th {
+      background: #2D4452;
+      font-weight: 300;
+      color: #fff; }
+    .m8 table.inline td {
+      background: #fff;
+      border: 1px solid #b9c7d4;
+      color: #2d4452; }
+  @media (max-width: 991.98px) {
+    .m8 .scrollable {
+      padding-right: 0; }
+    .m8 .scroll {
+      overflow-x: scroll;
+      padding-bottom: 10px; } }
 
 .m9 {
   padding-top: 30px;
@@ -9735,6 +9762,18 @@ footer {
       font-size: 12px;
       font-size: 0.75rem;
       line-height: 1.8em; }
+    .m12 .disclosures h3 {
+      color: #000;
+      font-size: 16px;
+      font-size: 1rem; }
+    .m12 .disclosures h4 {
+      color: #000;
+      font-size: 14px;
+      font-size: 0.875rem;
+      margin-bottom: 10px; }
+    .m12 .disclosures ul, .m12 .disclosures ol {
+      font-size: 12px;
+      font-size: 0.75rem; }
   .m12 hr {
     margin: 30px 0 30px 0;
     padding: 0;
@@ -10279,6 +10318,12 @@ footer {
             .m17 .form .form-group > div.pick-one {
               width: auto;
               padding-top: 0; } }
+  .m17 #dealers {
+    margin-top: 60px; }
+    .m17 #dealers .dealer {
+      margin-bottom: 40px; }
+      .m17 #dealers .dealer h3 {
+        color: #3B6E8F; }
 
 .m18 {
   margin: 0;

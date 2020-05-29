@@ -80,4 +80,46 @@
             margin-left: -1em;
         }
     }
+
+    .scrollable {
+        overflow: hidden;
+        display: block;
+    }
+
+    .scroll {
+        display: block;
+    }
+
+    table.inline {
+        width: 99%;
+        min-width: 688px;
+        table-layout: fixed;
+        border-top: 4px solid $primary-5;
+
+        th, td {
+            padding: 10px;
+        }
+
+        th {
+            background: $secondary;
+            font-weight: 300;
+            color: $white;
+        }
+
+        td {
+            background: $white;
+            border: 1px solid #b9c7d4;
+            color: #2d4452;
+        }
+    }
+
+    @include media-breakpoint-down(md) {
+        .scrollable {
+            padding-right: 0;
+        }
+        .scroll {
+            overflow-x: scroll;
+            padding-bottom: 10px;
+        }
+    }
 }

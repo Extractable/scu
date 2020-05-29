@@ -1,0 +1,16 @@
+[{
+    "id": "SCHOOL",
+    "name": "School"
+}, {
+    "id": "DISTRICT",
+    "name": "District"
+}, {
+    "id": "EDUCATION_FOUNDATION",
+    "name": "Education Foundation"
+}, {
+    "id": "EDUCATIONAL_RELATED_ORGANIZATION",
+    "name": "Educational Related Organization"
+}, {
+    "id": "NON_PROFIT_COMMUNITY_ORGANIZATION",
+    "name": "Non-Profit Community Organization"
+}]
