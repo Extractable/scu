@@ -16,6 +16,7 @@
 
 <script src="/javascripts/vendor/modernizr-custom.js"></script>
 <script src="/javascripts/vendor/jquery.maskedinput.min.js"></script>
+<script src="/javascripts/vendor/iframeResizer.min.js"></script>
 
 <script src="/javascripts/main.js"></script>
 
@@ -809,6 +810,25 @@
     $('.m16 .accordion').collapse({
         toggle: true
     })
+</script>
+
+
+    <!-- m10: Calculator -->
+    <div class="m10">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <iframe id="calcFrame" src="https://www.fintactix.com/schoolsfirst/tools/auto/a01" width="100%" title="Calculate a Vehicle Payment" scrolling="no" frameBorder="0"></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    $(function() {
+        $('#calcFrame').iFrameResize();
+    });
 </script>
 
 
