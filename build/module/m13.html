@@ -17,6 +17,8 @@
 <script src="/javascripts/vendor/modernizr-custom.js"></script>
 <script src="/javascripts/vendor/jquery.maskedinput.min.js"></script>
 <script src="/javascripts/vendor/iframeResizer.min.js"></script>
+<script src="/javascripts/vendor/jquery.scrollbar.min.js"></script>
+<script src="/javascripts/vendor/jquery.matchHeight-min.js"></script>
 
 <script src="/javascripts/main.js"></script>
 
@@ -98,6 +100,19 @@
             </div>
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="content">
+                    <h2><img src="/images/icons/icon-house.svg" alt="" class="icon" aria-hidden="true"> MORTGAGE LOAN SERVICING</h2>
+                    <hr>
+                    <p>Qualified Written Requests, notifications of error, or requests for information concerning your loan must be directed to: </p>
+                    <h3>
+                        <strong>SchoolsFirst FCU<br>
+                        Attention:Loan Servicing<br>
+                        15442 Newport Avenue <br>
+                        Tustin, CA 92780</strong>
+                    </h3>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="content">
                     <h2><img src="/images/icons/icon-lock.svg" alt="" class="icon" aria-hidden="true"> SECURE MESSAGE</h2>
                     <hr>
                     <h3>Log into Online Banking to send a secure message.</h3>
@@ -122,22 +137,17 @@
                     <p><a href="#"><strong>CURRENT BRANCH WAIT TIMES</strong> <span class="oi oi-chevron-right" title="icon chevron-right" aria-hidden="true"></span></a></p>
                 </div>
             </div>
-            <div class="col-12 col-md-6 col-lg-4">
-                <div class="content">
-                    <h2><img src="/images/icons/icon-house.svg" alt="" class="icon" aria-hidden="true"> MORTGAGE LOAN SERVICING</h2>
-                    <hr>
-                    <p>Qualified Written Requests, notifications of error, or requests for information concerning your loan must be directed to: </p>
-                    <h3>
-                        <strong>SchoolsFirst FCU<br>
-                        Attention:Loan Servicing<br>
-                        15442 Newport Avenue <br>
-                        Tustin, CA 92780</strong>
-                    </h3>
-                </div>
-            </div>
         </div>
     </div>
 </section>
+
+<script>
+    $(function() {
+        $('.m13 .content h2').matchHeight({
+            byRow: true
+        });
+    });
+</script>
 
             </div>
             <div class="col-12 col-lg-3">

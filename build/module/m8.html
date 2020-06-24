@@ -17,6 +17,8 @@
 <script src="/javascripts/vendor/modernizr-custom.js"></script>
 <script src="/javascripts/vendor/jquery.maskedinput.min.js"></script>
 <script src="/javascripts/vendor/iframeResizer.min.js"></script>
+<script src="/javascripts/vendor/jquery.scrollbar.min.js"></script>
+<script src="/javascripts/vendor/jquery.matchHeight-min.js"></script>
 
 <script src="/javascripts/main.js"></script>
 
@@ -129,7 +131,7 @@
     </p>
 
     <div class="scrollable">
-        <div class="scroll">
+        <div class="scroll scrollbar-dynamic">
             <table class="inline">
                 <tr>
                     <th>Minimum Balance</th>
@@ -154,6 +156,12 @@
             </table>
         </div>
     </div>
+
+    <script>
+        $(function() {
+            jQuery('.scrollbar-dynamic').scrollbar();
+        });
+    </script>
 
     <!-- Disclosures -->
     <div class="m9">

@@ -19,6 +19,9 @@ Version: 1.0
 //Costum Bootstrap
 @import 'scss/bootstrap/_bootstrap-custom';
 
+//Vendors
+@import 'scss/vendor/jquery.scrollbar.scss';
+
 //Components
 //@import url("bootstrap-datepicker.css");
 @import 'scss/components/_login-desktop';

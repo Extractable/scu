@@ -87,7 +87,7 @@
     </p>
 
     <div class="scrollable">
-        <div class="scroll">
+        <div class="scroll scrollbar-dynamic">
             <table class="inline">
                 <tr>
                     <th>Minimum Balance</th>
@@ -112,6 +112,12 @@
             </table>
         </div>
     </div>
+
+    <script>
+        $(function() {
+            jQuery('.scrollbar-dynamic').scrollbar();
+        });
+    </script>
 
     <!-- Disclosures -->
     <%= partial "/modules/_m9" %>
