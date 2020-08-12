@@ -151,6 +151,7 @@ $normal: 400;
 
             &:last-child {
             	border-right: 0;
+				padding-left: 80px;
             }
 
             @include respond-at(767px) {
@@ -244,6 +245,22 @@ $normal: 400;
         border-top: 5px solid $color_codewrap_border;
         border-bottom: 5px solid $color_codewrap_border;
     }
+}
+
+.video-wrapper {
+	height: 100%;
+	padding: 100px 40px;
+	@include clearfix();
+	background: #333;
+}
+
+.video-wrapper video {
+	width: 100%;
+}
+
+.video-wrapper h2 {
+	color: $white;
+	margin-bottom: 20px;
 }
 
 
